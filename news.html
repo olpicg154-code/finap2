@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="UTF-8">
+    <title>FinAP News</title>
+
+    <style>
+        body {
+            background: #0a1230;
+            color: white;
+            font-family: Arial;
+            padding: 20px;
+        }
+
+
+        h2 {
+            display: flex;
+            align-items: center;
+        }
+
+
+        #newsCount {
+            background: red;
+            border-radius: 50%;
+            padding: 4px 8px;
+            font-size: 12px;
+            margin-left: 10px;
+        }
+
+
+        /* ГОЛОВНА */
+        .main-news {
+
+            background: linear-gradient(135deg, #182cff, #00d9ff);
+
+            padding: 25px;
+
+            border-radius: 15px;
+
+            margin-bottom: 20px;
+
+            cursor: pointer;
+
+        }
+
+
+
+        .main-label {
+
+            background: #ffcc00;
+
+            color: black;
+
+            display: inline-block;
+
+            padding: 5px 12px;
+
+            border-radius: 20px;
+
+            font-size: 12px;
+
+            font-weight: bold;
+
+            margin-bottom: 10px;
+
+        }
+
+
+
+        .title {
+
+            font-weight: bold;
+
+            font-size: 18px;
+
+        }
+
+
+        .short {
+
+            margin-top: 10px;
+
+            opacity: .85;
+
+        }
+
+
+        .badge {
+
+            display: inline-block;
+
+            padding: 5px 10px;
+
+            background: rgba(255, 255, 255, .15);
+
+            border-radius: 20px;
+
+            font-size: 12px;
+
+            margin-bottom: 8px;
+
+        }
+
+
+
+        /* КАРТКИ */
+
+        .card {
+
+            background: #111a3a;
+
+            padding: 15px;
+
+            border-radius: 10px;
+
+            margin-bottom: 15px;
+
+            cursor: pointer;
+
+            position: relative;
+
+        }
+
+
+
+        /* TOP 3 */
+
+        .top-label {
+
+            position: absolute;
+
+            right: 10px;
+
+            top: 10px;
+
+            background: #ffd700;
+
+            color: black;
+
+            padding: 4px 10px;
+
+            border-radius: 15px;
+
+            font-size: 11px;
+
+            font-weight: bold;
+
+        }
+
+
+        .meta {
+
+            color: #00eaff;
+
+            font-size: 12px;
+
+            margin-top: 10px;
+
+        }
+
+
+
+        .new {
+
+            position: absolute;
+
+            right: 10px;
+
+            bottom: 10px;
+
+            background: red;
+
+            padding: 3px 8px;
+
+            border-radius: 10px;
+
+            font-size: 10px;
+
+        }
+    </style>
+
+</head>
+
+
+<body>
+
+
+    <h2>
+
+        FinAP News
+
+        <span id="newsCount"></span>
+
+    </h2>
+
+
+    <div id="main"></div>
+
+    <div id="news"></div>
+
+
+
+    <script>
+
+
+        const viewed = JSON.parse(localStorage.getItem("viewedNews") || "[]");
+
+
+        fetch("data/news.json")
+
+
+            .then(res => res.json())
+
+
+            .then(data => {
+
+
+                const main = document.getElementById("main");
+
+                const news = document.getElementById("news");
+
+
+                let count = 0;
+
+
+
+                data.forEach(item => {
+
+
+                    const isNew = !viewed.includes(item.title);
+
+
+                    if (isNew) count++;
+
+
+
+                    // ГОЛОВНА
+
+                    if (item.top === "main") {
+
+
+                        const div = document.createElement("div");
+
+                        div.className = "main-news";
+
+
+                        div.innerHTML = `
+
+<div class="main-label">
+🔥 ГОЛОВНА
+</div>
+
+<div class="badge">
+${item.badge}
+</div>
+
+
+<div class="title">
+${item.title}
+</div>
+
+
+<div class="short">
+${item.short}
+</div>
+
+
+`;
+
+
+                        div.onclick = () => openArticle(item);
+
+
+                        main.appendChild(div);
+
+
+                        return;
+
+                    }
+
+
+
+
+                    // TOP 3
+
+                    const div = document.createElement("div");
+
+
+                    div.className = "card";
+
+
+
+                    div.innerHTML = `
+
+${item.top === "top" ?
+                            '<div class="top-label">⭐ TOP 3</div>'
+                            : ''}
+
+
+
+${isNew ? '<div class="new">NEW</div>' : ''}
+
+
+
+<div class="badge">
+${item.badge}
+</div>
+
+
+<div class="title">
+${item.title}
+</div>
+
+
+<div class="short">
+${item.short}
+</div>
+
+
+<div class="meta">
+
+${item.date} | ${item.category}
+
+</div>
+
+
+`;
+
+
+
+                    div.onclick = () => openArticle(item);
+
+
+                    news.appendChild(div);
+
+
+
+                });
+
+
+
+                document.getElementById("newsCount").innerText =
+                    count ? "+" + count : "";
+
+
+
+            })
+
+
+
+            .catch(() => {
+
+                document.body.innerHTML = "Помилка завантаження новин";
+
+            });
+
+
+
+
+        function openArticle(item) {
+
+
+            let viewed =
+                JSON.parse(localStorage.getItem("viewedNews") || "[]");
+
+
+            if (!viewed.includes(item.title)) {
+
+
+                viewed.push(item.title);
+
+
+                localStorage.setItem(
+                    "viewedNews",
+                    JSON.stringify(viewed)
+                );
+
+
+            }
+
+
+
+            localStorage.setItem(
+                "article",
+                JSON.stringify(item)
+            );
+
+
+
+            window.location.href = "article.html";
+
+
+        }
+
+
+
+    </script>
+
+
+</body>
+
+</html>

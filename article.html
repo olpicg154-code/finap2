@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>FinAP News</title>
+
+<style>
+
+body{
+margin:0;
+background:linear-gradient(135deg,#050d24,#10285a);
+color:white;
+font-family:Arial,sans-serif;
+}
+
+
+.header{
+
+position:fixed;
+top:0;
+left:0;
+right:0;
+height:75px;
+
+display:flex;
+align-items:center;
+
+padding:0 40px;
+
+background:rgba(5,15,40,.85);
+backdrop-filter:blur(12px);
+
+z-index:10;
+
+}
+
+
+.header img{
+height:45px;
+}
+
+
+.back{
+
+margin-left:auto;
+
+padding:12px 30px;
+
+border-radius:30px;
+
+border:1px solid #00eaff;
+
+color:white;
+
+text-decoration:none;
+
+}
+
+
+
+.article{
+
+max-width:1000px;
+
+margin:auto;
+
+padding:120px 35px 60px;
+
+}
+
+
+
+.top-line{
+
+display:flex;
+
+gap:15px;
+
+align-items:center;
+
+flex-wrap:wrap;
+
+}
+
+
+
+.badge{
+
+padding:10px 25px;
+
+border-radius:30px;
+
+background:rgba(0,234,255,.12);
+
+border:1px solid #00eaff;
+
+}
+
+
+
+.smart-btn{
+
+padding:12px 25px;
+
+border-radius:30px;
+
+background:rgba(5,15,40,.9);
+
+border:1px solid #00eaff;
+
+color:white;
+
+font-weight:bold;
+
+cursor:pointer;
+
+}
+
+
+
+.smart-btn:hover{
+
+box-shadow:0 0 25px #00eaff;
+
+}
+
+
+
+.date{
+
+margin-top:15px;
+
+opacity:.7;
+
+}
+
+
+
+h1{
+
+font-size:42px;
+
+}
+
+
+
+.image{
+
+width:100%;
+
+height:420px;
+
+margin:30px 0;
+
+border-radius:25px;
+
+overflow:hidden;
+
+}
+
+
+.image img{
+
+width:100%;
+height:100%;
+
+object-fit:cover;
+
+}
+
+
+
+.block{
+
+margin-top:25px;
+
+padding:30px;
+
+background:rgba(255,255,255,.07);
+
+border-radius:25px;
+
+}
+
+
+
+.block h2{
+
+color:#00eaff;
+
+}
+
+
+
+.text{
+
+font-size:19px;
+
+line-height:1.7;
+
+}
+
+
+
+.analysis{
+
+border:1px solid #00eaff;
+
+}
+
+
+.impact{
+
+border:1px solid gold;
+
+}
+
+
+
+.source{
+
+display:inline-block;
+
+margin-top:30px;
+
+padding:15px 35px;
+
+border-radius:30px;
+
+background:#00eaff;
+
+color:#05122d;
+
+text-decoration:none;
+
+font-weight:bold;
+
+}
+
+
+
+/* SMART WINDOW */
+
+
+.ai-overlay{
+
+display:none;
+
+position:fixed;
+
+inset:0;
+
+background:rgba(0,0,0,.7);
+
+backdrop-filter:blur(8px);
+
+z-index:999;
+
+align-items:center;
+
+justify-content:center;
+
+}
+
+
+
+.ai-box{
+
+width:600px;
+
+max-width:90%;
+
+padding:35px;
+
+border-radius:30px;
+
+background:#07152f;
+
+border:1px solid #00eaff;
+
+box-shadow:0 0 40px #00eaff;
+
+}
+
+
+
+.ai-box h2{
+
+color:#00eaff;
+
+}
+
+
+
+.close{
+
+float:right;
+
+font-size:28px;
+
+cursor:pointer;
+
+}
+
+
+</style>
+
+
+</head>
+
+
+<body>
+
+
+<div class="header">
+
+<img src="logo.png">
+
+<a href="news.html" class="back">
+← Назад
+</a>
+
+</div>
+
+
+
+<div class="article" id="article">
+
+Завантаження...
+
+</div>
+
+
+
+<div class="ai-overlay" id="aiOverlay">
+
+
+<div class="ai-box">
+
+
+<span class="close" onclick="closeAI()">
+×
+</span>
+
+
+<h2>
+🧠 Smart FinAP
+</h2>
+
+
+<div id="aiText">
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+<script src="js/smart-ai.js"></script>
+
+
+<script>
+
+
+const news =
+JSON.parse(localStorage.getItem("article"));
+
+
+
+const box =
+document.getElementById("article");
+
+
+
+if(news){
+
+
+box.innerHTML=`
+
+<div class="top-line">
+
+<div class="badge">
+
+${news.badge || news.category}
+
+</div>
+
+
+<button class="smart-btn" onclick="showSmart()">
+
+🧠 Smart FinAP
+
+</button>
+
+</div>
+
+
+<div class="date">
+
+${news.date}
+
+</div>
+
+
+<h1>
+
+${news.title}
+
+</h1>
+
+
+
+<div class="image">
+
+<img src="${news.image}">
+
+</div>
+
+
+
+<div class="block">
+
+<h2>
+Коротко
+</h2>
+
+<div class="text">
+
+${news.short}
+
+</div>
+
+</div>
+
+
+
+
+<div class="block">
+
+<h2>
+Що відбулося
+</h2>
+
+<div class="text">
+
+${news.content}
+
+</div>
+
+</div>
+
+
+
+
+<div class="block analysis">
+
+<h2>
+🔎 Аналітика FinAP
+</h2>
+
+<div class="text">
+
+${news.analysis}
+
+</div>
+
+</div>
+
+
+
+
+<div class="block impact">
+
+<h2>
+🇺🇦 Вплив на Україну
+</h2>
+
+<div class="text">
+
+${news.impact}
+
+</div>
+
+</div>
+
+
+
+
+<a class="source"
+href="${news.source}"
+target="_blank">
+
+Перейти до джерела →
+
+</a>
+
+
+`;
+
+}
+
+
+
+function showSmart(){
+
+
+let ai =
+smartAnalyze(news);
+
+
+
+document.getElementById("aiOverlay").style.display="flex";
+
+
+
+document.getElementById("aiText").innerHTML=`
+
+<b>Для кого важливо:</b><br>
+
+${ai.audience.join("<br>")}
+
+
+<br><br>
+
+
+<b>Рівень впливу:</b><br>
+
+${ai.risk}
+
+
+<br><br>
+
+
+<b>Що це означає:</b><br>
+
+${ai.meaning}
+
+
+<br><br>
+
+
+<b>Що робити бізнесу:</b><br>
+
+${ai.action.join("<br>")}
+
+`;
+
+}
+
+
+
+function closeAI(){
+
+document.getElementById("aiOverlay").style.display="none";
+
+}
+
+
+</script>
+
+
+</body>
+
+</html>

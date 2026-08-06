@@ -1,0 +1,93 @@
+﻿[
+  {
+    "name": "Національний банк України",
+    "type": "Україна",
+    "url": "https://bank.gov.ua"
+  },
+  {
+    "name": "НБУ фінмоніторинг",
+    "type": "Україна",
+    "url": "https://bank.gov.ua"
+  },
+  {
+    "name": "Державна служба фінансового моніторингу України",
+    "type": "Україна",
+    "url": "https://fiu.gov.ua"
+  },
+  {
+    "name": "Міністерство фінансів України",
+    "type": "Україна",
+    "url": "https://mof.gov.ua"
+  },
+  {
+    "name": "Кіберполіція Україна шахрайство",
+    "type": "Україна",
+    "url": "https://cyberpolice.gov.ua"
+  },
+  {
+    "name": "шахрайство банківські картки Україна",
+    "type": "Україна",
+    "url": ""
+  },
+  {
+    "name": "дропи банківські рахунки шахрайство",
+    "type": "Україна",
+    "url": ""
+  },
+  {
+    "name": "AntiFraudHub Україна банки шахрайство",
+    "type": "Україна",
+    "url": ""
+  },
+  {
+    "name": "платіжні системи Україна новини",
+    "type": "Україна",
+    "url": ""
+  },
+  {
+    "name": "банки Україна новини",
+    "type": "Україна",
+    "url": ""
+  },
+  {
+    "name": "FATF",
+    "type": "Міжнародні",
+    "url": "https://www.fatf-gafi.org"
+  },
+  {
+    "name": "AML compliance banks",
+    "type": "Міжнародні",
+    "url": ""
+  },
+  {
+    "name": "financial crime AML news",
+    "type": "Міжнародні",
+    "url": ""
+  },
+  {
+    "name": "OFAC sanctions",
+    "type": "Міжнародні",
+    "url": "https://ofac.treasury.gov"
+  },
+  {
+    "name": "sanctions Russia banking",
+    "type": "Міжнародні",
+    "url": ""
+  },
+  {
+    "name": "fraud banking global",
+    "type": "Міжнародні",
+    "url": ""
+  },
+  {
+    "name": "cyber fraud finance",
+    "type": "Міжнародні",
+    "url": ""
+  },
+  {
+    "name": "fintech regulation Europe",
+    "type": "Міжнародні",
+    "url": ""
+  }
+]
+

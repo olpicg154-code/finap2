@@ -1,0 +1,11 @@
+﻿{
+  "name": "finap",
+  "version": "1.0.0",
+  "main": "js/news-engine.js",
+  "scripts": {
+    "start": "node js/news-engine.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
