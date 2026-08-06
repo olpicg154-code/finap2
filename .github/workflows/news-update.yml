@@ -28,8 +28,10 @@ jobs:
 
       - name: Run FinAP Engine
         run: node js/news-engine.js
-- name: Add AI analysis
-  run: node api-ai/analyze-news.js
+
+      - name: Add AI analysis
+        run: node api-ai/analyze-news.js
+
       - name: Save updated news
         run: |
           git config --global user.name "FinAP Bot"
