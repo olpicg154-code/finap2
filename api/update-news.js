@@ -5,66 +5,115 @@ const parser = new Parser({
 });
 
 let CACHE = null;
-let LAST_UPDATE = 0;
+let LAST = 0;
 
-function clean(title) {
-  return title.replace(/\s+-\s+.*$/, "").trim();
+function clean(t){
+  return t.replace(/\s+-\s+.*$/,"").trim();
 }
 
-export default async function handler(req, res) {
-  try {
+function topic(title){
 
-    // кеш на 30 хв
-    if (CACHE && Date.now() - LAST_UPDATE < 30 * 60 * 1000) {
+  const t = title.toLowerCase();
+
+  if(t.includes("шахрай") || t.includes("фішинг")) return "fraud";
+  if(t.includes("санкц") || t.includes("рос")) return "sanctions";
+  if(t.includes("нбу")) return "nbu";
+  if(t.includes("платіж") || t.includes("картк")) return "payments";
+  if(t.includes("fatf") || t.includes("фінмон")) return "aml";
+
+  return "other";
+}
+
+function badge(t){
+  return {
+    fraud:"⚠️ ШАХРАЙСТВО",
+    sanctions:"🔴 Санкції",
+    nbu:"🟢 НБУ",
+    payments:"💳 Платежі",
+    aml:"🟣 AML",
+    other:"⚪ Інше"
+  }[t];
+}
+
+function short(t){
+  return {
+    fraud:"Ризики шахрайства.",
+    sanctions:"Санкції впливають.",
+    nbu:"Рішення НБУ.",
+    payments:"Зміни платежів.",
+    aml:"Посилення фінмоніторингу.",
+    other:"Важлива фінансова подія."
+  }[t];
+}
+
+export default async function handler(req,res){
+
+  try{
+
+    // кеш 30 хв
+    if(CACHE && Date.now()-LAST < 30*60*1000){
       return res.status(200).json(CACHE);
     }
 
-    const sources = [
-      { name: "НБУ" },
-      { name: "FATF" },
-      { name: "банки Україна" },
-      { name: "санкції ЄС" },
-      { name: "шахрайство платежі" }
+    const queries = [
+      "НБУ фінанси",
+      "шахрайство картки Україна",
+      "санкції банки",
+      "AML FATF Україна",
+      "платежі Україна"
     ];
 
-    let news = [];
-    let seen = new Set();
+    let news=[];
+    let seen=new Set();
 
-    for (const s of sources) {
+    for(const q of queries){
 
       const url =
         "https://news.google.com/rss/search?q=" +
-        encodeURIComponent(s.name + " фінанси банки НБУ AML санкції") +
+        encodeURIComponent(q) +
         "&hl=uk&gl=UA";
 
       const feed = await parser.parseURL(url);
 
-      for (const item of feed.items) {
+      for(const item of feed.items){
 
         let title = clean(item.title);
 
-        if (!title || title.length < 30) continue;
+        if(!title || title.length<40) continue;
 
-        if (seen.has(title)) continue;
+        if(seen.has(title)) continue;
         seen.add(title);
+
+        const t = topic(title);
 
         news.push({
           title,
-          date: new Date().toLocaleDateString("uk-UA"),
-          image: "images/news/eu.jpg",
-          source: item.link
+          topic:t,
+          badge:badge(t),
+          short:short(t),
+          date:new Date().toLocaleDateString("uk-UA"),
+          image:"images/news/eu.jpg",
+          source:item.link
         });
+
       }
+
     }
 
-    news = news.slice(0, 10);
+    news = news.slice(0,10);
 
-    CACHE = news;
-    LAST_UPDATE = Date.now();
+    // головна + топ
+    if(news.length){
+      news[0].top="main";
+      news.slice(1,3).forEach(x=>x.top="top");
+    }
+
+    CACHE=news;
+    LAST=Date.now();
 
     return res.status(200).json(news);
 
-  } catch (e) {
-    return res.status(500).json({ error: e.toString() });
+  }catch(e){
+    return res.status(500).json({error:e.toString()});
   }
 }
