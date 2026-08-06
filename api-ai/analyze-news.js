@@ -1,55 +1,94 @@
-import fs from "fs";
+const fs = require("fs");
 
-const file = "./data/news.json";
+const file = "data/news.json";
 
-let news = JSON.parse(
-  fs.readFileSync(file, "utf8")
-);
+const news = JSON.parse(fs.readFileSync(file, "utf8"));
 
-function analyze(title) {
 
-  let text = title.toLowerCase();
+function generateAI(news){
 
-  let analysis = "Фінансова подія потребує уваги учасників ринку.";
-  let impact = "Може вплинути на фінансовий сектор України.";
-  let risk = "Рекомендується оцінити можливі ризики.";
+    let analysis = "";
+    let impact = "";
 
-  if(text.includes("нбу")) {
-    analysis = "Національний банк посилює регулювання та контроль фінансового ринку.";
-    impact = "Рішення НБУ можуть впливати на банки, клієнтів та бізнес.";
-    risk = "Банкам необхідно адаптувати внутрішні процеси.";
-  }
 
-  if(text.includes("санк")) {
-    analysis = "Санкційні рішення змінюють умови роботи фінансових компаній.";
-    impact = "Можливі зміни для міжнародних операцій та інвестицій.";
-    risk = "Підвищується увага до перевірки контрагентів.";
-  }
+    if(news.topic === "fraud"){
 
-  if(text.includes("aml") || text.includes("фінмонітор")) {
-    analysis = "Посилення AML-контролю спрямоване на боротьбу з фінансовими злочинами.";
-    impact = "Фінансові установи можуть посилити перевірку клієнтів.";
-    risk = "Зростають вимоги до комплаєнсу.";
-  }
+        analysis =
+        "FinAP AI: Виявлено підвищений ризик шахрайських операцій. " +
+        "Основна увага — захист персональних даних, платіжних карток та онлайн-операцій.";
 
-  return {
-    analysis,
-    impact,
-    risk
-  };
+        impact =
+        "Вплив на Україну: користувачам необхідно посилити цифрову безпеку, " +
+        "а фінансовим установам — контроль підозрілих операцій.";
+
+    }
+
+
+    else if(news.topic === "aml"){
+
+        analysis =
+        "FinAP AI: Подія пов'язана з посиленням фінансового моніторингу, " +
+        "контролем ризиків та виконанням AML-вимог.";
+
+        impact =
+        "Вплив на Україну: банки та фінансові компанії можуть посилити процедури перевірки клієнтів.";
+
+    }
+
+
+    else if(news.topic === "sanctions"){
+
+        analysis =
+        "FinAP AI: Санкційні рішення впливають на фінансовий ринок, " +
+        "інвестиційні потоки та діяльність окремих компаній.";
+
+        impact =
+        "Вплив на Україну: можливі зміни у роботі фінансових установ та інвесторів.";
+
+    }
+
+
+    else if(news.topic === "nbu"){
+
+        analysis =
+        "FinAP AI: Рішення НБУ спрямоване на стабільність банківської системи " +
+        "та розвиток фінансового сектору.";
+
+        impact =
+        "Вплив на Україну: зміни можуть вплинути на клієнтів банків та фінансові сервіси.";
+
+    }
+
+
+    else {
+
+        analysis =
+        "FinAP AI: Подія має потенційний вплив на фінансовий сектор.";
+
+        impact =
+        "Вплив на Україну: потребує подальшого аналізу.";
+
+    }
+
+
+    news.analysis = analysis;
+    news.impact = impact;
+
+
+    return news;
+
 }
 
 
-news = news.map(n => ({
-  ...n,
-  ...analyze(n.title)
-}));
+
+const updated = news.map(generateAI);
 
 
 fs.writeFileSync(
-  file,
-  JSON.stringify(news, null, 2)
+    file,
+    JSON.stringify(updated,null,2),
+    "utf8"
 );
 
 
-console.log("🧠 AI аналіз додано:", news.length);
+console.log("AI analysis completed:", updated.length);
