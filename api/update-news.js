@@ -4,12 +4,20 @@ const parser = new Parser({
   headers: { "User-Agent": "Mozilla/5.0" }
 });
 
+let CACHE = null;
+let LAST_UPDATE = 0;
+
 function clean(title) {
   return title.replace(/\s+-\s+.*$/, "").trim();
 }
 
 export default async function handler(req, res) {
   try {
+
+    // кеш на 30 хв
+    if (CACHE && Date.now() - LAST_UPDATE < 30 * 60 * 1000) {
+      return res.status(200).json(CACHE);
+    }
 
     const sources = [
       { name: "НБУ" },
@@ -50,6 +58,9 @@ export default async function handler(req, res) {
     }
 
     news = news.slice(0, 10);
+
+    CACHE = news;
+    LAST_UPDATE = Date.now();
 
     return res.status(200).json(news);
 
