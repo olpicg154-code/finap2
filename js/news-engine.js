@@ -113,7 +113,22 @@ payments:"Зміни платежів.",
 banks:"Банківський сектор."
 }[t] || "Фінансова подія.";
 }
+// =========================
+// NEWS IMAGE
+// =========================
 
+function getNewsImage(topic){
+
+return {
+fraud:"images/news/fraud.jpeg",
+aml:"images/news/aml.jpeg",
+sanctions:"images/news/sanctions.jpeg",
+nbu:"images/news/nbu.jpeg",
+payments:"images/news/payments.jpeg",
+banks:"images/news/default.jpeg",
+other:"images/news/default.jpeg"
+}[topic] || "images/news/default.jpeg";
+}
 
 // =========================
 // TIMEOUT RSS
@@ -212,7 +227,7 @@ short:short(topic),
 content:title,
 analysis:`FinAP: ${badge(topic)} — важлива подія.`,
 impact:"Вплив на фінансовий сектор.",
-image:"images/news/eu.jpg",
+image:getNewsImage(topic),
 source:item.link
 });
 

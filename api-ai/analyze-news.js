@@ -1,94 +1,39 @@
-const fs = require("fs");
+name: FinAP News Auto Update
 
-const file = "data/news.json";
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
-const news = JSON.parse(fs.readFileSync(file, "utf8"));
+permissions:
+  contents: write
 
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
 
-function generateAI(news){
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    let analysis = "";
-    let impact = "";
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
 
+      - name: Install dependencies
+        run: npm install
 
-    if(news.topic === "fraud"){
+      - name: Run FinAP Engine
+        run: node js/news-engine.js
 
-        analysis =
-        "FinAP AI: Виявлено підвищений ризик шахрайських операцій. " +
-        "Основна увага — захист персональних даних, платіжних карток та онлайн-операцій.";
+      - name: Add AI analysis
+        run: node api-ai/analyze-news.js
 
-        impact =
-        "Вплив на Україну: користувачам необхідно посилити цифрову безпеку, " +
-        "а фінансовим установам — контроль підозрілих операцій.";
-
-    }
-
-
-    else if(news.topic === "aml"){
-
-        analysis =
-        "FinAP AI: Подія пов'язана з посиленням фінансового моніторингу, " +
-        "контролем ризиків та виконанням AML-вимог.";
-
-        impact =
-        "Вплив на Україну: банки та фінансові компанії можуть посилити процедури перевірки клієнтів.";
-
-    }
-
-
-    else if(news.topic === "sanctions"){
-
-        analysis =
-        "FinAP AI: Санкційні рішення впливають на фінансовий ринок, " +
-        "інвестиційні потоки та діяльність окремих компаній.";
-
-        impact =
-        "Вплив на Україну: можливі зміни у роботі фінансових установ та інвесторів.";
-
-    }
-
-
-    else if(news.topic === "nbu"){
-
-        analysis =
-        "FinAP AI: Рішення НБУ спрямоване на стабільність банківської системи " +
-        "та розвиток фінансового сектору.";
-
-        impact =
-        "Вплив на Україну: зміни можуть вплинути на клієнтів банків та фінансові сервіси.";
-
-    }
-
-
-    else {
-
-        analysis =
-        "FinAP AI: Подія має потенційний вплив на фінансовий сектор.";
-
-        impact =
-        "Вплив на Україну: потребує подальшого аналізу.";
-
-    }
-
-
-    news.analysis = analysis;
-    news.impact = impact;
-
-
-    return news;
-
-}
-
-
-
-const updated = news.map(generateAI);
-
-
-fs.writeFileSync(
-    file,
-    JSON.stringify(updated,null,2),
-    "utf8"
-);
-
-
-console.log("AI analysis completed:", updated.length);
+      - name: Save updated news
+        run: |
+          git config --global user.name "FinAP Bot"
+          git config --global user.email "bot@finap.com.ua"
+          git add data/news.json
+          git commit -m "auto update news" || exit 0
+          git push
