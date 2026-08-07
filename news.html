@@ -2,23 +2,44 @@
 <html lang="uk">
 
 <head>
+
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>FinAP News</title>
 
     <style>
         body {
             background: #0a1230;
             color: white;
-            font-family: Arial;
+            font-family: Arial, sans-serif;
             padding: 20px;
+            margin: 0;
         }
 
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 25px;
+        }
+
+        .header img {
+            height: 45px;
+        }
+
+        .back {
+            padding: 12px 25px;
+            border-radius: 30px;
+            border: 1px solid #00eaff;
+            color: white;
+            text-decoration: none;
+        }
 
         h2 {
             display: flex;
             align-items: center;
         }
-
 
         #newsCount {
             background: red;
@@ -29,7 +50,6 @@
         }
 
 
-        /* ГОЛОВНА */
         .main-news {
 
             background: linear-gradient(135deg, #182cff, #00d9ff);
@@ -45,66 +65,6 @@
         }
 
 
-
-        .main-label {
-
-            background: #ffcc00;
-
-            color: black;
-
-            display: inline-block;
-
-            padding: 5px 12px;
-
-            border-radius: 20px;
-
-            font-size: 12px;
-
-            font-weight: bold;
-
-            margin-bottom: 10px;
-
-        }
-
-
-
-        .title {
-
-            font-weight: bold;
-
-            font-size: 18px;
-
-        }
-
-
-        .short {
-
-            margin-top: 10px;
-
-            opacity: .85;
-
-        }
-
-
-        .badge {
-
-            display: inline-block;
-
-            padding: 5px 10px;
-
-            background: rgba(255, 255, 255, .15);
-
-            border-radius: 20px;
-
-            font-size: 12px;
-
-            margin-bottom: 8px;
-
-        }
-
-
-
-        /* КАРТКИ */
 
         .card {
 
@@ -124,7 +84,37 @@
 
 
 
-        /* TOP 3 */
+        .title {
+
+            font-weight: bold;
+
+            font-size: 18px;
+
+        }
+
+
+
+        .short {
+
+            margin-top: 10px;
+
+            opacity: .85;
+
+        }
+
+
+
+        .meta {
+
+            color: #00eaff;
+
+            font-size: 12px;
+
+            margin-top: 10px;
+
+        }
+
+
 
         .top-label {
 
@@ -138,24 +128,11 @@
 
             color: black;
 
-            padding: 4px 10px;
+            padding: 5px 10px;
 
             border-radius: 15px;
 
             font-size: 11px;
-
-            font-weight: bold;
-
-        }
-
-
-        .meta {
-
-            color: #00eaff;
-
-            font-size: 12px;
-
-            margin-top: 10px;
 
         }
 
@@ -171,11 +148,11 @@
 
             background: red;
 
-            padding: 3px 8px;
+            padding: 5px 10px;
 
             border-radius: 10px;
 
-            font-size: 10px;
+            font-size: 11px;
 
         }
     </style>
@@ -184,6 +161,17 @@
 
 
 <body>
+
+
+    <div class="header">
+
+        <img src="logo.png">
+
+        <a href="index.html" class="back">
+            ← На головну
+        </a>
+
+    </div>
 
 
     <h2>
@@ -204,14 +192,14 @@
     <script>
 
 
-        const viewed = JSON.parse(localStorage.getItem("viewedNews") || "[]");
+        const viewed =
+            JSON.parse(localStorage.getItem("viewedNews") || "[]");
+
 
 
         fetch("data/news.json")
 
-
             .then(res => res.json())
-
 
             .then(data => {
 
@@ -235,36 +223,28 @@
 
 
 
-                    // ГОЛОВНА
-
                     if (item.top === "main") {
 
 
                         const div = document.createElement("div");
+
 
                         div.className = "main-news";
 
 
                         div.innerHTML = `
 
-<div class="main-label">
-🔥 ГОЛОВНА
-</div>
-
-<div class="badge">
-${item.badge}
-</div>
-
-
 <div class="title">
 ${item.title}
 </div>
 
-
 <div class="short">
-${item.short}
+${item.short || ""}
 </div>
 
+<div class="meta">
+${item.date} | ${item.category}
+</div>
 
 `;
 
@@ -282,30 +262,23 @@ ${item.short}
 
 
 
-                    // TOP 3
-
                     const div = document.createElement("div");
 
 
                     div.className = "card";
 
 
-
                     div.innerHTML = `
 
-${item.top === "top" ?
-                            '<div class="top-label">⭐ TOP 3</div>'
-                            : ''}
+${item.top === "top"
+                            ? '<div class="top-label">⭐ TOP 3</div>'
+                            : ""}
 
 
+${isNew
+                            ? '<div class="new">NEW</div>'
+                            : ""}
 
-${isNew ? '<div class="new">NEW</div>' : ''}
-
-
-
-<div class="badge">
-${item.badge}
-</div>
 
 
 <div class="title">
@@ -314,16 +287,13 @@ ${item.title}
 
 
 <div class="short">
-${item.short}
+${item.short || ""}
 </div>
 
 
 <div class="meta">
-
 ${item.date} | ${item.category}
-
 </div>
-
 
 `;
 
@@ -347,8 +317,6 @@ ${item.date} | ${item.category}
 
             })
 
-
-
             .catch(() => {
 
                 document.body.innerHTML = "Помилка завантаження новин";
@@ -363,6 +331,7 @@ ${item.date} | ${item.category}
 
             let viewed =
                 JSON.parse(localStorage.getItem("viewedNews") || "[]");
+
 
 
             if (!viewed.includes(item.title)) {
@@ -392,7 +361,6 @@ ${item.date} | ${item.category}
 
 
         }
-
 
 
     </script>
