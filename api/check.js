@@ -1,48 +1,34 @@
-﻿export default function handler(request) {
+﻿module.exports = async function (req, res) {
     try {
-        const url = new URL(request.url);
-        const name = url.searchParams.get("name");
+        const { name } = req.query;
 
         if (!name) {
-            return new Response(
-                JSON.stringify({ error: "Name required" }),
-                { status: 400 }
-            );
+            return res.status(400).json({ error: "Name required" });
         }
 
-        return new Response(
-            JSON.stringify({
-                success: true,
-                query: name,
-                count: 1,
-                results: [
-                    {
-                        name: name,
-                        score: 0.87,
-                        sanctions: false,
-                        pep: false,
-                        wanted: false,
-                        country: "UA",
-                        position: "Дані не знайдено у санкційних списках",
-                        datasets: ["FinAP demo"]
-                    }
-                ]
-            }),
-            {
-                status: 200,
-                headers: {
-                    "Content-Type": "application/json"
+        return res.status(200).json({
+            success: true,
+            query: name,
+            count: 1,
+            results: [
+                {
+                    name: name,
+                    score: 0.87,
+                    sanctions: false,
+                    pep: false,
+                    wanted: false,
+                    country: "UA",
+                    position: "Дані не знайдено у санкційних списках",
+                    datasets: ["FinAP demo"]
                 }
-            }
-        );
+            ]
+        });
 
-    } catch (e) {
-        return new Response(
-            JSON.stringify({
-                error: "Internal error",
-                message: e.message
-            }),
-            { status: 500 }
-        );
+    } catch (err) {
+        console.error("API ERROR:", err);
+
+        return res.status(500).json({
+            error: "Internal Server Error"
+        });
     }
-}
+};
