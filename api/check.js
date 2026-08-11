@@ -1,9 +1,14 @@
-﻿module.exports = async function (req, res) {
+﻿export default function handler(req, res) {
+
     try {
-        const { name } = req.query;
+
+        const name = req.query?.name;
 
         if (!name) {
-            return res.status(400).json({ error: "Name required" });
+            return res.status(400).json({
+                success: false,
+                error: "Name required"
+            });
         }
 
         return res.status(200).json({
@@ -24,11 +29,12 @@
             ]
         });
 
-    } catch (err) {
-        console.error("API ERROR:", err);
+    } catch (e) {
 
         return res.status(500).json({
-            error: "Internal Server Error"
+            success: false,
+            error: "Server crash",
+            details: String(e)
         });
     }
-};
+}
