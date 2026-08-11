@@ -395,7 +395,7 @@ async function check() {
     try {
 
         const response = await fetch(
-            "http://localhost:3001/check?name=" +
+            "/api/check?name=" +
             encodeURIComponent(name)
         );
 
