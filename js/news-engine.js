@@ -1,4 +1,3 @@
-```javascript
 const fs = require("fs");
 const Parser = require("rss-parser");
 
@@ -87,7 +86,7 @@ function score(title,topic){
 
     if(t.includes("єс") || t.includes("сша") || t.includes("міжнарод")) s += 30;
 
-    if(t.includes("нбу")) s += 50; // зменшили вплив
+    if(t.includes("нбу")) s += 50;
 
     return s + ({
         aml:40,
@@ -211,7 +210,6 @@ async function run(){
 
                     let sc = score(title, topic);
 
-                    // зменшуємо домінацію НБУ
                     if(topic === "nbu") sc -= 15;
 
                     all.push({
@@ -222,7 +220,10 @@ async function run(){
                         date: new Date().toLocaleDateString("uk-UA"),
                         short: short(topic),
                         content: title,
-                        analysis: `FinAP: ${badge(topic)} — ключова подія.`,
+
+                        // 🔥 FIX ТУТ
+                        analysis: "FinAP: " + badge(topic) + " — ключова подія.",
+
                         impact: "Вплив на фінансовий сектор.",
                         image: getNewsImage(topic),
                         source: item.link
@@ -235,15 +236,7 @@ async function run(){
         }
     }
 
-    // =========================
-    // SORT
-    // =========================
-
     all.sort((a,b)=>b.score-a.score);
-
-    // =========================
-    // BALANCE
-    // =========================
 
     const LIMITS = {
         nbu:2,
@@ -272,18 +265,10 @@ async function run(){
         if(result.length === 10) break;
     }
 
-    // =========================
-    // TOP
-    // =========================
-
     if(result.length){
         result[0].top = "main";
         result.slice(1,3).forEach(x => x.top = "top");
     }
-
-    // =========================
-    // SAVE
-    // =========================
 
     fs.writeFileSync(
         "./data/news.json",
@@ -299,4 +284,3 @@ async function run(){
 }
 
 run();
-```
