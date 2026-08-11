@@ -1,22 +1,19 @@
+```javascript
 const fs = require("fs");
 const Parser = require("rss-parser");
 
 const parser = new Parser({
-    headers: {
-        "User-Agent": "Mozilla/5.0"
-    }
+    headers: { "User-Agent": "Mozilla/5.0" }
 });
 
-console.log("🔥 FinAP Engine STABLE старт\n");
-
+console.log("🔥 FinAP Engine PRO старт\n");
 
 // =========================
-// CLEAN TEXT
+// CLEAN
 // =========================
 
 function clean(text){
     if(!text) return "";
-
     return text
         .replace(/^\uFEFF/, "")
         .replace(/<[^>]*>/g, " ")
@@ -37,42 +34,43 @@ function normalize(t){
         .trim();
 }
 
-
 // =========================
 // TOPIC
 // =========================
 
 function detectTopic(t){
 
-t = t.toLowerCase();
+    t = t.toLowerCase();
 
-if(t.includes("fatf") || t.includes("aml") || t.includes("фінмон")) return "aml";
-if(t.includes("шахрай") || t.includes("дроп") || t.includes("кібер")) return "fraud";
-if(t.includes("санкц") || t.includes("рос")) return "sanctions";
-if(t.includes("нбу")) return "nbu";
-if(t.includes("платіж") || t.includes("картк")) return "payments";
-if(t.includes("банк")) return "banks";
+    if(t.includes("fatf") || t.includes("aml") || t.includes("фінмон")) return "aml";
+    if(t.includes("шахрай") || t.includes("фішинг") || t.includes("кібер")) return "fraud";
+    if(t.includes("санкц") || t.includes("рос") || t.includes("єс")) return "sanctions";
+    if(t.includes("крипт") || t.includes("bitcoin") || t.includes("crypto")) return "crypto";
+    if(t.includes("інвест") || t.includes("ринок") || t.includes("акції")) return "invest";
+    if(t.includes("платіж") || t.includes("картк")) return "payments";
+    if(t.includes("банк")) return "banks";
+    if(t.includes("нбу")) return "nbu";
 
-return "other";
+    return "other";
 }
-
 
 // =========================
 // BADGE
 // =========================
 
 function badge(t){
-return {
-aml:"🟣 AML",
-fraud:"⚠️ ШАХРАЙСТВО",
-sanctions:"🔴 Санкції",
-nbu:"🟢 НБУ",
-payments:"💳 Платежі",
-banks:"🏦 Банки",
-other:"⚪ Інше"
-}[t];
+    return {
+        aml:"🟣 AML",
+        fraud:"⚠️ ШАХРАЙСТВО",
+        sanctions:"🔴 Санкції",
+        nbu:"🏦 НБУ",
+        payments:"💳 Платежі",
+        banks:"🏦 Банки",
+        invest:"📈 Інвестиції",
+        crypto:"🪙 Crypto",
+        other:"📊 Ринок"
+    }[t];
 }
-
 
 // =========================
 // SCORE
@@ -80,58 +78,66 @@ other:"⚪ Інше"
 
 function score(title,topic){
 
-let s=0;
-let t=title.toLowerCase();
+    let s = 0;
+    let t = title.toLowerCase();
 
-if(t.includes("fatf")) s+=80;
-if(t.includes("нбу")) s+=70;
-if(t.includes("санкц")) s+=60;
-if(t.includes("шахрай")) s+=60;
+    if(t.includes("fatf")) s += 80;
+    if(t.includes("санкц")) s += 60;
+    if(t.includes("шахрай")) s += 60;
 
-return s + ({
-aml:40,
-fraud:40,
-sanctions:35,
-nbu:35,
-payments:25,
-banks:20
-}[topic]||0);
+    if(t.includes("єс") || t.includes("сша") || t.includes("міжнарод")) s += 30;
+
+    if(t.includes("нбу")) s += 50; // зменшили вплив
+
+    return s + ({
+        aml:40,
+        fraud:40,
+        sanctions:35,
+        invest:35,
+        crypto:30,
+        payments:25,
+        banks:20,
+        nbu:20
+    }[topic] || 0);
 }
-
 
 // =========================
 // SHORT
 // =========================
 
 function short(t){
-return {
-aml:"Посилення фінмоніторингу.",
-fraud:"Ризики шахрайства.",
-sanctions:"Санкції впливають.",
-nbu:"Рішення НБУ.",
-payments:"Зміни платежів.",
-banks:"Банківський сектор."
-}[t] || "Фінансова подія.";
+    return {
+        aml:"Посилення фінмоніторингу.",
+        fraud:"Ризики шахрайства.",
+        sanctions:"Санкційний тиск.",
+        nbu:"Рішення регулятора.",
+        payments:"Зміни платежів.",
+        banks:"Банківський сектор.",
+        invest:"Інвестиційний ринок.",
+        crypto:"Ринок криптовалют."
+    }[t] || "Фінансова подія.";
 }
+
 // =========================
-// NEWS IMAGE
+// IMAGE
 // =========================
 
 function getNewsImage(topic){
-
-return {
-fraud:"images/news/fraud.jpeg",
-aml:"images/news/aml.jpeg",
-sanctions:"images/news/sanctions.jpeg",
-nbu:"images/news/nbu.jpeg",
-payments:"images/news/payments.jpeg",
-banks:"images/news/default.jpeg",
-other:"images/news/default.jpeg"
-}[topic] || "images/news/default.jpeg";
+    return {
+        fraud:"images/news/fraud.jpeg",
+        aml:"images/news/aml.jpeg",
+        sanctions:"images/news/sanctions.jpeg",
+        nbu:"images/news/nbu.jpeg",
+        payments:"images/news/payments.jpeg",
+        invest:"images/news/invest.jpeg",
+        crypto:"images/news/crypto.jpeg",
+        banks:"images/news/default.jpeg",
+        other:"images/news/default.jpeg"
+    }[topic] || "images/news/default.jpeg";
 }
 
 // =========================
-// TIMEOUT RSS
+// FETCH
 // =========================
 
 async function fetchWithTimeout(url, timeout = 5000){
@@ -143,159 +149,154 @@ async function fetchWithTimeout(url, timeout = 5000){
     ]);
 }
 
-
 // =========================
 // ENGINE
 // =========================
 
 async function run(){
 
-const sources =
-JSON.parse(
-fs.readFileSync("./data/sources.json","utf8")
-.replace(/^\uFEFF/,"")
-);
+    const sources = JSON.parse(
+        fs.readFileSync("./data/sources.json","utf8")
+            .replace(/^\uFEFF/,"")
+    );
 
+    const queries = [
+        "економіка Україна",
+        "інвестиції Україна",
+        "ринок капіталу Україна",
+        "банки Україна",
+        "платіжні системи Україна",
+        "криптовалюта Україна",
+        "санкції ЄС Україна",
+        "FATF AML фінмоніторинг",
+        "фінансові технології fintech",
+        "міжнародні ринки фінанси"
+    ];
 
-// 🔥 БАГАТО ЗАПИТІВ (як було раніше)
-const queries = [
-"НБУ банки Україна",
-"санкції Україна ЄС",
-"шахрайство картки банк",
-"AML FATF фінмоніторинг",
-"банки Україна новини"
-];
+    let all = [];
+    let seen = new Set();
 
+    for(const source of sources){
 
-let all=[];
-let seen=new Set();
+        for(const q of queries){
 
+            try{
 
-for(const source of sources){
+                const url =
+                    "https://news.google.com/rss/search?q=" +
+                    encodeURIComponent(q + " " + source.name) +
+                    "&hl=uk&gl=UA";
 
-for(const q of queries){
+                console.log("⏳", q);
 
-try{
+                let feed;
 
-const url =
-"https://news.google.com/rss/search?q="
-+
-encodeURIComponent(q + " " + source.name)
-+
-"&hl=uk&gl=UA";
+                try{
+                    feed = await fetchWithTimeout(url);
+                }catch(e){
+                    console.log("❌ timeout");
+                    continue;
+                }
 
-console.log("⏳ RSS:", q);
+                for(const item of feed.items){
 
-let feed;
+                    let title = cleanTitle(item.title);
+                    if(!title || title.length < 25) continue;
 
-try{
-    feed = await fetchWithTimeout(url);
-}catch(e){
-    console.log("❌ Пропущено:", e.message);
-    continue;
-}
+                    let key = normalize(title);
+                    if(seen.has(key)) continue;
+                    seen.add(key);
 
+                    let topic = detectTopic(title);
 
-for(const item of feed.items){
+                    let sc = score(title, topic);
 
-let title = cleanTitle(item.title);
+                    // зменшуємо домінацію НБУ
+                    if(topic === "nbu") sc -= 15;
 
-if(!title) continue;
+                    all.push({
+                        title,
+                        topic,
+                        score: sc,
+                        badge: badge(topic),
+                        date: new Date().toLocaleDateString("uk-UA"),
+                        short: short(topic),
+                        content: title,
+                        analysis: `FinAP: ${badge(topic)} — ключова подія.`,
+                        impact: "Вплив на фінансовий сектор.",
+                        image: getNewsImage(topic),
+                        source: item.link
+                    });
+                }
 
-// 🔥 НЕ ВИКИДАЄМО БІЛЬШЕ КРИВІ СИМВОЛИ
-// if(title.includes("�")) continue;
+            }catch(e){
+                console.log("RSS error");
+            }
+        }
+    }
 
-if(title.length < 25) continue;
+    // =========================
+    // SORT
+    // =========================
 
-let key = normalize(title);
+    all.sort((a,b)=>b.score-a.score);
 
-if(seen.has(key)) continue;
-seen.add(key);
+    // =========================
+    // BALANCE
+    // =========================
 
+    const LIMITS = {
+        nbu:2,
+        fraud:2,
+        sanctions:2,
+        aml:2,
+        payments:2,
+        banks:2,
+        invest:3,
+        crypto:2,
+        other:2
+    };
 
-let topic = detectTopic(title);
+    let result = [];
+    let count = {};
 
+    for(const n of all){
 
-all.push({
-title,
-topic,
-score:score(title,topic),
-badge:badge(topic),
-category:source.type,
-date:new Date().toLocaleDateString("uk-UA"),
-short:short(topic),
-content:title,
-analysis:`FinAP: ${badge(topic)} — важлива подія.`,
-impact:"Вплив на фінансовий сектор.",
-image:getNewsImage(topic),
-source:item.link
-});
+        count[n.topic] = count[n.topic] || 0;
 
-}
+        if(count[n.topic] >= (LIMITS[n.topic] || 2)) continue;
 
-}catch(e){
-console.log("RSS error:", q);
-}
+        result.push(n);
+        count[n.topic]++;
 
-}
-}
+        if(result.length === 10) break;
+    }
 
+    // =========================
+    // TOP
+    // =========================
 
-// =========================
-// SORT
-// =========================
+    if(result.length){
+        result[0].top = "main";
+        result.slice(1,3).forEach(x => x.top = "top");
+    }
 
-all.sort((a,b)=>b.score-a.score);
+    // =========================
+    // SAVE
+    // =========================
 
+    fs.writeFileSync(
+        "./data/news.json",
+        JSON.stringify(result,null,2),
+        "utf8"
+    );
 
-// =========================
-// LIMIT 10
-// =========================
+    console.log("\n✅ Зібрано:", all.length);
+    console.log("📊 Фінальні:", result.length);
+    console.log("📂 Категорії:", count);
 
-let result=[];
-let count={};
-
-for(const n of all){
-
-if(!count[n.topic]) count[n.topic]=0;
-
-if(count[n.topic]>=2) continue;
-
-result.push(n);
-count[n.topic]++;
-
-if(result.length===10) break;
-
-}
-
-
-// =========================
-// TOP NEWS
-// =========================
-
-if(result.length){
-result[0].top="main";
-result.slice(1,3).forEach(x=>x.top="top");
-}
-
-
-// =========================
-// SAVE
-// =========================
-
-fs.writeFileSync(
-"./data/news.json",
-JSON.stringify(result,null,2),
-"utf8"
-);
-
-
-console.log("\nЗібрано:",all.length);
-console.log("Фінальні новини:",result.length);
-console.log("Категорії:",count);
-
-console.log("🔥 FinAP Engine STABLE завершено");
-
+    console.log("\n🔥 FinAP Engine PRO завершено");
 }
 
 run();
+```
