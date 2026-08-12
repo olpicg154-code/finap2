@@ -4,28 +4,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>FinAP — Фінансовий моніторинг</title>
 
+    <!-- СТИЛІ -->
     <link rel="stylesheet" href="css/style.css">
+
+    <!-- ФІКС 500 favicon -->
+    <link rel="icon" href="/logo.png">
 </head>
 
 <body>
 
-    <!-- ЛОГО -->
+    <!-- 🔷 ЛОГО -->
     <div class="logo">
-        <img src="logo.png" alt="FinAP">
+        <img src="/logo.png" alt="FinAP">
     </div>
 
-    <!-- КНОПКА (ПРАВИЛЬНО) -->
-    <a href="news.html" class="top-btn">НОВИНИ</a>
+    <!-- 🔷 КНОПКИ -->
+    <div class="top-buttons">
 
-    <!-- ФОН -->
+        <a href="news.html" class="top-btn">
+            НОВИНИ
+        </a>
+
+        <a href="check.html" class="top-btn check-btn">
+            ПЕРЕВІРКА КОНТРАГЕНТА
+        </a>
+
+    </div>
+
+    <!-- 🔷 ФОН MATRIX -->
     <canvas id="matrix"></canvas>
 
-    <!-- ТЕРМОМЕТР -->
+    <!-- 🔷 ФІНАНСОВИЙ ТЕРМОМЕТР -->
     <section id="financialThermometer"></section>
 
-    <!-- СКРИПТИ -->
+    <!-- 🔷 СКРИПТИ -->
     <script src="js/main.js"></script>
     <script src="js/financial-thermometer.js"></script>
     <script src="js/check-button.js"></script>
