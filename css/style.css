@@ -144,3 +144,5 @@ body>*:not(canvas) {
     }
 
 }
+
+.top-btn.second { top: 70px; }
