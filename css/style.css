@@ -165,3 +165,52 @@ body>*:not(canvas) {
     background: #111;
 }
 
+
+.thermo-wrapper {
+    width: 90%;
+    margin: 40px auto;
+    text-align: center;
+    color: #fff;
+}
+
+.thermo-scale {
+    opacity: 0.6;
+    margin-bottom: 10px;
+}
+
+.thermo-bar {
+    width: 100%;
+    height: 18px;
+    background: #111;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.thermo-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #00ff88, #ffaa00, #ff0033);
+}
+
+.thermo-value {
+    font-size: 36px;
+}
+
+.thermo-status {
+    font-size: 20px;
+}
+
+.thermo-yesterday {
+    opacity: 0.7;
+}
+
+.thermo-forecast {
+    color: #aaa;
+}
+
+.thermo-ai {
+    margin-top: 10px;
+}
+
+.thermo-risk {
+    color: #ff4444;
+}
