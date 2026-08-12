@@ -5,6 +5,9 @@ on:
     - cron: "0 */3 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -24,16 +27,10 @@ jobs:
       - name: Run engine
         run: node js/news-engine.js
 
-      - name: Commit & Push
+      - name: Commit changes
         run: |
-          git config --global user.name "finap-bot"
-          git config --global user.email "bot@finap.com"
-
+          git config user.name "finap-bot"
+          git config user.email "bot@finap.com"
           git add data/news.json
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "🤖 Auto update news"
-            git push
-          fi
+          git commit -m "🤖 Auto update news" || echo "No changes"
+          git push
