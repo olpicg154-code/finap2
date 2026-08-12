@@ -146,3 +146,22 @@ body>*:not(canvas) {
 }
 
 .top-btn.second { top: 70px; }
+
+.top-btn {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    padding: 12px 20px;
+    background: #0b1cff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    z-index: 1000;
+}
+
+.top-btn.second {
+    top: 70px;
+    background: #111;
+}
+
