@@ -14,6 +14,20 @@
     "top": "main"
   },
   {
+    "title": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
+    "topic": "fraud",
+    "score": 160,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "12.08.2026",
+    "short": "Ризики шахрайства.",
+    "content": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxTWE3anI0TWpnaWNLR0I0MGVRMWJnRlBab1Iwa0ZKd3BDOUtLSGdPQ2NsTldRQy1tbFZqbmJhT3ZmT0lXUmN6SVEzRjNQWGVkeGxTNEhnanJTUU05bFpGdDNhU3JUTFIxZGNBcg?oc=5",
+    "top": "top"
+  },
+  {
     "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
     "topic": "fraud",
     "score": 150,
@@ -38,21 +52,7 @@
     "analysis": "FinAP: 🟣 AML — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sc1NjVUFpb2hwWVBCcHJfWDJZMExqNHFJQXdBR09fNVpPN1NyZFdZV2NBMUR2NFVSX2RnV1Y2eE45WmQzMGJaSUtHejF3a3VYU2tycG4zejllUnJvMHBRbEh6T3B6U212?oc=5",
-    "top": "top"
-  },
-  {
-    "title": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
-    "topic": "fraud",
-    "score": 150,
-    "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "12.08.2026",
-    "short": "Ризики шахрайства.",
-    "content": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
-    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQkRBeUpHQk1zOEx3WDVPYndXMjVhb0ZNOFdBbzQ4anBMTEppNzk5VVVIMC1HbWs3aHpJSm5tREhQQl9iV1AxLXlrcmREU2dKM0RGcGJGNG5kNXpUOGw2MXVod3ZGdDhIbzZWdl9ZdTVGZ0JRem9FMktwTHgybXpGTVM3MXhSc1pCVnhucUpMclRlOFRwMWwzd1djMGNNUnZZMDRoNF9PSkhLV1d1cTlqMG9ndDRyWmpUNk9aVWNZQTVnVm1aa0N6a1ZuNnhDQ1ZJektjRUx30gHQAUFVX3lxTFBJbjhiNERkSHlxUzJPZkVicGlfSHBNZHdEZE9kMDQwQkJtYUlrdGdhSUVVMFdKcEFxUm9aZFpJdExmR1dBWEt6eWFQQ2Q4WnlCakFxZ0pPVU1FMGV1QjJYbld6bU52MFZESDY3UG52bU5ZZzh6RjZ5M2ZMRHBKSmNzRE5uWjJpMXRjazMzdm5kVlZLYXIzUVJFU1J3NUZ3dVB2ZGlZMnF1SHdjelNNaG83d1NHdGZJQjNneXctandDTzRTRHZUd0pGZ2RtQ1ltcXo?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sc1NjVUFpb2hwWVBCcHJfWDJZMExqNHFJQXdBR09fNVpPN1NyZFdZV2NBMUR2NFVSX2RnV1Y2eE45WmQzMGJaSUtHejF3a3VYU2tycG4zejllUnJvMHBRbEh6T3B6U212?oc=5"
   },
   {
     "title": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
@@ -131,5 +131,11 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/nbu.jpeg",
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGR5T2xBWmhNRWVfRXJQUHgzUkZiUVdRVTFPRThaWmoyMGJEWmczN0xIXzU0R20wUkU0SXVkMkpqMFpOaEpyT2ZJZW9DbU1hQ01xRFprUWhENmRGaVJ6Skpwcmo3aFFiOVVZMnp4dXhrRUVCbExSNG1WYU9nVDc4RUNXYjBlTFltYmNOUWl1NERKdG1lTGd6MDYwQUNGRjFqZ0tINtIBsAFBVV95cUxQQnFWSTBIWXMxaXI0Sl9wYXRrZHV4bGFmcXd6eFZjT1l1R0U0SVZKMDZaVklpeFRFQUJwSWxEOEFiZTJUMTJwODB2VTljaU5rUGFJRTZEWW5CSjFIMmUxdjF5V2FBRUNjNEEzX2NqQVFFYWRhWnk1QV9PSUloTExsLWRpUHBDZVktTDQzQzBaYklUamU4MmFQMTBqQmd2U095dkxmMnpxOFB1clRQSDdLMQ?oc=5"
+  },
+  {
+    "meta": {
+      "updated": "2026-08-12T11:39:08.531Z",
+      "count": 10
+    }
   }
 ]
