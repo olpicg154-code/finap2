@@ -270,10 +270,17 @@ async function run(){
         result.slice(1,3).forEach(x => x.top = "top");
     }
 
-    fs.writeFileSync(
-        "./data/news.json",
-        JSON.stringify(result,null,2),
-        "utf8"
+    result.push({
+    meta: {
+        updated: new Date().toISOString(),
+        count: result.length
+    }
+});
+
+fs.writeFileSync(
+    "./data/news.json",
+    JSON.stringify(result,null,2),
+    "utf8"
     );
 
     console.log("\n✅ Зібрано:", all.length);
