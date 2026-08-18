@@ -42,19 +42,6 @@
     "top": "top"
   },
   {
-    "title": "НБУ виписав мільйонні штрафи банкам: хто потрапив під санкції через фінмоніторинг",
-    "topic": "aml",
-    "score": 150,
-    "badge": "🟣 AML",
-    "date": "18.08.2026",
-    "short": "Посилення фінмоніторингу.",
-    "content": "НБУ виписав мільйонні штрафи банкам: хто потрапив під санкції через фінмоніторинг",
-    "analysis": "FinAP: 🟣 AML — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sc1NjVUFpb2hwWVBCcHJfWDJZMExqNHFJQXdBR09fNVpPN1NyZFdZV2NBMUR2NFVSX2RnV1Y2eE45WmQzMGJaSUtHejF3a3VYU2tycG4zejllUnJvMHBRbEh6T3B6U212?oc=5"
-  },
-  {
     "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
     "topic": "fraud",
     "score": 150,
@@ -66,6 +53,19 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/fraud.jpeg",
     "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5"
+  },
+  {
+    "title": "НБУ виписав мільйонні штрафи банкам: хто потрапив під санкції через фінмоніторинг",
+    "topic": "aml",
+    "score": 150,
+    "badge": "🟣 AML",
+    "date": "18.08.2026",
+    "short": "Посилення фінмоніторингу.",
+    "content": "НБУ виписав мільйонні штрафи банкам: хто потрапив під санкції через фінмоніторинг",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sc1NjVUFpb2hwWVBCcHJfWDJZMExqNHFJQXdBR09fNVpPN1NyZFdZV2NBMUR2NFVSX2RnV1Y2eE45WmQzMGJaSUtHejF3a3VYU2tycG4zejllUnJvMHBRbEh6T3B6U212?oc=5"
   },
   {
     "title": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-08-18T03:11:54.207Z",
+      "updated": "2026-08-18T07:59:57.676Z",
       "count": 10
     }
   }
