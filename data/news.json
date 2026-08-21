@@ -1,19 +1,5 @@
 [
   {
-    "title": "FATF не включила Росію до чорного списку. Про санкції проти РФ просила Україна",
-    "topic": "aml",
-    "score": 180,
-    "badge": "🟣 AML",
-    "date": "21.08.2026",
-    "short": "Посилення фінмоніторингу.",
-    "content": "FATF не включила Росію до чорного списку. Про санкції проти РФ просила Україна",
-    "analysis": "FinAP: 🟣 AML — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xaVQ4X01EWUpJNjUzODNWMXZPTDlDOFlFbFJwTFNwaGY2UkpMRHpyUzhjSlZoUlJxZGduSjFSQkpaNGRvcm5zQ1JKU2dFUTFiSGRzSHAtaGtmX0NELXBaNXAtRG00NEw1a1FwNExTV0JoR29xUE1RWHJzaljSAX9BVV95cUxPNVZRQ1JHcXB3NDRsa0M5dlU2eFEwSEl6b25FREd5WVJmbEswUVVJempPLW9EajdFNk9PLUpJOFUxc19tZjhVUGs2d1FqZTN3WGJmOFBSbThNeHo2SmVSNENIdGlfcE1wWEt4UkNQbVF5TWRuRkpzSVdLUVp2RFdF?oc=5",
-    "top": "main"
-  },
-  {
     "title": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
     "topic": "sanctions",
     "score": 175,
@@ -25,7 +11,7 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
     "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3k4X0p6UkRUakh6cHNUVzRtVXd1UkdWLUpGQkVZdDZGSDdfekFYUlNYdEtBczZBU1ROYWdIZldaVTdCcm5IUkdJcmgwZWNoNi1rZTJBbDJkd2phYTU5c2o2TDBnOHBEVlo3R0d4U2NYX0pDeGtwbjF1MjVYQldyZkRoX0lMZFFVVmxQMEVXQmJpRzhYM3dObnRsMWJqc25GZk5sMlc5dXBNWnBpUHEydXBTNnk1aXJHYmpkOElVb2FTTlNya0EyM1RRWWlkdjhpTG1kOXNrTdIB0gFBVV95cUxPOG9QRzBjQmNobmtrR1lySEFNQVoxRk13S1lkeWJuLUh3Ri1JenNqTkNNWUVyTDlLX1haNzJ4MlRubEFmY05kRzlLamRyQjhrWE5QU3JaTU9xTGVuRlVTbTA3UUxJRENubmFLeTJIa3dPeFFnNkJsclIySWtQcTlKaUFvZjUyS0ZkS2lJektwRllSZmU3QklCRnllQTlrcDZYUk1qNm9DYjV1Smo0TERDSHM1c2VmWkRQMjRGdnN2V29QSXVLa0NzcVRNQmZJcHFIRWc?oc=5",
-    "top": "top"
+    "top": "main"
   },
   {
     "title": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
@@ -52,7 +38,8 @@
     "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5",
+    "top": "top"
   },
   {
     "title": "НБУ виписав мільйонні штрафи банкам: хто потрапив під санкції через фінмоніторинг",
@@ -66,6 +53,19 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
     "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sc1NjVUFpb2hwWVBCcHJfWDJZMExqNHFJQXdBR09fNVpPN1NyZFdZV2NBMUR2NFVSX2RnV1Y2eE45WmQzMGJaSUtHejF3a3VYU2tycG4zejllUnJvMHBRbEh6T3B6U212?oc=5"
+  },
+  {
+    "title": "НБУ оштрафував ПУМБ на 10 млн грн за порушення фінмоніторингу: хто ще потрапив під санкції",
+    "topic": "aml",
+    "score": 150,
+    "badge": "🟣 AML",
+    "date": "21.08.2026",
+    "short": "Посилення фінмоніторингу.",
+    "content": "НБУ оштрафував ПУМБ на 10 млн грн за порушення фінмоніторингу: хто ще потрапив під санкції",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04TEk2eklUUHE1MWREdEc4cnljaXZTOXJhVlBaNzRlTzBrLXpYd3c0ZkRfQVkwRE16cVdEaS1TQ3RMWWJKUWVsNDF0c2didVp1NDVaZzA4QllhN28yWWdwWldoOVQyM3hR?oc=5"
   },
   {
     "title": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-08-21T12:53:08.486Z",
+      "updated": "2026-08-21T15:36:41.025Z",
       "count": 10
     }
   }
