@@ -1,5 +1,19 @@
 [
   {
+    "title": "НБУ готує реєстр дропів: що це таке та як допоможе боротися з шахрайством",
+    "topic": "fraud",
+    "score": 180,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "23.08.2026",
+    "short": "Ризики шахрайства.",
+    "content": "НБУ готує реєстр дропів: що це таке та як допоможе боротися з шахрайством",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIZk90dkN2dlJTVUtsSElHTTJJNFhtRjNFcXV1aUJ3XzAzYkJKdTZvVC1aMEFsR2tQeGdyLUdCckluSG5UZGxnZ3RXQ2dFU3QzM21ZRWhGaTlFanEwT0c5S1pONWRmRGRH?oc=5",
+    "top": "main"
+  },
+  {
     "title": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
     "topic": "sanctions",
     "score": 175,
@@ -11,7 +25,7 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
     "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3k4X0p6UkRUakh6cHNUVzRtVXd1UkdWLUpGQkVZdDZGSDdfekFYUlNYdEtBczZBU1ROYWdIZldaVTdCcm5IUkdJcmgwZWNoNi1rZTJBbDJkd2phYTU5c2o2TDBnOHBEVlo3R0d4U2NYX0pDeGtwbjF1MjVYQldyZkRoX0lMZFFVVmxQMEVXQmJpRzhYM3dObnRsMWJqc25GZk5sMlc5dXBNWnBpUHEydXBTNnk1aXJHYmpkOElVb2FTTlNya0EyM1RRWWlkdjhpTG1kOXNrTdIB0gFBVV95cUxPOG9QRzBjQmNobmtrR1lySEFNQVoxRk13S1lkeWJuLUh3Ri1JenNqTkNNWUVyTDlLX1haNzJ4MlRubEFmY05kRzlLamRyQjhrWE5QU3JaTU9xTGVuRlVTbTA3UUxJRENubmFLeTJIa3dPeFFnNkJsclIySWtQcTlKaUFvZjUyS0ZkS2lJektwRllSZmU3QklCRnllQTlrcDZYUk1qNm9DYjV1Smo0TERDSHM1c2VmWkRQMjRGdnN2V29QSXVLa0NzcVRNQmZJcHFIRWc?oc=5",
-    "top": "main"
+    "top": "top"
   },
   {
     "title": "НБУ закликає FATF включити Росію до «чорного списку»",
@@ -38,8 +52,7 @@
     "analysis": "FinAP: 🟣 AML — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Rjg3eU1NXzU5SW9lOTh4QXdoQUlsS2R0V2lGdllfNlhoN2l2ME12b2kwZUQ2eC1CN083VEt1ZVZnOXZZWF8tTUVhRHg1UjNZY21OeFU0cGp5dDBtV3pxbjBJVE5hNTNHVU1Z?oc=5",
-    "top": "top"
+    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Rjg3eU1NXzU5SW9lOTh4QXdoQUlsS2R0V2lGdllfNlhoN2l2ME12b2kwZUQ2eC1CN083VEt1ZVZnOXZZWF8tTUVhRHg1UjNZY21OeFU0cGp5dDBtV3pxbjBJVE5hNTNHVU1Z?oc=5"
   },
   {
     "title": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
@@ -55,19 +68,6 @@
     "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxTWE3anI0TWpnaWNLR0I0MGVRMWJnRlBab1Iwa0ZKd3BDOUtLSGdPQ2NsTldRQy1tbFZqbmJhT3ZmT0lXUmN6SVEzRjNQWGVkeGxTNEhnanJTUU05bFpGdDNhU3JUTFIxZGNBcg?oc=5"
   },
   {
-    "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
-    "topic": "fraud",
-    "score": 150,
-    "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "23.08.2026",
-    "short": "Ризики шахрайства.",
-    "content": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
-    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5"
-  },
-  {
     "title": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
     "topic": "sanctions",
     "score": 145,
@@ -79,6 +79,19 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTFBV1ZVU0p2LVNvRzRzcVBidE8zbE5hZkwzNi1kUnJFRlQta3JISVlFdGc5SVplZjdUTkJINlY5Q0d3YThiQ3FzaTNYdTV2emczbnBhQm9zY1VSbTdXT0ZpNmNkQlo4dlFfYndqTExQNVRPT1RBS0xzcWQ3SlpEV1hydDNJcVlUODRBNlZ0RzNBWk1iT0Y0?oc=5"
+  },
+  {
+    "title": "НБУ переводить українську платіжну інфраструктуру на міжнародний стандарт",
+    "topic": "payments",
+    "score": 105,
+    "badge": "💳 Платежі",
+    "date": "23.08.2026",
+    "short": "Зміни платежів.",
+    "content": "НБУ переводить українську платіжну інфраструктуру на міжнародний стандарт",
+    "analysis": "FinAP: 💳 Платежі — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/payments.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUN1Vzd5NUtqRDFFRlc3eU4yeTc3bmdibmE0UUthNDRrRVZXbHlDQndxX2JrUEU5UG9EalhGNThJZmZaZW1OY0E0aXd5eXVfRm52akVFR0ZWaXdXNS1rRVloenFqakNhU1lDZ3F5YWx0QXJIb3Bjb2VDUnVlOFkxT1RpVEFUTEpTd19kaERGV25fdEdsQVhfWWVKbDNuUFQtM2ZYUHBBTkJuSXl5eHRWU2N2WmhkUVBKRUdVQm50a2xkV1d40gHKAUFVX3lxTE1lb0NGZlNXMGhqYzBCRHY1LWtnRWh6RXJ6eHZaNVNkdWU4dl90ZlhjQi1GSi1aM2Y4LTVIUkxtejBvcVVqRm81cnNHbTdRQWh3OG1xRVladnpvUldQOXRoNGpYQ1VvcWlpVG0zcGNWUmtUSUJEekRXWGRjN2pTZnh2ZnYxVDlvSWNJcUswbDdmQ2RMNXJVZC1Xd2xaMUtOQjFrYWRHNXJ2Y3MwNlNjVGdWcmdpTFhHNXgwX2stVHNMS0hvZ2hka2FxQkE?oc=5"
   },
   {
     "title": "Україна розраховує отримати ще 95 млрд доларів міжнародної допомоги – НБУ",
@@ -107,19 +120,6 @@
     "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnBLdjJmQnMzc0xpWTFhR0tXR3J3N19vT3RoMzc1NjNDTHlIYlVGRGRibEJiNUNuZVlpdkxmR0l5dm82S2JfaEhkcnJDd0VnQXFXZV9ZbFJmXzd4R1FwLV9CU05SSzRwb20zOGxDd1ZQdmM4Nm92NXZFbDdsYVdNYUU5ZUNEUDdoUHVSQ0JfZ9IBlAFBVV95cUxORWJ1YUFKR0VUTTVSMEdWMGUwcFRWZlNQbTVXaWZrWGd1Nm5qeHlGMFh4R2RkN3FxRWFsdG1nbVd4YVFFSE11VnlBbkVkTDNKSmVTODgwRThXbks5ZzgyUllaSDFOSVA1MHplaUdjUFA2MWtBR3F1c3YzdXVSWUpPa181TU5EaWhOZ2p0TEx1RU45U2Q2?oc=5"
   },
   {
-    "title": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
-    "topic": "invest",
-    "score": 85,
-    "badge": "📈 Інвестиції",
-    "date": "23.08.2026",
-    "short": "Інвестиційний ринок.",
-    "content": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
-    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/invest.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zTDllbVZYcmMzR1FrODBLNXJRVGNLT05OT3gteVZSbmlVYkVpZkIxSi1XakkwSDRMTzJJVVpOb1VjRy1RN0NSQmhYWG9ILVFvU0c3SzRYSdIBWkFVX3lxTE1RMmxpN3pNVTVMbnA2WlA3TDNDeXZtQ3R2cFRYSy1iVjFSNi1jU1F2YlA0ZWZBaVJZUGhUdlRNc1l3bjl4TmFSbGR1MzlFTlA1VkJfVEdZYkFQZw?oc=5"
-  },
-  {
     "title": "НБУ відклав обіцяний дозвіл на виведення за кордон інвестицій у держоблігації",
     "topic": "invest",
     "score": 85,
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-08-23T09:30:30.775Z",
+      "updated": "2026-08-23T12:43:58.798Z",
       "count": 10
     }
   }
