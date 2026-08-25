@@ -14,20 +14,6 @@
     "top": "main"
   },
   {
-    "title": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
-    "topic": "sanctions",
-    "score": 175,
-    "badge": "🔴 Санкції",
-    "date": "25.08.2026",
-    "short": "Санкційний тиск.",
-    "content": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
-    "analysis": "FinAP: 🔴 Санкції — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/sanctions.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3k4X0p6UkRUakh6cHNUVzRtVXd1UkdWLUpGQkVZdDZGSDdfekFYUlNYdEtBczZBU1ROYWdIZldaVTdCcm5IUkdJcmgwZWNoNi1rZTJBbDJkd2phYTU5c2o2TDBnOHBEVlo3R0d4U2NYX0pDeGtwbjF1MjVYQldyZkRoX0lMZFFVVmxQMEVXQmJpRzhYM3dObnRsMWJqc25GZk5sMlc5dXBNWnBpUHEydXBTNnk1aXJHYmpkOElVb2FTTlNya0EyM1RRWWlkdjhpTG1kOXNrTdIB0gFBVV95cUxPOG9QRzBjQmNobmtrR1lySEFNQVoxRk13S1lkeWJuLUh3Ri1JenNqTkNNWUVyTDlLX1haNzJ4MlRubEFmY05kRzlLamRyQjhrWE5QU3JaTU9xTGVuRlVTbTA3UUxJRENubmFLeTJIa3dPeFFnNkJsclIySWtQcTlKaUFvZjUyS0ZkS2lJektwRllSZmU3QklCRnllQTlrcDZYUk1qNm9DYjV1Smo0TERDSHM1c2VmWkRQMjRGdnN2V29QSXVLa0NzcVRNQmZJcHFIRWc?oc=5",
-    "top": "top"
-  },
-  {
     "title": "НБУ закликає FATF включити Росію до «чорного списку»",
     "topic": "aml",
     "score": 170,
@@ -52,7 +38,8 @@
     "analysis": "FinAP: 🟣 AML — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Rjg3eU1NXzU5SW9lOTh4QXdoQUlsS2R0V2lGdllfNlhoN2l2ME12b2kwZUQ2eC1CN083VEt1ZVZnOXZZWF8tTUVhRHg1UjNZY21OeFU0cGp5dDBtV3pxbjBJVE5hNTNHVU1Z?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Rjg3eU1NXzU5SW9lOTh4QXdoQUlsS2R0V2lGdllfNlhoN2l2ME12b2kwZUQ2eC1CN083VEt1ZVZnOXZZWF8tTUVhRHg1UjNZY21OeFU0cGp5dDBtV3pxbjBJVE5hNTNHVU1Z?oc=5",
+    "top": "top"
   },
   {
     "title": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
@@ -79,6 +66,19 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTFBV1ZVU0p2LVNvRzRzcVBidE8zbE5hZkwzNi1kUnJFRlQta3JISVlFdGc5SVplZjdUTkJINlY5Q0d3YThiQ3FzaTNYdTV2emczbnBhQm9zY1VSbTdXT0ZpNmNkQlo4dlFfYndqTExQNVRPT1RBS0xzcWQ3SlpEV1hydDNJcVlUODRBNlZ0RzNBWk1iT0Y0?oc=5"
+  },
+  {
+    "title": "ЄС запровадив нові санкції проти представників російського ВПК",
+    "topic": "sanctions",
+    "score": 125,
+    "badge": "🔴 Санкції",
+    "date": "25.08.2026",
+    "short": "Санкційний тиск.",
+    "content": "ЄС запровадив нові санкції проти представників російського ВПК",
+    "analysis": "FinAP: 🔴 Санкції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/sanctions.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSldBbTQtbklpZFkzV3ZHbXhvWXM1Y1hTR2RFOWNTazdZTkpKdlNwM3dXN1BSeVJBYV9LT3BGejJNem9ZeGN2TFNGX2lLNWxxa3RES3lEbGtCa2JZdkpteWVQZ0ZvR1lrb1gxLWtBY012YzVMM1NXQ0lLbzlRSHc0Rm5XTnZDUFR1cTZ6cldEMVZ2N1ZqSHQyVERpT0F0S1cxQmZxWFViVk1HTDAxblp1LdIBtgFBVV95cUxNTTlDRFA5WGVFeXpJYklCOHJlTWxuLTVTcXBLcWFiUkUtcTFqV08tOXoyRXpNSlJkNGc3REJXeGJWM3NpVTNRQW5ESENQaENNY0o3UXBtZGNwbXE2MF95WXN2OFlQLW1WZnJkekxuMEVlQXloMEhJSGU1UU9zcGJjMjBZS1lwUzc1eUx4OUNEXzFaM2s3YUdIbVlkQVJRbEZKZFNHT2d0TnloRUJrWk96YXFjNnRUQQ?oc=5"
   },
   {
     "title": "Україна розраховує отримати ще 95 млрд доларів міжнародної допомоги – НБУ",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-08-25T06:53:37.371Z",
+      "updated": "2026-08-25T09:38:18.781Z",
       "count": 10
     }
   }
