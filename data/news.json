@@ -1,8 +1,141 @@
 [
   {
+    "title": "НБУ готує реєстр дропів: що це таке та як допоможе боротися з шахрайством",
+    "topic": "fraud",
+    "score": 180,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "25.08.2026",
+    "short": "Ризики шахрайства.",
+    "content": "НБУ готує реєстр дропів: що це таке та як допоможе боротися з шахрайством",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIZk90dkN2dlJTVUtsSElHTTJJNFhtRjNFcXV1aUJ3XzAzYkJKdTZvVC1aMEFsR2tQeGdyLUdCckluSG5UZGxnZ3RXQ2dFU3QzM21ZRWhGaTlFanEwT0c5S1pONWRmRGRH?oc=5",
+    "top": "main"
+  },
+  {
+    "title": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
+    "topic": "sanctions",
+    "score": 175,
+    "badge": "🔴 Санкції",
+    "date": "25.08.2026",
+    "short": "Санкційний тиск.",
+    "content": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
+    "analysis": "FinAP: 🔴 Санкції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/sanctions.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3k4X0p6UkRUakh6cHNUVzRtVXd1UkdWLUpGQkVZdDZGSDdfekFYUlNYdEtBczZBU1ROYWdIZldaVTdCcm5IUkdJcmgwZWNoNi1rZTJBbDJkd2phYTU5c2o2TDBnOHBEVlo3R0d4U2NYX0pDeGtwbjF1MjVYQldyZkRoX0lMZFFVVmxQMEVXQmJpRzhYM3dObnRsMWJqc25GZk5sMlc5dXBNWnBpUHEydXBTNnk1aXJHYmpkOElVb2FTTlNya0EyM1RRWWlkdjhpTG1kOXNrTdIB0gFBVV95cUxPOG9QRzBjQmNobmtrR1lySEFNQVoxRk13S1lkeWJuLUh3Ri1JenNqTkNNWUVyTDlLX1haNzJ4MlRubEFmY05kRzlLamRyQjhrWE5QU3JaTU9xTGVuRlVTbTA3UUxJRENubmFLeTJIa3dPeFFnNkJsclIySWtQcTlKaUFvZjUyS0ZkS2lJektwRllSZmU3QklCRnllQTlrcDZYUk1qNm9DYjV1Smo0TERDSHM1c2VmWkRQMjRGdnN2V29QSXVLa0NzcVRNQmZJcHFIRWc?oc=5",
+    "top": "top"
+  },
+  {
+    "title": "НБУ закликає FATF включити Росію до «чорного списку»",
+    "topic": "aml",
+    "score": 170,
+    "badge": "🟣 AML",
+    "date": "25.08.2026",
+    "short": "Посилення фінмоніторингу.",
+    "content": "НБУ закликає FATF включити Росію до «чорного списку»",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Eb1RkbmRFTHJUY3ZxOVJoNF8wNFBGaWRQS1h6QVdObXJEVGtBM1NUdmxJYnIxWEF4M2pxYWhyVUdyNFpzVGVEWF9oZGJ4c0g2TjZ5Sm9YeGh6ekN2Y1daSW14bF9ScEtwTDQ0?oc=5",
+    "top": "top"
+  },
+  {
+    "title": "НБУ вслід за Мінфіном і депутатами просить FATF позбавити РФ членства і включити агресора до чорного списку",
+    "topic": "aml",
+    "score": 170,
+    "badge": "🟣 AML",
+    "date": "25.08.2026",
+    "short": "Посилення фінмоніторингу.",
+    "content": "НБУ вслід за Мінфіном і депутатами просить FATF позбавити РФ членства і включити агресора до чорного списку",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Rjg3eU1NXzU5SW9lOTh4QXdoQUlsS2R0V2lGdllfNlhoN2l2ME12b2kwZUQ2eC1CN083VEt1ZVZnOXZZWF8tTUVhRHg1UjNZY21OeFU0cGp5dDBtV3pxbjBJVE5hNTNHVU1Z?oc=5"
+  },
+  {
+    "title": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
+    "topic": "fraud",
+    "score": 160,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "25.08.2026",
+    "short": "Ризики шахрайства.",
+    "content": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxTWE3anI0TWpnaWNLR0I0MGVRMWJnRlBab1Iwa0ZKd3BDOUtLSGdPQ2NsTldRQy1tbFZqbmJhT3ZmT0lXUmN6SVEzRjNQWGVkeGxTNEhnanJTUU05bFpGdDNhU3JUTFIxZGNBcg?oc=5"
+  },
+  {
+    "title": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
+    "topic": "sanctions",
+    "score": 145,
+    "badge": "🔴 Санкції",
+    "date": "25.08.2026",
+    "short": "Санкційний тиск.",
+    "content": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
+    "analysis": "FinAP: 🔴 Санкції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/sanctions.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTFBV1ZVU0p2LVNvRzRzcVBidE8zbE5hZkwzNi1kUnJFRlQta3JISVlFdGc5SVplZjdUTkJINlY5Q0d3YThiQ3FzaTNYdTV2emczbnBhQm9zY1VSbTdXT0ZpNmNkQlo4dlFfYndqTExQNVRPT1RBS0xzcWQ3SlpEV1hydDNJcVlUODRBNlZ0RzNBWk1iT0Y0?oc=5"
+  },
+  {
+    "title": "Україна розраховує отримати ще 95 млрд доларів міжнародної допомоги – НБУ",
+    "topic": "nbu",
+    "score": 85,
+    "badge": "🏦 НБУ",
+    "date": "25.08.2026",
+    "short": "Рішення регулятора.",
+    "content": "Україна розраховує отримати ще 95 млрд доларів міжнародної допомоги – НБУ",
+    "analysis": "FinAP: 🏦 НБУ — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/nbu.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUll3aFhpZG9TSW0tb3B3cUJfSldlTkl2NHh2S1Z6akpPNFUwaC1rUktaRE9FY2dtWmotX2h2YUttRFQxLWRVakFzbVZjV21oVkh4T2o3aXZqeUUtUTlaX3kxb290aEhoNkhjZktza1FWaGRkYmZseTR6eDBXZDlXTHNHejRuUmJJM0pGNVVkSlZ5b3BiakczcnI5MnJIM0lZYUI3elBpSFNkTGZnbW03ZkpkT2dwVmlfQU50UEhSdUhrZ1R0ZE4xN29Pa9IB0AFBVV95cUxOUXJ1QjN2NXo3Qk1Kdk0xYTM0dHN6V1BnMnVyQmRlek04R01yaHltY1k2TmFSR05vNVRhX0VZNVBwak1BWS1jSFA3c3VFZURCUFhyTDd5dzJOLVBpdDVuTFVwZ3g4Mlh5c05lZHFBUlgtS19JVTlYTVRONFdNUEFld3JRc3BYRnkzSUhNQUNPYmk3SnItUURrbW0tSWFEaUFMUWFmNXJELWhlNjlSd0Q4ZEdCVUpHUWpSajdsVkhMLUNfUzlfM1ZZSGxmaWJ3Sm5H?oc=5"
+  },
+  {
+    "title": "Валютні обмеження НБУ стримують експорт та інвестиції: бізнес закликає до лібералізації",
+    "topic": "invest",
+    "score": 85,
+    "badge": "📈 Інвестиції",
+    "date": "25.08.2026",
+    "short": "Інвестиційний ринок.",
+    "content": "Валютні обмеження НБУ стримують експорт та інвестиції: бізнес закликає до лібералізації",
+    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/invest.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnBLdjJmQnMzc0xpWTFhR0tXR3J3N19vT3RoMzc1NjNDTHlIYlVGRGRibEJiNUNuZVlpdkxmR0l5dm82S2JfaEhkcnJDd0VnQXFXZV9ZbFJmXzd4R1FwLV9CU05SSzRwb20zOGxDd1ZQdmM4Nm92NXZFbDdsYVdNYUU5ZUNEUDdoUHVSQ0JfZ9IBlAFBVV95cUxORWJ1YUFKR0VUTTVSMEdWMGUwcFRWZlNQbTVXaWZrWGd1Nm5qeHlGMFh4R2RkN3FxRWFsdG1nbVd4YVFFSE11VnlBbkVkTDNKSmVTODgwRThXbks5ZzgyUllaSDFOSVA1MHplaUdjUFA2MWtBR3F1c3YzdXVSWUpPa181TU5EaWhOZ2p0TEx1RU45U2Q2?oc=5"
+  },
+  {
+    "title": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
+    "topic": "invest",
+    "score": 85,
+    "badge": "📈 Інвестиції",
+    "date": "25.08.2026",
+    "short": "Інвестиційний ринок.",
+    "content": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
+    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/invest.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zTDllbVZYcmMzR1FrODBLNXJRVGNLT05OT3gteVZSbmlVYkVpZkIxSi1XakkwSDRMTzJJVVpOb1VjRy1RN0NSQmhYWG9ILVFvU0c3SzRYSdIBWkFVX3lxTE1RMmxpN3pNVTVMbnA2WlA3TDNDeXZtQ3R2cFRYSy1iVjFSNi1jU1F2YlA0ZWZBaVJZUGhUdlRNc1l3bjl4TmFSbGR1MzlFTlA1VkJfVEdZYkFQZw?oc=5"
+  },
+  {
+    "title": "Після візиту Зеленського до Оману Україна не отримала жодних інвестицій – НБУ",
+    "topic": "invest",
+    "score": 85,
+    "badge": "📈 Інвестиції",
+    "date": "25.08.2026",
+    "short": "Інвестиційний ринок.",
+    "content": "Після візиту Зеленського до Оману Україна не отримала жодних інвестицій – НБУ",
+    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/invest.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORlkwWm5FS3BXSl9XZTh4TkJxUWpETXhycGRWLVpFNy00TGdCYldtbDdUd1R5MG1WSDZBMFpzQ3VDQTd6LXVKQXBKZi1QNjJsanlaalotSXduZkZzUHZLVUdsaDRjc3ZNSnVTYmo4UnZQc2x3aXEyUHNjSTZ0UkZyMXF5VUtqREg0dXRTYWJSRTRBb1UxYWJmaW1pNms1aTZTbmsxRjFUd1c0bkQteTdaeUc2cVpsblhEZE5jRlRMNFRUbFF3VFRucWV2d211aGZGNUxMNUY0NW9qNkJDNW1KN0Rn0gHnAUFVX3lxTE1xVzNaWWd6Qjkwai1yQjVCY0FWeU8xMjZueGUzc2ZGb1VWNDFWNVMxa1FFMmpuMmZCSk0teFFRb0owcTBYQng0aG5iLUl1VEpSUHBoZkFVNlAxT2lFN2RDcVEyc0xwaUxxVndIUktELTVFTWswUEFrMTQ2M2lnVVpKZXBOQU5LLWZJYWQ3VXlOU05HNkhvMVdJMEJHV0IzNGRnS2F6bjBHSHEyUm85TklfbTV4LXdrblQtQ2o1UlNIUjJCSmtTaVY3ZDRqZkFLN2dQWEZGQjNQSWZtS3JLMFRDV2tHMlZXYw?oc=5"
+  },
+  {
     "meta": {
-      "updated": "2026-08-25T04:05:39.143Z",
-      "count": 0
+      "updated": "2026-08-25T06:53:37.371Z",
+      "count": 10
     }
   }
 ]
