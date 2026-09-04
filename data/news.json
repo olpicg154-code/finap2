@@ -42,19 +42,6 @@
     "top": "top"
   },
   {
-    "title": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
-    "topic": "fraud",
-    "score": 160,
-    "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "04.09.2026",
-    "short": "Ризики шахрайства.",
-    "content": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
-    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxTWE3anI0TWpnaWNLR0I0MGVRMWJnRlBab1Iwa0ZKd3BDOUtLSGdPQ2NsTldRQy1tbFZqbmJhT3ZmT0lXUmN6SVEzRjNQWGVkeGxTNEhnanJTUU05bFpGdDNhU3JUTFIxZGNBcg?oc=5"
-  },
-  {
     "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
     "topic": "fraud",
     "score": 150,
@@ -81,6 +68,19 @@
     "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1VXbkxNalZJV0s0YlNUcHV6amkwTkZ1VjQ2NVhDU2wySVFQMFNMQS1qSlZtUzdCSXZyTGlxMGN4WFlORkZFQUZXOE8wbGNDaXk5NmliN1BaYUIzS3hmek11clV5TVFXT0puSDVBYl85UFZLa0NQSDhKaF9ZeXFmUzIxdm0tbHNTNTZJU3VKa2VoY01RRThtNmV3bFBZMkdIZ25OcS1oRG9fdDBIRjZGZndBSUFfSUxGVzV0aVdpY2lCUW01Sl9yQldDVFRJNXc?oc=5"
   },
   {
+    "title": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
+    "topic": "fraud",
+    "score": 150,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "04.09.2026",
+    "short": "Ризики шахрайства.",
+    "content": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQkRBeUpHQk1zOEx3WDVPYndXMjVhb0ZNOFdBbzQ4anBMTEppNzk5VVVIMC1HbWs3aHpJSm5tREhQQl9iV1AxLXlrcmREU2dKM0RGcGJGNG5kNXpUOGw2MXVod3ZGdDhIbzZWdl9ZdTVGZ0JRem9FMktwTHgybXpGTVM3MXhSc1pCVnhucUpMclRlOFRwMWwzd1djMGNNUnZZMDRoNF9PSkhLV1d1cTlqMG9ndDRyWmpUNk9aVWNZQTVnVm1aa0N6a1ZuNnhDQ1ZJektjRUx30gHQAUFVX3lxTFBJbjhiNERkSHlxUzJPZkVicGlfSHBNZHdEZE9kMDQwQkJtYUlrdGdhSUVVMFdKcEFxUm9aZFpJdExmR1dBWEt6eWFQQ2Q4WnlCakFxZ0pPVU1FMGV1QjJYbld6bU52MFZESDY3UG52bU5ZZzh6RjZ5M2ZMRHBKSmNzRE5uWjJpMXRjazMzdm5kVlZLYXIzUVJFU1J3NUZ3dVB2ZGlZMnF1SHdjelNNaG83d1NHdGZJQjNneXctandDTzRTRHZUd0pGZ2RtQ1ltcXo?oc=5"
+  },
+  {
     "title": "Платіжна інфраструктура України перейде на міжнародний стандарт – НБУ",
     "topic": "payments",
     "score": 105,
@@ -92,32 +92,6 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/payments.jpeg",
     "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeW9yNlAwR2FBdjFDVjhNQ1preEZmclpTSG0wdXhINldHQTB2WDhIMm9NTEE4bXh5cnZkQThqMDBQX3lkdmtPZUhVWHI3Z0FJTzhUNy15S2gxUFJHZXc1TEoyN0pPRU51WndfcW1QRlo5MUZoWm5GbmVpdkJ2cXpuNzVrTzFMM2k1RjdiaVJsUU1NckdKaFBjQ2ROWURKdGMyd0N3M0lPTE5ROU9sM0pGVk1hbzhzNXJEeFotamx2QmXSAcYBQVVfeXFMTUtQY2FiV2xsNUx5dEFVTHYtX0hTcUI2N1hyaFNGSlNhUndzb0h5QnhGWC1UVXYxS1dMeTBWMXBCWmhYTUVBZ1htaUc1dXhVYll0RXJMTWR1TldRdXpFTEJ2a09TbExZRnFPcjZRcklXZ0NtZlBGTGxMaWxneUszS3BudEF3QklSYU11cUdQT1MxMGRQMDluM1RBOEpYeFVOdzdicEZOc19VcTZPa3hJN0ZmdGVqUjVQb3pDbElmZHpQZ0J1NnNR?oc=5"
-  },
-  {
-    "title": "Україна розраховує отримати ще 95 млрд доларів міжнародної допомоги – НБУ",
-    "topic": "nbu",
-    "score": 85,
-    "badge": "🏦 НБУ",
-    "date": "04.09.2026",
-    "short": "Рішення регулятора.",
-    "content": "Україна розраховує отримати ще 95 млрд доларів міжнародної допомоги – НБУ",
-    "analysis": "FinAP: 🏦 НБУ — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/nbu.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUll3aFhpZG9TSW0tb3B3cUJfSldlTkl2NHh2S1Z6akpPNFUwaC1rUktaRE9FY2dtWmotX2h2YUttRFQxLWRVakFzbVZjV21oVkh4T2o3aXZqeUUtUTlaX3kxb290aEhoNkhjZktza1FWaGRkYmZseTR6eDBXZDlXTHNHejRuUmJJM0pGNVVkSlZ5b3BiakczcnI5MnJIM0lZYUI3elBpSFNkTGZnbW03ZkpkT2dwVmlfQU50UEhSdUhrZ1R0ZE4xN29Pa9IB0AFBVV95cUxOUXJ1QjN2NXo3Qk1Kdk0xYTM0dHN6V1BnMnVyQmRlek04R01yaHltY1k2TmFSR05vNVRhX0VZNVBwak1BWS1jSFA3c3VFZURCUFhyTDd5dzJOLVBpdDVuTFVwZ3g4Mlh5c05lZHFBUlgtS19JVTlYTVRONFdNUEFld3JRc3BYRnkzSUhNQUNPYmk3SnItUURrbW0tSWFEaUFMUWFmNXJELWhlNjlSd0Q4ZEdCVUpHUWpSajdsVkhMLUNfUzlfM1ZZSGxmaWJ3Sm5H?oc=5"
-  },
-  {
-    "title": "Валютна лібералізація НБУ: нові можливості для бізнесу, який підтримує ЗСУ, інвестицій та українців за кордоном",
-    "topic": "invest",
-    "score": 85,
-    "badge": "📈 Інвестиції",
-    "date": "04.09.2026",
-    "short": "Інвестиційний ринок.",
-    "content": "Валютна лібералізація НБУ: нові можливості для бізнесу, який підтримує ЗСУ, інвестицій та українців за кордоном",
-    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/invest.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTl9NeHItZUJuSVNDbC1CV2t2ZXFiWlhFM1lPdy12OWZZbVRMcHFOay1FQV9ObXE5UUhSSHBmSnVwcmdFX0R5RUZEclFxbkl4TTlEQ1lJSG90U2VfVFlFZXBSdkhxMGNYOUw1bUp5WFJmeW1GUFFoSXExVGEzdHFLU2NSS19Zb25fVkJuS21ZenFGQmhGaEp4NFNaeVgzR2ZhNUFNaFVVUDBRbjdnMmpQWWJNS0R2dEV1TV90UlgycnZkLXF2NnFKRWx0TnlKQVpFRG5yNE9UclZLc2JfbDE3VGhiZWh0NlFlVkF0V0t3?oc=5"
   },
   {
     "title": "Валютні обмеження НБУ стримують експорт та інвестиції: бізнес закликає до лібералізації",
@@ -133,8 +107,34 @@
     "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnBLdjJmQnMzc0xpWTFhR0tXR3J3N19vT3RoMzc1NjNDTHlIYlVGRGRibEJiNUNuZVlpdkxmR0l5dm82S2JfaEhkcnJDd0VnQXFXZV9ZbFJmXzd4R1FwLV9CU05SSzRwb20zOGxDd1ZQdmM4Nm92NXZFbDdsYVdNYUU5ZUNEUDdoUHVSQ0JfZ9IBlAFBVV95cUxORWJ1YUFKR0VUTTVSMEdWMGUwcFRWZlNQbTVXaWZrWGd1Nm5qeHlGMFh4R2RkN3FxRWFsdG1nbVd4YVFFSE11VnlBbkVkTDNKSmVTODgwRThXbks5ZzgyUllaSDFOSVA1MHplaUdjUFA2MWtBR3F1c3YzdXVSWUpPa181TU5EaWhOZ2p0TEx1RU45U2Q2?oc=5"
   },
   {
+    "title": "Валютна лібералізація НБУ: нові можливості для бізнесу, який підтримує ЗСУ, інвестицій та українців за кордоном",
+    "topic": "invest",
+    "score": 85,
+    "badge": "📈 Інвестиції",
+    "date": "04.09.2026",
+    "short": "Інвестиційний ринок.",
+    "content": "Валютна лібералізація НБУ: нові можливості для бізнесу, який підтримує ЗСУ, інвестицій та українців за кордоном",
+    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/invest.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTl9NeHItZUJuSVNDbC1CV2t2ZXFiWlhFM1lPdy12OWZZbVRMcHFOay1FQV9ObXE5UUhSSHBmSnVwcmdFX0R5RUZEclFxbkl4TTlEQ1lJSG90U2VfVFlFZXBSdkhxMGNYOUw1bUp5WFJmeW1GUFFoSXExVGEzdHFLU2NSS19Zb25fVkJuS21ZenFGQmhGaEp4NFNaeVgzR2ZhNUFNaFVVUDBRbjdnMmpQWWJNS0R2dEV1TV90UlgycnZkLXF2NnFKRWx0TnlKQVpFRG5yNE9UclZLc2JfbDE3VGhiZWh0NlFlVkF0V0t3?oc=5"
+  },
+  {
+    "title": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
+    "topic": "invest",
+    "score": 85,
+    "badge": "📈 Інвестиції",
+    "date": "04.09.2026",
+    "short": "Інвестиційний ринок.",
+    "content": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
+    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/invest.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zTDllbVZYcmMzR1FrODBLNXJRVGNLT05OT3gteVZSbmlVYkVpZkIxSi1XakkwSDRMTzJJVVpOb1VjRy1RN0NSQmhYWG9ILVFvU0c3SzRYSdIBWkFVX3lxTE1RMmxpN3pNVTVMbnA2WlA3TDNDeXZtQ3R2cFRYSy1iVjFSNi1jU1F2YlA0ZWZBaVJZUGhUdlRNc1l3bjl4TmFSbGR1MzlFTlA1VkJfVEdZYkFQZw?oc=5"
+  },
+  {
     "meta": {
-      "updated": "2026-09-04T10:55:49.959Z",
+      "updated": "2026-09-04T15:58:31.714Z",
       "count": 10
     }
   }
