@@ -1,5 +1,19 @@
 [
   {
+    "title": "НБУ готує реєстр дропів: що це таке та як допоможе боротися з шахрайством",
+    "topic": "fraud",
+    "score": 180,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "06.09.2026",
+    "short": "Ризики шахрайства.",
+    "content": "НБУ готує реєстр дропів: що це таке та як допоможе боротися з шахрайством",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIZk90dkN2dlJTVUtsSElHTTJJNFhtRjNFcXV1aUJ3XzAzYkJKdTZvVC1aMEFsR2tQeGdyLUdCckluSG5UZGxnZ3RXQ2dFU3QzM21ZRWhGaTlFanEwT0c5S1pONWRmRGRH?oc=5",
+    "top": "main"
+  },
+  {
     "title": "Голова НБУ показав, як нові санкції США вплинули на фінансовий сектор РФ",
     "topic": "sanctions",
     "score": 175,
@@ -11,7 +25,7 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
     "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2drbU50M1F3eWFMaDdxZFRGNVBIRTRPWGV6N3FBbWxrMzNGeE1OTk4yZF9xcEZyRWFjMHVYdTdOS2hXS3VJdnk4cFBCeXFISGFKcEV4N0s1dGh6V0dLS0JnQ2hVVnhmNjB4cm00eGJJTzBPQVpGdHphV3dVYUI5c01keFRlamdCUnhSZ9IBkgFBVV95cUxQR1FHUUYtbEdaV0FyeHV4ZlU0VXgya3JuNlBud1BCNmgxbmlXb2hNUXZobkU3VFhibUhMS2Y4dUd4Y1Z0cm80aXlMc1BzOGpNVGFrSlg4WUFqdkZsbzhvNGQ2WVRGMjZhMXl1OWxhb1pPdnV5US1ZMkdXSW10QURvalc4T1prbjFpeGdmQkN3dnhaZw?oc=5",
-    "top": "main"
+    "top": "top"
   },
   {
     "title": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
@@ -38,8 +52,7 @@
     "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5",
-    "top": "top"
+    "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5"
   },
   {
     "title": "Ольга Василевська-Смаглюк: Призупинення участі Росії у FATF спонукатиме остаточному виходу міжнародних компаній із ринку РФ",
@@ -53,19 +66,6 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
     "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Kd0xNS0hMajRoNWpFYmRVS0VwQ0F0eWhWemYzZ3FlWHZCbDVtZGJOQWw2aGlTRlQ5TzNoSUhhRGVMeWJaRWtHU3ZvR0dVRHl1Z2p1c2R5ZkJPN09JTVE?oc=5"
-  },
-  {
-    "title": "Інвестиції в криптовалюту через кол-центри: в Україні знищили міжнародну шахрайську мережу",
-    "topic": "fraud",
-    "score": 130,
-    "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "06.09.2026",
-    "short": "Ризики шахрайства.",
-    "content": "Інвестиції в криптовалюту через кол-центри: в Україні знищили міжнародну шахрайську мережу",
-    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONnc3SXV1M0VieHpqLWJVeVBOdGJQeGdDZmpMbnRlWExxcEsyN1duMC1PLUV3LXNuX2ZZMlpDU09tT2MzdFhhQzhueGVWVDFxZjJoYVYtSzhjZHUwdWR2RXZwOW5KVWhjTHRDTXFZZE1Balh4NGtJREJaRnJNQ2Vxb195Y2FLT0E0bVdMSl9xdVpQM0xSbVlz0gGcAUFVX3lxTFBUUV9LVkgya0dUYXFGX1IyRlFvYlpHRUVITmZsZXcwZ2xjSTdvckg4UFhxdjBhQzd3X1VMY2lBTERhc2I0RXNNT3VRN05XSkc5Q0RSOFFPLWY5bGNucGt0Rjk4VnJ3dEFiR2tfRGNtU1dCWDktNTk0WG9JZHcwWE8yWG9Vc3NQWXBYdEdleldRRl8zVHJ3M3luTHFUbA?oc=5"
   },
   {
     "title": "Внести росію до “чорного” списку: Держфінмоніторинг забезпечує підготовку до чергового засідання FATF",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-09-06T20:09:14.373Z",
+      "updated": "2026-09-06T22:46:33.469Z",
       "count": 10
     }
   }
