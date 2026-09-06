@@ -28,20 +28,6 @@
     "top": "top"
   },
   {
-    "title": "НБУ вслід за Мінфіном і депутатами просить FATF позбавити РФ членства і включити агресора до чорного списку",
-    "topic": "aml",
-    "score": 170,
-    "badge": "🟣 AML",
-    "date": "06.09.2026",
-    "short": "Посилення фінмоніторингу.",
-    "content": "НБУ вслід за Мінфіном і депутатами просить FATF позбавити РФ членства і включити агресора до чорного списку",
-    "analysis": "FinAP: 🟣 AML — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Rjg3eU1NXzU5SW9lOTh4QXdoQUlsS2R0V2lGdllfNlhoN2l2ME12b2kwZUQ2eC1CN083VEt1ZVZnOXZZWF8tTUVhRHg1UjNZY21OeFU0cGp5dDBtV3pxbjBJVE5hNTNHVU1Z?oc=5",
-    "top": "top"
-  },
-  {
     "title": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
     "topic": "fraud",
     "score": 160,
@@ -52,7 +38,8 @@
     "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxTWE3anI0TWpnaWNLR0I0MGVRMWJnRlBab1Iwa0ZKd3BDOUtLSGdPQ2NsTldRQy1tbFZqbmJhT3ZmT0lXUmN6SVEzRjNQWGVkeGxTNEhnanJTUU05bFpGdDNhU3JUTFIxZGNBcg?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxTWE3anI0TWpnaWNLR0I0MGVRMWJnRlBab1Iwa0ZKd3BDOUtLSGdPQ2NsTldRQy1tbFZqbmJhT3ZmT0lXUmN6SVEzRjNQWGVkeGxTNEhnanJTUU05bFpGdDNhU3JUTFIxZGNBcg?oc=5",
+    "top": "top"
   },
   {
     "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
@@ -79,6 +66,19 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
     "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Kd0xNS0hMajRoNWpFYmRVS0VwQ0F0eWhWemYzZ3FlWHZCbDVtZGJOQWw2aGlTRlQ5TzNoSUhhRGVMeWJaRWtHU3ZvR0dVRHl1Z2p1c2R5ZkJPN09JTVE?oc=5"
+  },
+  {
+    "title": "Внести росію до “чорного” списку: Держфінмоніторинг забезпечує підготовку до чергового засідання FATF",
+    "topic": "aml",
+    "score": 120,
+    "badge": "🟣 AML",
+    "date": "06.09.2026",
+    "short": "Посилення фінмоніторингу.",
+    "content": "Внести росію до “чорного” списку: Держфінмоніторинг забезпечує підготовку до чергового засідання FATF",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ibV9kUmhsWlJGSFUwTjQ5ZTdweU81cDVPMjlBd3NGR3ZBRmZEb21zWWgtRnExa0FKZk54M0IwUHp2SGhQa0pVZWN0Z0NzR1Z5T2Fjd2RlNzZVZVIteGZKWTdMdDl5LWwy?oc=5"
   },
   {
     "title": "Чи планує Україна включати криптоактиви до міжнародних резервів: відповідь НБУ",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-09-06T03:33:27.610Z",
+      "updated": "2026-09-06T10:31:35.566Z",
       "count": 10
     }
   }
