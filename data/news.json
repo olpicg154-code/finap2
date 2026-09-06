@@ -28,20 +28,6 @@
     "top": "top"
   },
   {
-    "title": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
-    "topic": "fraud",
-    "score": 160,
-    "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "06.09.2026",
-    "short": "Ризики шахрайства.",
-    "content": "Верховний Суд захистив споживача: за несанкціоноване, шахрайське списання грошових коштів з картки споживач відповідальності не несе",
-    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxTWE3anI0TWpnaWNLR0I0MGVRMWJnRlBab1Iwa0ZKd3BDOUtLSGdPQ2NsTldRQy1tbFZqbmJhT3ZmT0lXUmN6SVEzRjNQWGVkeGxTNEhnanJTUU05bFpGdDNhU3JUTFIxZGNBcg?oc=5",
-    "top": "top"
-  },
-  {
     "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
     "topic": "fraud",
     "score": 150,
@@ -52,7 +38,8 @@
     "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5",
+    "top": "top"
   },
   {
     "title": "Ольга Василевська-Смаглюк: Призупинення участі Росії у FATF спонукатиме остаточному виходу міжнародних компаній із ринку РФ",
@@ -66,6 +53,19 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
     "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Kd0xNS0hMajRoNWpFYmRVS0VwQ0F0eWhWemYzZ3FlWHZCbDVtZGJOQWw2aGlTRlQ5TzNoSUhhRGVMeWJaRWtHU3ZvR0dVRHl1Z2p1c2R5ZkJPN09JTVE?oc=5"
+  },
+  {
+    "title": "Інвестиції в криптовалюту через кол-центри: в Україні знищили міжнародну шахрайську мережу",
+    "topic": "fraud",
+    "score": 130,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "06.09.2026",
+    "short": "Ризики шахрайства.",
+    "content": "Інвестиції в криптовалюту через кол-центри: в Україні знищили міжнародну шахрайську мережу",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONnc3SXV1M0VieHpqLWJVeVBOdGJQeGdDZmpMbnRlWExxcEsyN1duMC1PLUV3LXNuX2ZZMlpDU09tT2MzdFhhQzhueGVWVDFxZjJoYVYtSzhjZHUwdWR2RXZwOW5KVWhjTHRDTXFZZE1Balh4NGtJREJaRnJNQ2Vxb195Y2FLT0E0bVdMSl9xdVpQM0xSbVlz0gGcAUFVX3lxTFBUUV9LVkgya0dUYXFGX1IyRlFvYlpHRUVITmZsZXcwZ2xjSTdvckg4UFhxdjBhQzd3X1VMY2lBTERhc2I0RXNNT3VRN05XSkc5Q0RSOFFPLWY5bGNucGt0Rjk4VnJ3dEFiR2tfRGNtU1dCWDktNTk0WG9JZHcwWE8yWG9Vc3NQWXBYdEdleldRRl8zVHJ3M3luTHFUbA?oc=5"
   },
   {
     "title": "Внести росію до “чорного” списку: Держфінмоніторинг забезпечує підготовку до чергового засідання FATF",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-09-06T15:08:38.957Z",
+      "updated": "2026-09-06T20:09:14.373Z",
       "count": 10
     }
   }
