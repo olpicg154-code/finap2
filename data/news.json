@@ -1,5 +1,19 @@
 [
   {
+    "title": "НБУ готує реєстр дропів: що це таке та як допоможе боротися з шахрайством",
+    "topic": "fraud",
+    "score": 180,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "08.09.2026",
+    "short": "Ризики шахрайства.",
+    "content": "НБУ готує реєстр дропів: що це таке та як допоможе боротися з шахрайством",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIZk90dkN2dlJTVUtsSElHTTJJNFhtRjNFcXV1aUJ3XzAzYkJKdTZvVC1aMEFsR2tQeGdyLUdCckluSG5UZGxnZ3RXQ2dFU3QzM21ZRWhGaTlFanEwT0c5S1pONWRmRGRH?oc=5",
+    "top": "main"
+  },
+  {
     "title": "Голова НБУ показав, як нові санкції США вплинули на фінансовий сектор РФ",
     "topic": "sanctions",
     "score": 175,
@@ -11,7 +25,7 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
     "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2drbU50M1F3eWFMaDdxZFRGNVBIRTRPWGV6N3FBbWxrMzNGeE1OTk4yZF9xcEZyRWFjMHVYdTdOS2hXS3VJdnk4cFBCeXFISGFKcEV4N0s1dGh6V0dLS0JnQ2hVVnhmNjB4cm00eGJJTzBPQVpGdHphV3dVYUI5c01keFRlamdCUnhSZ9IBkgFBVV95cUxQR1FHUUYtbEdaV0FyeHV4ZlU0VXgya3JuNlBud1BCNmgxbmlXb2hNUXZobkU3VFhibUhMS2Y4dUd4Y1Z0cm80aXlMc1BzOGpNVGFrSlg4WUFqdkZsbzhvNGQ2WVRGMjZhMXl1OWxhb1pPdnV5US1ZMkdXSW10QURvalc4T1prbjFpeGdmQkN3dnhaZw?oc=5",
-    "top": "main"
+    "top": "top"
   },
   {
     "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
@@ -25,20 +39,6 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/fraud.jpeg",
     "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5",
-    "top": "top"
-  },
-  {
-    "title": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
-    "topic": "fraud",
-    "score": 150,
-    "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "08.09.2026",
-    "short": "Ризики шахрайства.",
-    "content": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
-    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQkRBeUpHQk1zOEx3WDVPYndXMjVhb0ZNOFdBbzQ4anBMTEppNzk5VVVIMC1HbWs3aHpJSm5tREhQQl9iV1AxLXlrcmREU2dKM0RGcGJGNG5kNXpUOGw2MXVod3ZGdDhIbzZWdl9ZdTVGZ0JRem9FMktwTHgybXpGTVM3MXhSc1pCVnhucUpMclRlOFRwMWwzd1djMGNNUnZZMDRoNF9PSkhLV1d1cTlqMG9ndDRyWmpUNk9aVWNZQTVnVm1aa0N6a1ZuNnhDQ1ZJektjRUx30gHQAUFVX3lxTFBJbjhiNERkSHlxUzJPZkVicGlfSHBNZHdEZE9kMDQwQkJtYUlrdGdhSUVVMFdKcEFxUm9aZFpJdExmR1dBWEt6eWFQQ2Q4WnlCakFxZ0pPVU1FMGV1QjJYbld6bU52MFZESDY3UG52bU5ZZzh6RjZ5M2ZMRHBKSmNzRE5uWjJpMXRjazMzdm5kVlZLYXIzUVJFU1J3NUZ3dVB2ZGlZMnF1SHdjelNNaG83d1NHdGZJQjNneXctandDTzRTRHZUd0pGZ2RtQ1ltcXo?oc=5",
     "top": "top"
   },
   {
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-09-08T16:15:32.988Z",
+      "updated": "2026-09-08T20:53:03.973Z",
       "count": 10
     }
   }
