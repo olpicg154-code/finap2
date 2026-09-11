@@ -1,24 +1,38 @@
 [
   {
+    "title": "НБУ готує реєстр дропів: що це таке та як допоможе боротися з шахрайством",
+    "topic": "fraud",
+    "score": 180,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "11.09.2026",
+    "short": "Ризики шахрайства.",
+    "content": "НБУ готує реєстр дропів: що це таке та як допоможе боротися з шахрайством",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIZk90dkN2dlJTVUtsSElHTTJJNFhtRjNFcXV1aUJ3XzAzYkJKdTZvVC1aMEFsR2tQeGdyLUdCckluSG5UZGxnZ3RXQ2dFU3QzM21ZRWhGaTlFanEwT0c5S1pONWRmRGRH?oc=5",
+    "top": "main"
+  },
+  {
     "title": "Голова НБУ показав, як нові санкції США вплинули на фінансовий сектор РФ",
     "topic": "sanctions",
     "score": 175,
     "badge": "🔴 Санкції",
-    "date": "10.09.2026",
+    "date": "11.09.2026",
     "short": "Санкційний тиск.",
     "content": "Голова НБУ показав, як нові санкції США вплинули на фінансовий сектор РФ",
     "analysis": "FinAP: 🔴 Санкції — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
     "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2drbU50M1F3eWFMaDdxZFRGNVBIRTRPWGV6N3FBbWxrMzNGeE1OTk4yZF9xcEZyRWFjMHVYdTdOS2hXS3VJdnk4cFBCeXFISGFKcEV4N0s1dGh6V0dLS0JnQ2hVVnhmNjB4cm00eGJJTzBPQVpGdHphV3dVYUI5c01keFRlamdCUnhSZ9IBkgFBVV95cUxQR1FHUUYtbEdaV0FyeHV4ZlU0VXgya3JuNlBud1BCNmgxbmlXb2hNUXZobkU3VFhibUhMS2Y4dUd4Y1Z0cm80aXlMc1BzOGpNVGFrSlg4WUFqdkZsbzhvNGQ2WVRGMjZhMXl1OWxhb1pPdnV5US1ZMkdXSW10QURvalc4T1prbjFpeGdmQkN3dnhaZw?oc=5",
-    "top": "main"
+    "top": "top"
   },
   {
     "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
     "topic": "fraud",
     "score": 150,
     "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "10.09.2026",
+    "date": "11.09.2026",
     "short": "Ризики шахрайства.",
     "content": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
     "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
@@ -28,25 +42,24 @@
     "top": "top"
   },
   {
-    "title": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
-    "topic": "fraud",
+    "title": "Суперечить нормам ЄС та FATF: нардепи пом’якшили контроль за доходами ексдепутатів",
+    "topic": "aml",
     "score": 150,
-    "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "10.09.2026",
-    "short": "Ризики шахрайства.",
-    "content": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
-    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "badge": "🟣 AML",
+    "date": "11.09.2026",
+    "short": "Посилення фінмоніторингу.",
+    "content": "Суперечить нормам ЄС та FATF: нардепи пом’якшили контроль за доходами ексдепутатів",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQkRBeUpHQk1zOEx3WDVPYndXMjVhb0ZNOFdBbzQ4anBMTEppNzk5VVVIMC1HbWs3aHpJSm5tREhQQl9iV1AxLXlrcmREU2dKM0RGcGJGNG5kNXpUOGw2MXVod3ZGdDhIbzZWdl9ZdTVGZ0JRem9FMktwTHgybXpGTVM3MXhSc1pCVnhucUpMclRlOFRwMWwzd1djMGNNUnZZMDRoNF9PSkhLV1d1cTlqMG9ndDRyWmpUNk9aVWNZQTVnVm1aa0N6a1ZuNnhDQ1ZJektjRUx30gHQAUFVX3lxTFBJbjhiNERkSHlxUzJPZkVicGlfSHBNZHdEZE9kMDQwQkJtYUlrdGdhSUVVMFdKcEFxUm9aZFpJdExmR1dBWEt6eWFQQ2Q4WnlCakFxZ0pPVU1FMGV1QjJYbld6bU52MFZESDY3UG52bU5ZZzh6RjZ5M2ZMRHBKSmNzRE5uWjJpMXRjazMzdm5kVlZLYXIzUVJFU1J3NUZ3dVB2ZGlZMnF1SHdjelNNaG83d1NHdGZJQjNneXctandDTzRTRHZUd0pGZ2RtQ1ltcXo?oc=5",
-    "top": "top"
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcUVzcDY4T0lPT2xqaXFlZm1zenc0N2duek5JLWh0ZjFRNGhaa2FVWFk3bE1KcVAtcXNkcWNETmZVcUFOSjlCWG9OVzFLZFpJNEY3WmJYb1pTRlF5MllyeDdBcllOSTFQelhQTHJ6b2U0OTBKdTZMeUhqRDNhc0ZDMmxCejMwNHBzMXVnbTNUcDNTWTVOYi1nby1QdTJDYXdrSTR6bW1nbGpoQU5CTmUzZWZDUkhTQdIBuwFBVV95cUxQYXY5clRuWTRCMTdGaXNRaUpEU2loYU9wMEI3OU9yeS1hZTdpWjBUQTNQbEZuS0NtZ3dmTDNMUGplcEsxZGt0UGtvY0xWN254STgzX1ZQQzVjeWhTWjNpQVA3eUJ6Nk5mdWpZQlloUjBnR3NwbE5jMVp5VlhrQndQZC1tNFJoZmxlTGVqRXhqSm51RGZhRFpVX0R2Q2F2YWRkVjZPWjZfTmFDUHA3X1h6OXhsSUYxSUpfekQ0?oc=5"
   },
   {
     "title": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
     "topic": "sanctions",
     "score": 145,
     "badge": "🔴 Санкції",
-    "date": "10.09.2026",
+    "date": "11.09.2026",
     "short": "Санкційний тиск.",
     "content": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
     "analysis": "FinAP: 🔴 Санкції — ключова подія.",
@@ -59,7 +72,7 @@
     "topic": "aml",
     "score": 130,
     "badge": "🟣 AML",
-    "date": "10.09.2026",
+    "date": "11.09.2026",
     "short": "Посилення фінмоніторингу.",
     "content": "\"Ми хочемо дізнатися, на підставі чого Держфінмоніторинг порушує закон\" – депутати \"ЄС\" щодо санкцій проти Порошенка",
     "analysis": "FinAP: 🟣 AML — ключова подія.",
@@ -68,24 +81,11 @@
     "source": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaVlkTEtnVEh3QWJkY052Z0pzVEh3c0pUYUtIZVpQSWsyMDZLMV82azNqV0FVdk8zT2FIcFltS3J1VDN0SWNiSi1WeFJVamZlZnJvSWVjdmxFMGdTQXRzSUp2YWRjNjVkRWRBdXRZV1ZjbkVFUmJDX2l3UHFmck0taHZXNDZ2WlZlUW5ZYVdreW1QQ0YyYjRJc0dYMXY0ZUZCcVlGMXBFZVQ0QWNVSFdFZkkyZkhjMFE3NDViblJna2R6MHBjTlNFSDc4Z2dvcVZ0bkhaMEo0SUM1T0lPQURsRy03aWZJRFdUdXNucmtQanZtZw?oc=5"
   },
   {
-    "title": "Україна закликає FATF внести Росію до чорного списку на тлі посилення зв’язків з Північною Кореєю та Іраном",
-    "topic": "aml",
-    "score": 120,
-    "badge": "🟣 AML",
-    "date": "10.09.2026",
-    "short": "Посилення фінмоніторингу.",
-    "content": "Україна закликає FATF внести Росію до чорного списку на тлі посилення зв’язків з Північною Кореєю та Іраном",
-    "analysis": "FinAP: 🟣 AML — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcUdLUDQ1NG1uaGNMNGk2WXE0X0ZQaE5ILXQ1T0g4c2VJZE1ITjg1U3FkbmktZU5xYkx6X05ZZ09QUUZERlV1WlNVaWNUbkVtQi1PMmYxeUFJbTMxUjNMT2IzSlFoRzVrU3dHMkxEZGFCUkdYNmdKNGl1VjZmdFg4MHdUN1UtT3NIUm1rbkJkclVEVm9RRllHT05RdDFPZGo0WFdvX1RFUkplTW1TSlBfbGpDeXlEZ3ctUEdjeHZPT2JzYXl2TTdCckVmeDVtWXR4c0ppMXk0Nlg?oc=5"
-  },
-  {
     "title": "Чи планує Україна включати криптоактиви до міжнародних резервів: відповідь НБУ",
     "topic": "crypto",
     "score": 110,
     "badge": "🪙 Crypto",
-    "date": "10.09.2026",
+    "date": "11.09.2026",
     "short": "Ринок криптовалют.",
     "content": "Чи планує Україна включати криптоактиви до міжнародних резервів: відповідь НБУ",
     "analysis": "FinAP: 🪙 Crypto — ключова подія.",
@@ -94,24 +94,11 @@
     "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHhfYXJvUEVna2NGNWZTTFdYQkNVd2FObnFiR0tyT3pXY2U2dGVpbTFjVWhydWxqd3VXandxVy1EVUdZQUlUeDdqUXliZlgtMER1Nm1LOWVlNTBvVC1ocDNJMzdpcG1hR01EZWZZQzZvaXYwajViR2t3TFE0S1c4NVJfZzhXaE1XMXJzb0pVYmVRZWg4ZV9STVpLRWRPcmhWbV81U3FYbXlZd1dLQlE?oc=5"
   },
   {
-    "title": "Україна розраховує отримати ще 95 млрд доларів міжнародної допомоги – НБУ",
-    "topic": "nbu",
-    "score": 85,
-    "badge": "🏦 НБУ",
-    "date": "10.09.2026",
-    "short": "Рішення регулятора.",
-    "content": "Україна розраховує отримати ще 95 млрд доларів міжнародної допомоги – НБУ",
-    "analysis": "FinAP: 🏦 НБУ — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/nbu.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUll3aFhpZG9TSW0tb3B3cUJfSldlTkl2NHh2S1Z6akpPNFUwaC1rUktaRE9FY2dtWmotX2h2YUttRFQxLWRVakFzbVZjV21oVkh4T2o3aXZqeUUtUTlaX3kxb290aEhoNkhjZktza1FWaGRkYmZseTR6eDBXZDlXTHNHejRuUmJJM0pGNVVkSlZ5b3BiakczcnI5MnJIM0lZYUI3elBpSFNkTGZnbW03ZkpkT2dwVmlfQU50UEhSdUhrZ1R0ZE4xN29Pa9IB0AFBVV95cUxOUXJ1QjN2NXo3Qk1Kdk0xYTM0dHN6V1BnMnVyQmRlek04R01yaHltY1k2TmFSR05vNVRhX0VZNVBwak1BWS1jSFA3c3VFZURCUFhyTDd5dzJOLVBpdDVuTFVwZ3g4Mlh5c05lZHFBUlgtS19JVTlYTVRONFdNUEFld3JRc3BYRnkzSUhNQUNPYmk3SnItUURrbW0tSWFEaUFMUWFmNXJELWhlNjlSd0Q4ZEdCVUpHUWpSajdsVkhMLUNfUzlfM1ZZSGxmaWJ3Sm5H?oc=5"
-  },
-  {
     "title": "Валютні обмеження НБУ стримують експорт та інвестиції: бізнес закликає до лібералізації",
     "topic": "invest",
     "score": 85,
     "badge": "📈 Інвестиції",
-    "date": "10.09.2026",
+    "date": "11.09.2026",
     "short": "Інвестиційний ринок.",
     "content": "Валютні обмеження НБУ стримують експорт та інвестиції: бізнес закликає до лібералізації",
     "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
@@ -124,7 +111,7 @@
     "topic": "invest",
     "score": 85,
     "badge": "📈 Інвестиції",
-    "date": "10.09.2026",
+    "date": "11.09.2026",
     "short": "Інвестиційний ринок.",
     "content": "Валютна лібералізація НБУ: нові можливості для бізнесу, який підтримує ЗСУ, інвестицій та українців за кордоном",
     "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
@@ -133,8 +120,21 @@
     "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTl9NeHItZUJuSVNDbC1CV2t2ZXFiWlhFM1lPdy12OWZZbVRMcHFOay1FQV9ObXE5UUhSSHBmSnVwcmdFX0R5RUZEclFxbkl4TTlEQ1lJSG90U2VfVFlFZXBSdkhxMGNYOUw1bUp5WFJmeW1GUFFoSXExVGEzdHFLU2NSS19Zb25fVkJuS21ZenFGQmhGaEp4NFNaeVgzR2ZhNUFNaFVVUDBRbjdnMmpQWWJNS0R2dEV1TV90UlgycnZkLXF2NnFKRWx0TnlKQVpFRG5yNE9UclZLc2JfbDE3VGhiZWh0NlFlVkF0V0t3?oc=5"
   },
   {
+    "title": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
+    "topic": "invest",
+    "score": 85,
+    "badge": "📈 Інвестиції",
+    "date": "11.09.2026",
+    "short": "Інвестиційний ринок.",
+    "content": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
+    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/invest.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zTDllbVZYcmMzR1FrODBLNXJRVGNLT05OT3gteVZSbmlVYkVpZkIxSi1XakkwSDRMTzJJVVpOb1VjRy1RN0NSQmhYWG9ILVFvU0c3SzRYSdIBWkFVX3lxTE1RMmxpN3pNVTVMbnA2WlA3TDNDeXZtQ3R2cFRYSy1iVjFSNi1jU1F2YlA0ZWZBaVJZUGhUdlRNc1l3bjl4TmFSbGR1MzlFTlA1VkJfVEdZYkFQZw?oc=5"
+  },
+  {
     "meta": {
-      "updated": "2026-09-10T23:00:02.689Z",
+      "updated": "2026-09-11T03:39:18.508Z",
       "count": 10
     }
   }
