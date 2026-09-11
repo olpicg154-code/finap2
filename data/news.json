@@ -42,19 +42,6 @@
     "top": "top"
   },
   {
-    "title": "НБУ оштрафував ПУМБ на 10 млн грн за порушення фінмоніторингу: хто ще потрапив під санкції",
-    "topic": "aml",
-    "score": 150,
-    "badge": "🟣 AML",
-    "date": "11.09.2026",
-    "short": "Посилення фінмоніторингу.",
-    "content": "НБУ оштрафував ПУМБ на 10 млн грн за порушення фінмоніторингу: хто ще потрапив під санкції",
-    "analysis": "FinAP: 🟣 AML — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04TEk2eklUUHE1MWREdEc4cnljaXZTOXJhVlBaNzRlTzBrLXpYd3c0ZkRfQVkwRE16cVdEaS1TQ3RMWWJKUWVsNDF0c2didVp1NDVaZzA4QllhN28yWWdwWldoOVQyM3hR?oc=5"
-  },
-  {
     "title": "Суперечить нормам ЄС та FATF: нардепи пом’якшили контроль за доходами ексдепутатів",
     "topic": "aml",
     "score": 150,
@@ -81,17 +68,17 @@
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTFBV1ZVU0p2LVNvRzRzcVBidE8zbE5hZkwzNi1kUnJFRlQta3JISVlFdGc5SVplZjdUTkJINlY5Q0d3YThiQ3FzaTNYdTV2emczbnBhQm9zY1VSbTdXT0ZpNmNkQlo4dlFfYndqTExQNVRPT1RBS0xzcWQ3SlpEV1hydDNJcVlUODRBNlZ0RzNBWk1iT0Y0?oc=5"
   },
   {
-    "title": "Чи планує Україна включати криптоактиви до міжнародних резервів: відповідь НБУ",
-    "topic": "crypto",
-    "score": 110,
-    "badge": "🪙 Crypto",
+    "title": "\"Ми хочемо дізнатися, на підставі чого Держфінмоніторинг порушує закон\" – депутати \"ЄС\" щодо санкцій проти Порошенка",
+    "topic": "aml",
+    "score": 130,
+    "badge": "🟣 AML",
     "date": "11.09.2026",
-    "short": "Ринок криптовалют.",
-    "content": "Чи планує Україна включати криптоактиви до міжнародних резервів: відповідь НБУ",
-    "analysis": "FinAP: 🪙 Crypto — ключова подія.",
+    "short": "Посилення фінмоніторингу.",
+    "content": "\"Ми хочемо дізнатися, на підставі чого Держфінмоніторинг порушує закон\" – депутати \"ЄС\" щодо санкцій проти Порошенка",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/crypto.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHhfYXJvUEVna2NGNWZTTFdYQkNVd2FObnFiR0tyT3pXY2U2dGVpbTFjVWhydWxqd3VXandxVy1EVUdZQUlUeDdqUXliZlgtMER1Nm1LOWVlNTBvVC1ocDNJMzdpcG1hR01EZWZZQzZvaXYwajViR2t3TFE0S1c4NVJfZzhXaE1XMXJzb0pVYmVRZWg4ZV9STVpLRWRPcmhWbV81U3FYbXlZd1dLQlE?oc=5"
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaVlkTEtnVEh3QWJkY052Z0pzVEh3c0pUYUtIZVpQSWsyMDZLMV82azNqV0FVdk8zT2FIcFltS3J1VDN0SWNiSi1WeFJVamZlZnJvSWVjdmxFMGdTQXRzSUp2YWRjNjVkRWRBdXRZV1ZjbkVFUmJDX2l3UHFmck0taHZXNDZ2WlZlUW5ZYVdreW1QQ0YyYjRJc0dYMXY0ZUZCcVlGMXBFZVQ0QWNVSFdFZkkyZkhjMFE3NDViblJna2R6MHBjTlNFSDc4Z2dvcVZ0bkhaMEo0SUM1T0lPQURsRy03aWZJRFdUdXNucmtQanZtZw?oc=5"
   },
   {
     "title": "НБУ не підтримує включення криптовалют до міжнародних резервів",
@@ -105,6 +92,19 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/crypto.jpeg",
     "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1VNNmlZMy13ZS1CS3pCdHFPQ01GSV9nZlYtSjRRUURtdm4xWlVHNTRxM0pIbTBiUkY1SUNwUFhUNDI4bTZzN21XUm1BVkt3N1NLNWFTZ3ZkMW5Sdjk3SWZ5SUxUdGlKRVF5c1VNWHA5YjI4SXlyUGstMGhrODluOHFqSEh3Zk5vZVZXLWRsYmdDY1F1UlZLMndUUQ?oc=5"
+  },
+  {
+    "title": "Чи планує Україна включати криптоактиви до міжнародних резервів: відповідь НБУ",
+    "topic": "crypto",
+    "score": 110,
+    "badge": "🪙 Crypto",
+    "date": "11.09.2026",
+    "short": "Ринок криптовалют.",
+    "content": "Чи планує Україна включати криптоактиви до міжнародних резервів: відповідь НБУ",
+    "analysis": "FinAP: 🪙 Crypto — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/crypto.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHhfYXJvUEVna2NGNWZTTFdYQkNVd2FObnFiR0tyT3pXY2U2dGVpbTFjVWhydWxqd3VXandxVy1EVUdZQUlUeDdqUXliZlgtMER1Nm1LOWVlNTBvVC1ocDNJMzdpcG1hR01EZWZZQzZvaXYwajViR2t3TFE0S1c4NVJfZzhXaE1XMXJzb0pVYmVRZWg4ZV9STVpLRWRPcmhWbV81U3FYbXlZd1dLQlE?oc=5"
   },
   {
     "title": "Валютні обмеження НБУ стримують експорт та інвестиції: бізнес закликає до лібералізації",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-09-11T10:50:20.846Z",
+      "updated": "2026-09-11T16:05:44.805Z",
       "count": 10
     }
   }
