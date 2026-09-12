@@ -14,20 +14,6 @@
     "top": "main"
   },
   {
-    "title": "Голова НБУ показав, як нові санкції США вплинули на фінансовий сектор РФ",
-    "topic": "sanctions",
-    "score": 175,
-    "badge": "🔴 Санкції",
-    "date": "12.09.2026",
-    "short": "Санкційний тиск.",
-    "content": "Голова НБУ показав, як нові санкції США вплинули на фінансовий сектор РФ",
-    "analysis": "FinAP: 🔴 Санкції — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/sanctions.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2drbU50M1F3eWFMaDdxZFRGNVBIRTRPWGV6N3FBbWxrMzNGeE1OTk4yZF9xcEZyRWFjMHVYdTdOS2hXS3VJdnk4cFBCeXFISGFKcEV4N0s1dGh6V0dLS0JnQ2hVVnhmNjB4cm00eGJJTzBPQVpGdHphV3dVYUI5c01keFRlamdCUnhSZ9IBkgFBVV95cUxQR1FHUUYtbEdaV0FyeHV4ZlU0VXgya3JuNlBud1BCNmgxbmlXb2hNUXZobkU3VFhibUhMS2Y4dUd4Y1Z0cm80aXlMc1BzOGpNVGFrSlg4WUFqdkZsbzhvNGQ2WVRGMjZhMXl1OWxhb1pPdnV5US1ZMkdXSW10QURvalc4T1prbjFpeGdmQkN3dnhaZw?oc=5",
-    "top": "top"
-  },
-  {
     "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
     "topic": "fraud",
     "score": 150,
@@ -52,7 +38,8 @@
     "analysis": "FinAP: 🟣 AML — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04TEk2eklUUHE1MWREdEc4cnljaXZTOXJhVlBaNzRlTzBrLXpYd3c0ZkRfQVkwRE16cVdEaS1TQ3RMWWJKUWVsNDF0c2didVp1NDVaZzA4QllhN28yWWdwWldoOVQyM3hR?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04TEk2eklUUHE1MWREdEc4cnljaXZTOXJhVlBaNzRlTzBrLXpYd3c0ZkRfQVkwRE16cVdEaS1TQ3RMWWJKUWVsNDF0c2didVp1NDVaZzA4QllhN28yWWdwWldoOVQyM3hR?oc=5",
+    "top": "top"
   },
   {
     "title": "Суперечить нормам ЄС та FATF: нардепи пом’якшили контроль за доходами ексдепутатів",
@@ -79,6 +66,19 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTFBV1ZVU0p2LVNvRzRzcVBidE8zbE5hZkwzNi1kUnJFRlQta3JISVlFdGc5SVplZjdUTkJINlY5Q0d3YThiQ3FzaTNYdTV2emczbnBhQm9zY1VSbTdXT0ZpNmNkQlo4dlFfYndqTExQNVRPT1RBS0xzcWQ3SlpEV1hydDNJcVlUODRBNlZ0RzNBWk1iT0Y0?oc=5"
+  },
+  {
+    "title": "ЄС готує 22-й пакет санкцій, а російські банки втратили трильйони рублів ліквідності",
+    "topic": "sanctions",
+    "score": 125,
+    "badge": "🔴 Санкції",
+    "date": "12.09.2026",
+    "short": "Санкційний тиск.",
+    "content": "ЄС готує 22-й пакет санкцій, а російські банки втратили трильйони рублів ліквідності",
+    "analysis": "FinAP: 🔴 Санкції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/sanctions.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSklubkZ3Q21sUFlCdUZLZ2ctdWlKdklPcjF6V0J5UHV4M0ZoVUY2SEFsS0xLRFBIMlI2RVJoeXBLM1FIamRCYmxzaDY1ZnhSaE5jOFBPOGtVbk94bXlDMnA2ODRXeEs4eU4tZVhid1hVbDUyUHFUWm5CbjNHZkhBUFVBa0tSaFM0S0ZKX3prQXBoU1I0UUpoSkY4N2hyVGItUG5BaHBQRF9ncDVzanNkcVpB?oc=5"
   },
   {
     "title": "НБУ не підтримує включення криптовалют до міжнародних резервів",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-09-12T03:43:49.194Z",
+      "updated": "2026-09-12T10:18:55.021Z",
       "count": 10
     }
   }
