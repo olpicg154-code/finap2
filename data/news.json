@@ -1,19 +1,5 @@
 [
   {
-    "title": "НБУ закликав виключити Росію з країн-членів міжнародної групи FATF",
-    "topic": "aml",
-    "score": 200,
-    "badge": "🟣 AML",
-    "date": "21.09.2026",
-    "short": "Посилення фінмоніторингу.",
-    "content": "НБУ закликав виключити Росію з країн-членів міжнародної групи FATF",
-    "analysis": "FinAP: 🟣 AML — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1BvS1k5TlF0MjBuRGx1NUJLbGw0V29vSnpxNVI3T3VyWmJ3d0w2Q0xmdkNIR0cxYXFhTHJPUDhwZmJxVnowVHd1b3BsNXVnM3FzN01zNE9QNzFWN1FrMHBnMkg3MEwxNWo2Z044M2d1SDQ4WlQ4R2xpamVRNHZqUElVUEl4MU1IaWdEN0xLd3ZPMG9x0gGaAUFVX3lxTE96bzIzRUtXczdGUHJVekhNeXJSSGFlVkJ2YldJN0VIS0ZjcnZ6UHdQWVU5U3B0cUNfRGs5cWJCRVhTejBIdnNvXzR3bHdhQU11ckFNZmFCaVZoUmRXV0RzNHFEWHM3MHhtZG9Tbms1cXFyczNqTkE2NmNkMHl2QzlXcUN6cWZldC1zZGlpaEljY2ZhQ0Q2U19RVmc?oc=5",
-    "top": "main"
-  },
-  {
     "title": "НБУ готує реєстр дропів: що це таке та як допоможе боротися з шахрайством",
     "topic": "fraud",
     "score": 180,
@@ -25,7 +11,7 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/fraud.jpeg",
     "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIZk90dkN2dlJTVUtsSElHTTJJNFhtRjNFcXV1aUJ3XzAzYkJKdTZvVC1aMEFsR2tQeGdyLUdCckluSG5UZGxnZ3RXQ2dFU3QzM21ZRWhGaTlFanEwT0c5S1pONWRmRGRH?oc=5",
-    "top": "top"
+    "top": "main"
   },
   {
     "title": "FATF не включила Росію до чорного списку. Про санкції проти РФ просила Україна",
@@ -52,7 +38,8 @@
     "analysis": "FinAP: 🔴 Санкції — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2drbU50M1F3eWFMaDdxZFRGNVBIRTRPWGV6N3FBbWxrMzNGeE1OTk4yZF9xcEZyRWFjMHVYdTdOS2hXS3VJdnk4cFBCeXFISGFKcEV4N0s1dGh6V0dLS0JnQ2hVVnhmNjB4cm00eGJJTzBPQVpGdHphV3dVYUI5c01keFRlamdCUnhSZ9IBkgFBVV95cUxQR1FHUUYtbEdaV0FyeHV4ZlU0VXgya3JuNlBud1BCNmgxbmlXb2hNUXZobkU3VFhibUhMS2Y4dUd4Y1Z0cm80aXlMc1BzOGpNVGFrSlg4WUFqdkZsbzhvNGQ2WVRGMjZhMXl1OWxhb1pPdnV5US1ZMkdXSW10QURvalc4T1prbjFpeGdmQkN3dnhaZw?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2drbU50M1F3eWFMaDdxZFRGNVBIRTRPWGV6N3FBbWxrMzNGeE1OTk4yZF9xcEZyRWFjMHVYdTdOS2hXS3VJdnk4cFBCeXFISGFKcEV4N0s1dGh6V0dLS0JnQ2hVVnhmNjB4cm00eGJJTzBPQVpGdHphV3dVYUI5c01keFRlamdCUnhSZ9IBkgFBVV95cUxQR1FHUUYtbEdaV0FyeHV4ZlU0VXgya3JuNlBud1BCNmgxbmlXb2hNUXZobkU3VFhibUhMS2Y4dUd4Y1Z0cm80aXlMc1BzOGpNVGFrSlg4WUFqdkZsbzhvNGQ2WVRGMjZhMXl1OWxhb1pPdnV5US1ZMkdXSW10QURvalc4T1prbjFpeGdmQkN3dnhaZw?oc=5",
+    "top": "top"
   },
   {
     "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
@@ -66,6 +53,19 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/fraud.jpeg",
     "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5"
+  },
+  {
+    "title": "НБУ оштрафував ПУМБ на 10 млн грн за порушення фінмоніторингу: хто ще потрапив під санкції",
+    "topic": "aml",
+    "score": 150,
+    "badge": "🟣 AML",
+    "date": "21.09.2026",
+    "short": "Посилення фінмоніторингу.",
+    "content": "НБУ оштрафував ПУМБ на 10 млн грн за порушення фінмоніторингу: хто ще потрапив під санкції",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04TEk2eklUUHE1MWREdEc4cnljaXZTOXJhVlBaNzRlTzBrLXpYd3c0ZkRfQVkwRE16cVdEaS1TQ3RMWWJKUWVsNDF0c2didVp1NDVaZzA4QllhN28yWWdwWldoOVQyM3hR?oc=5"
   },
   {
     "title": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-09-21T12:18:37.612Z",
+      "updated": "2026-09-21T19:55:07.598Z",
       "count": 10
     }
   }
