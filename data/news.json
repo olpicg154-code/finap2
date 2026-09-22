@@ -14,20 +14,6 @@
     "top": "main"
   },
   {
-    "title": "FATF не включила Росію до чорного списку. Про санкції проти РФ просила Україна",
-    "topic": "aml",
-    "score": 180,
-    "badge": "🟣 AML",
-    "date": "22.09.2026",
-    "short": "Посилення фінмоніторингу.",
-    "content": "FATF не включила Росію до чорного списку. Про санкції проти РФ просила Україна",
-    "analysis": "FinAP: 🟣 AML — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xaVQ4X01EWUpJNjUzODNWMXZPTDlDOFlFbFJwTFNwaGY2UkpMRHpyUzhjSlZoUlJxZGduSjFSQkpaNGRvcm5zQ1JKU2dFUTFiSGRzSHAtaGtmX0NELXBaNXAtRG00NEw1a1FwNExTV0JoR29xUE1RWHJzaljSAX9BVV95cUxPNVZRQ1JHcXB3NDRsa0M5dlU2eFEwSEl6b25FREd5WVJmbEswUVVJempPLW9EajdFNk9PLUpJOFUxc19tZjhVUGs2d1FqZTN3WGJmOFBSbThNeHo2SmVSNENIdGlfcE1wWEt4UkNQbVF5TWRuRkpzSVdLUVp2RFdF?oc=5",
-    "top": "top"
-  },
-  {
     "title": "Голова НБУ показав, як нові санкції США вплинули на фінансовий сектор РФ",
     "topic": "sanctions",
     "score": 175,
@@ -52,7 +38,8 @@
     "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5",
+    "top": "top"
   },
   {
     "title": "НБУ оштрафував ПУМБ на 10 млн грн за порушення фінмоніторингу: хто ще потрапив під санкції",
@@ -68,6 +55,19 @@
     "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04TEk2eklUUHE1MWREdEc4cnljaXZTOXJhVlBaNzRlTzBrLXpYd3c0ZkRfQVkwRE16cVdEaS1TQ3RMWWJKUWVsNDF0c2didVp1NDVaZzA4QllhN28yWWdwWldoOVQyM3hR?oc=5"
   },
   {
+    "title": "ЄС внесе Росію до чорного списку окремо від FATF – Politico",
+    "topic": "aml",
+    "score": 150,
+    "badge": "🟣 AML",
+    "date": "22.09.2026",
+    "short": "Посилення фінмоніторингу.",
+    "content": "ЄС внесе Росію до чорного списку окремо від FATF – Politico",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNTJyQVVab1p6elBZbWFXYU05by14dHp1RGxkRVpxNldRTUo3S1JlTEJfZFU2ak91OHpTUHlHSGtEVko0X3MtTHpWalVBdHV4QlNRSUNSOWREZmxTQ0JJMVJWRDVQX1RtOG9JMzdjaS1hWkZ1NmZvSnpVZDV4WWpqbHBTVjRHZVpEQk4zTnE2ODN0WjZwTTdtUU1xWlBCV2NBMkltS1hhNXZYSWxYeWtWVEwtdWhGYmdWdmRWOU5IVjJSM3NJTUhKUG55dUVIUENNbDVlV1JfbEpfMDVqbXFCVzgtMmh6SFBRWVdmNlItN0dNZDBPNWM3NlRzWnY2UQ?oc=5"
+  },
+  {
     "title": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
     "topic": "sanctions",
     "score": 145,
@@ -79,19 +79,6 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTFBV1ZVU0p2LVNvRzRzcVBidE8zbE5hZkwzNi1kUnJFRlQta3JISVlFdGc5SVplZjdUTkJINlY5Q0d3YThiQ3FzaTNYdTV2emczbnBhQm9zY1VSbTdXT0ZpNmNkQlo4dlFfYndqTExQNVRPT1RBS0xzcWQ3SlpEV1hydDNJcVlUODRBNlZ0RzNBWk1iT0Y0?oc=5"
-  },
-  {
-    "title": "НБУ не підтримує включення криптовалют до міжнародних резервів",
-    "topic": "crypto",
-    "score": 110,
-    "badge": "🪙 Crypto",
-    "date": "22.09.2026",
-    "short": "Ринок криптовалют.",
-    "content": "НБУ не підтримує включення криптовалют до міжнародних резервів",
-    "analysis": "FinAP: 🪙 Crypto — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/crypto.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1VNNmlZMy13ZS1CS3pCdHFPQ01GSV9nZlYtSjRRUURtdm4xWlVHNTRxM0pIbTBiUkY1SUNwUFhUNDI4bTZzN21XUm1BVkt3N1NLNWFTZ3ZkMW5Sdjk3SWZ5SUxUdGlKRVF5c1VNWHA5YjI4SXlyUGstMGhrODluOHFqSEh3Zk5vZVZXLWRsYmdDY1F1UlZLMndUUQ?oc=5"
   },
   {
     "title": "НБУ повідомив про скорочення міжнародних резервів України і назвав причини",
@@ -120,6 +107,19 @@
     "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUll3aFhpZG9TSW0tb3B3cUJfSldlTkl2NHh2S1Z6akpPNFUwaC1rUktaRE9FY2dtWmotX2h2YUttRFQxLWRVakFzbVZjV21oVkh4T2o3aXZqeUUtUTlaX3kxb290aEhoNkhjZktza1FWaGRkYmZseTR6eDBXZDlXTHNHejRuUmJJM0pGNVVkSlZ5b3BiakczcnI5MnJIM0lZYUI3elBpSFNkTGZnbW03ZkpkT2dwVmlfQU50UEhSdUhrZ1R0ZE4xN29Pa9IB0AFBVV95cUxOUXJ1QjN2NXo3Qk1Kdk0xYTM0dHN6V1BnMnVyQmRlek04R01yaHltY1k2TmFSR05vNVRhX0VZNVBwak1BWS1jSFA3c3VFZURCUFhyTDd5dzJOLVBpdDVuTFVwZ3g4Mlh5c05lZHFBUlgtS19JVTlYTVRONFdNUEFld3JRc3BYRnkzSUhNQUNPYmk3SnItUURrbW0tSWFEaUFMUWFmNXJELWhlNjlSd0Q4ZEdCVUpHUWpSajdsVkhMLUNfUzlfM1ZZSGxmaWJ3Sm5H?oc=5"
   },
   {
+    "title": "В Україну готуються зайти нові інвестори: НБУ очікує продаж двох державних банків уже цього року",
+    "topic": "invest",
+    "score": 85,
+    "badge": "📈 Інвестиції",
+    "date": "22.09.2026",
+    "short": "Інвестиційний ринок.",
+    "content": "В Україну готуються зайти нові інвестори: НБУ очікує продаж двох державних банків уже цього року",
+    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/invest.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPREpZWTVBc1RTajFTY2NjN1dHaUFob3ZWRTVmQVBkVW9jVmVsWHU0bjVpUE5LTXhTZUZjTEN2WjdzWXo4Q0JkQTMyVEE1T0g3ZjJoQVBQOUYzRU9pOUF3M04xclFqU1oySzBjdndhNWE3bG5lT3psd21tRUFKTk1Rc3Q5UjlfaHpnSTlPb2hUbktsNS1PRXlBOTNTZHo3Wi1oYnU4d2FKdF8yaUFzSGZ2TlpjeFE0eWItYXpMWWdSeXh6WkNlamFXUF9R0gHPAUFVX3lxTE1iVlBpVlRxS2FWMXpuaFFaTU80cU9pc1hueUlxQXpIcC1heEpqNy1jOVR2Wk45TG9fVWJicllSLWNiZVJQQmY4R1FHaHpaUWtHOERDZGx0N2lrSVhPSU9Icnhja1hlbTBVVTlNVHhlZXNIY2lUNlYxc1oxZE9ReFpkelJPUUlPZlUtTFlCb3dteEJ0SWVYNFZjLXFhWVp5dmpUY0hRbXBGMTJPdm5palpUVVNSZUJXd0VkTjc2WmNlcFhjcU1WSnJOV3E4QW9LWQ?oc=5"
+  },
+  {
     "title": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
     "topic": "invest",
     "score": 85,
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-09-22T11:10:59.946Z",
+      "updated": "2026-09-22T16:33:01.034Z",
       "count": 10
     }
   }
