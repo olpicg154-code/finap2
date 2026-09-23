@@ -42,6 +42,19 @@
     "top": "top"
   },
   {
+    "title": "Санкції за фінмоніторинг: НБУ оштрафував 5 банків та 6 фінкомпаній у грудні 2025 року Основні порушення стосувалися неналежного застосування ризик-орієнтованого підходу, недоліків у процедурах належної перевірки клієнтів",
+    "topic": "aml",
+    "score": 150,
+    "badge": "🟣 AML",
+    "date": "23.09.2026",
+    "short": "Посилення фінмоніторингу.",
+    "content": "Санкції за фінмоніторинг: НБУ оштрафував 5 банків та 6 фінкомпаній у грудні 2025 року Основні порушення стосувалися неналежного застосування ризик-орієнтованого підходу, недоліків у процедурах належної перевірки клієнтів",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1VXbkxNalZJV0s0YlNUcHV6amkwTkZ1VjQ2NVhDU2wySVFQMFNMQS1qSlZtUzdCSXZyTGlxMGN4WFlORkZFQUZXOE8wbGNDaXk5NmliN1BaYUIzS3hmek11clV5TVFXT0puSDVBYl85UFZLa0NQSDhKaF9ZeXFmUzIxdm0tbHNTNTZJU3VKa2VoY01RRThtNmV3bFBZMkdIZ25OcS1oRG9fdDBIRjZGZndBSUFfSUxGVzV0aVdpY2lCUW01Sl9yQldDVFRJNXc?oc=5"
+  },
+  {
     "title": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
     "topic": "sanctions",
     "score": 145,
@@ -55,30 +68,17 @@
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTFBV1ZVU0p2LVNvRzRzcVBidE8zbE5hZkwzNi1kUnJFRlQta3JISVlFdGc5SVplZjdUTkJINlY5Q0d3YThiQ3FzaTNYdTV2emczbnBhQm9zY1VSbTdXT0ZpNmNkQlo4dlFfYndqTExQNVRPT1RBS0xzcWQ3SlpEV1hydDNJcVlUODRBNlZ0RzNBWk1iT0Y0?oc=5"
   },
   {
-    "title": "Держфінмоніторинг виявив міжнародну схему криптовалютного шахрайства на понад 2,5 млрд грн",
-    "topic": "aml",
-    "score": 130,
-    "badge": "🟣 AML",
-    "date": "23.09.2026",
-    "short": "Посилення фінмоніторингу.",
-    "content": "Держфінмоніторинг виявив міжнародну схему криптовалютного шахрайства на понад 2,5 млрд грн",
-    "analysis": "FinAP: 🟣 AML — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXZTTnJSUm1MRlhQQlBVUVdMNTNTTHNZLWM5RmFMMm9zOUVWVG8taU42Y2tkNGl3TUJNTkZ3YXFrazFNTHhPdXNQcTdKM3N4UEkyV3JLbjhmYi01OFh4WmQ0R01ERkNNTUFrUUtxbzkwenFrWlFicTRQNU92bXgtTk1jUWc0SHZlTjd2X2JXV0JoZFBaUEhPOGF2djJMUUJrckNBWDBJdUlzdHJhVURlWmY4anRoQS02VXItQTk2UQ?oc=5"
-  },
-  {
-    "title": "Українці вкрали у громадян ЄС мільйони гривень під виглядом \"інвестицій\": як діяла шахрайська схема",
+    "title": "Інвестиції в криптовалюту через кол-центри: в Україні знищили міжнародну шахрайську мережу",
     "topic": "fraud",
     "score": 130,
     "badge": "⚠️ ШАХРАЙСТВО",
     "date": "23.09.2026",
     "short": "Ризики шахрайства.",
-    "content": "Українці вкрали у громадян ЄС мільйони гривень під виглядом \"інвестицій\": як діяла шахрайська схема",
+    "content": "Інвестиції в криптовалюту через кол-центри: в Україні знищили міжнародну шахрайську мережу",
     "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSzZwVTAzYW9YeV9Xek1XY2gtRDBCQUtJM3JVRFB0ZldxVFg3RDlCMGNPWG90QW5jRjE5eG95bXNvWVZnMWY3SzM0ZjQwMHVsQ3prUHFNLVNGMTR5OEdibS1ZX0NadUc5Y0Z0dG5oZ0haUDV2Mnd3dTBxai1wTkpWUzJsNTBoZGw1NVNuMW9XemtHNHcwTTdobzBaS1o1SlUxOG5vX2RLbDRSTWZ6T1lNMVk2dU44S2NVLWJ0Ui04aGRobzA2U01UaWR4VjA1YkVCbTktYWtLcUtSaE5paGJYaG1DQ0ZHT3B3anBXMjFSd296T3BFemfSAfsBQVVfeXFMT0NTZEp3OTQ5UWJmLTZlbWRyVHNraVdEX0h1VFc3cWtBN2JJRVBRQmxLVG9DRzFHYTF2Tll5N2NlY2luVC00OTVKVkQ0NFg4ZTROTGZDeXVLOXRzNUVDQlBLM2g2cUFjQVZOZVIzQWFfc0ZxTXhpS0x5RmpLSkhGazVDT2VIV2NnT3JLdV92OW1nbktieWxEcnJ5djRfNHFHRUUxTUg2cTF5dm1DM2dtaXFmbFFMUC12MEJ4NjZZbUlRNjZfY1Z2aG5UTU4tejl2LU1aaEZ1eGIzR0cyOTU0MlNDQmlIeHd6VkdIS3dXZlJHdU1VMTluaWVlUFU?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONnc3SXV1M0VieHpqLWJVeVBOdGJQeGdDZmpMbnRlWExxcEsyN1duMC1PLUV3LXNuX2ZZMlpDU09tT2MzdFhhQzhueGVWVDFxZjJoYVYtSzhjZHUwdWR2RXZwOW5KVWhjTHRDTXFZZE1Balh4NGtJREJaRnJNQ2Vxb195Y2FLT0E0bVdMSl9xdVpQM0xSbVlz0gGcAUFVX3lxTFBUUV9LVkgya0dUYXFGX1IyRlFvYlpHRUVITmZsZXcwZ2xjSTdvckg4UFhxdjBhQzd3X1VMY2lBTERhc2I0RXNNT3VRN05XSkc5Q0RSOFFPLWY5bGNucGt0Rjk4VnJ3dEFiR2tfRGNtU1dCWDktNTk0WG9JZHcwWE8yWG9Vc3NQWXBYdEdleldRRl8zVHJ3M3luTHFUbA?oc=5"
   },
   {
     "title": "НБУ повідомив про скорочення міжнародних резервів України і назвав причини",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-09-23T16:22:49.446Z",
+      "updated": "2026-09-23T21:16:28.719Z",
       "count": 10
     }
   }
