@@ -4,7 +4,7 @@
     "topic": "aml",
     "score": 180,
     "badge": "🟣 AML",
-    "date": "26.09.2026",
+    "date": "27.09.2026",
     "short": "Посилення фінмоніторингу.",
     "content": "Закриє шляхи обходу санкцій: Україна закликала FATF внести Росію в \"чорний список\"",
     "analysis": "FinAP: 🟣 AML — ключова подія.",
@@ -18,7 +18,7 @@
     "topic": "sanctions",
     "score": 175,
     "badge": "🔴 Санкції",
-    "date": "26.09.2026",
+    "date": "27.09.2026",
     "short": "Санкційний тиск.",
     "content": "Голова НБУ показав, як нові санкції США вплинули на фінансовий сектор РФ",
     "analysis": "FinAP: 🔴 Санкції — ключова подія.",
@@ -32,7 +32,7 @@
     "topic": "aml",
     "score": 170,
     "badge": "🟣 AML",
-    "date": "26.09.2026",
+    "date": "27.09.2026",
     "short": "Посилення фінмоніторингу.",
     "content": "НБУ закликав включити Росію до чорного списку групи з протидії відмиванню грошей FATF",
     "analysis": "FinAP: 🟣 AML — ключова подія.",
@@ -46,7 +46,7 @@
     "topic": "fraud",
     "score": 150,
     "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "26.09.2026",
+    "date": "27.09.2026",
     "short": "Ризики шахрайства.",
     "content": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
     "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
@@ -55,11 +55,24 @@
     "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5"
   },
   {
+    "title": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
+    "topic": "fraud",
+    "score": 150,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "27.09.2026",
+    "short": "Ризики шахрайства.",
+    "content": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQkRBeUpHQk1zOEx3WDVPYndXMjVhb0ZNOFdBbzQ4anBMTEppNzk5VVVIMC1HbWs3aHpJSm5tREhQQl9iV1AxLXlrcmREU2dKM0RGcGJGNG5kNXpUOGw2MXVod3ZGdDhIbzZWdl9ZdTVGZ0JRem9FMktwTHgybXpGTVM3MXhSc1pCVnhucUpMclRlOFRwMWwzd1djMGNNUnZZMDRoNF9PSkhLV1d1cTlqMG9ndDRyWmpUNk9aVWNZQTVnVm1aa0N6a1ZuNnhDQ1ZJektjRUx30gHQAUFVX3lxTFBJbjhiNERkSHlxUzJPZkVicGlfSHBNZHdEZE9kMDQwQkJtYUlrdGdhSUVVMFdKcEFxUm9aZFpJdExmR1dBWEt6eWFQQ2Q4WnlCakFxZ0pPVU1FMGV1QjJYbld6bU52MFZESDY3UG52bU5ZZzh6RjZ5M2ZMRHBKSmNzRE5uWjJpMXRjazMzdm5kVlZLYXIzUVJFU1J3NUZ3dVB2ZGlZMnF1SHdjelNNaG83d1NHdGZJQjNneXctandDTzRTRHZUd0pGZ2RtQ1ltcXo?oc=5"
+  },
+  {
     "title": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
     "topic": "sanctions",
     "score": 145,
     "badge": "🔴 Санкції",
-    "date": "26.09.2026",
+    "date": "27.09.2026",
     "short": "Санкційний тиск.",
     "content": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
     "analysis": "FinAP: 🔴 Санкції — ключова подія.",
@@ -68,24 +81,11 @@
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTFBV1ZVU0p2LVNvRzRzcVBidE8zbE5hZkwzNi1kUnJFRlQta3JISVlFdGc5SVplZjdUTkJINlY5Q0d3YThiQ3FzaTNYdTV2emczbnBhQm9zY1VSbTdXT0ZpNmNkQlo4dlFfYndqTExQNVRPT1RBS0xzcWQ3SlpEV1hydDNJcVlUODRBNlZ0RzNBWk1iT0Y0?oc=5"
   },
   {
-    "title": "Інвестиції в криптовалюту через кол-центри: в Україні знищили міжнародну шахрайську мережу",
-    "topic": "fraud",
-    "score": 130,
-    "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "26.09.2026",
-    "short": "Ризики шахрайства.",
-    "content": "Інвестиції в криптовалюту через кол-центри: в Україні знищили міжнародну шахрайську мережу",
-    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONnc3SXV1M0VieHpqLWJVeVBOdGJQeGdDZmpMbnRlWExxcEsyN1duMC1PLUV3LXNuX2ZZMlpDU09tT2MzdFhhQzhueGVWVDFxZjJoYVYtSzhjZHUwdWR2RXZwOW5KVWhjTHRDTXFZZE1Balh4NGtJREJaRnJNQ2Vxb195Y2FLT0E0bVdMSl9xdVpQM0xSbVlz0gGcAUFVX3lxTFBUUV9LVkgya0dUYXFGX1IyRlFvYlpHRUVITmZsZXcwZ2xjSTdvckg4UFhxdjBhQzd3X1VMY2lBTERhc2I0RXNNT3VRN05XSkc5Q0RSOFFPLWY5bGNucGt0Rjk4VnJ3dEFiR2tfRGNtU1dCWDktNTk0WG9JZHcwWE8yWG9Vc3NQWXBYdEdleldRRl8zVHJ3M3luTHFUbA?oc=5"
-  },
-  {
     "title": "НБУ повідомив про скорочення міжнародних резервів України і назвав причини",
     "topic": "nbu",
     "score": 85,
     "badge": "🏦 НБУ",
-    "date": "26.09.2026",
+    "date": "27.09.2026",
     "short": "Рішення регулятора.",
     "content": "НБУ повідомив про скорочення міжнародних резервів України і назвав причини",
     "analysis": "FinAP: 🏦 НБУ — ключова подія.",
@@ -98,7 +98,7 @@
     "topic": "nbu",
     "score": 85,
     "badge": "🏦 НБУ",
-    "date": "26.09.2026",
+    "date": "27.09.2026",
     "short": "Рішення регулятора.",
     "content": "Україна розраховує отримати ще 95 млрд доларів міжнародної допомоги – НБУ",
     "analysis": "FinAP: 🏦 НБУ — ключова подія.",
@@ -111,7 +111,7 @@
     "topic": "invest",
     "score": 85,
     "badge": "📈 Інвестиції",
-    "date": "26.09.2026",
+    "date": "27.09.2026",
     "short": "Інвестиційний ринок.",
     "content": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
     "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
@@ -120,21 +120,21 @@
     "source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zTDllbVZYcmMzR1FrODBLNXJRVGNLT05OT3gteVZSbmlVYkVpZkIxSi1XakkwSDRMTzJJVVpOb1VjRy1RN0NSQmhYWG9ILVFvU0c3SzRYSdIBWkFVX3lxTE1RMmxpN3pNVTVMbnA2WlA3TDNDeXZtQ3R2cFRYSy1iVjFSNi1jU1F2YlA0ZWZBaVJZUGhUdlRNc1l3bjl4TmFSbGR1MzlFTlA1VkJfVEdZYkFQZw?oc=5"
   },
   {
-    "title": "В Україну готуються зайти нові інвестори: НБУ очікує продаж двох державних банків уже цього року",
+    "title": "Після візиту Зеленського до Оману Україна не отримала жодних інвестицій – НБУ",
     "topic": "invest",
     "score": 85,
     "badge": "📈 Інвестиції",
-    "date": "26.09.2026",
+    "date": "27.09.2026",
     "short": "Інвестиційний ринок.",
-    "content": "В Україну готуються зайти нові інвестори: НБУ очікує продаж двох державних банків уже цього року",
+    "content": "Після візиту Зеленського до Оману Україна не отримала жодних інвестицій – НБУ",
     "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/invest.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPREpZWTVBc1RTajFTY2NjN1dHaUFob3ZWRTVmQVBkVW9jVmVsWHU0bjVpUE5LTXhTZUZjTEN2WjdzWXo4Q0JkQTMyVEE1T0g3ZjJoQVBQOUYzRU9pOUF3M04xclFqU1oySzBjdndhNWE3bG5lT3psd21tRUFKTk1Rc3Q5UjlfaHpnSTlPb2hUbktsNS1PRXlBOTNTZHo3Wi1oYnU4d2FKdF8yaUFzSGZ2TlpjeFE0eWItYXpMWWdSeXh6WkNlamFXUF9R0gHPAUFVX3lxTE1iVlBpVlRxS2FWMXpuaFFaTU80cU9pc1hueUlxQXpIcC1heEpqNy1jOVR2Wk45TG9fVWJicllSLWNiZVJQQmY4R1FHaHpaUWtHOERDZGx0N2lrSVhPSU9Icnhja1hlbTBVVTlNVHhlZXNIY2lUNlYxc1oxZE9ReFpkelJPUUlPZlUtTFlCb3dteEJ0SWVYNFZjLXFhWVp5dmpUY0hRbXBGMTJPdm5palpUVVNSZUJXd0VkTjc2WmNlcFhjcU1WSnJOV3E4QW9LWQ?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORlkwWm5FS3BXSl9XZTh4TkJxUWpETXhycGRWLVpFNy00TGdCYldtbDdUd1R5MG1WSDZBMFpzQ3VDQTd6LXVKQXBKZi1QNjJsanlaalotSXduZkZzUHZLVUdsaDRjc3ZNSnVTYmo4UnZQc2x3aXEyUHNjSTZ0UkZyMXF5VUtqREg0dXRTYWJSRTRBb1UxYWJmaW1pNms1aTZTbmsxRjFUd1c0bkQteTdaeUc2cVpsblhEZE5jRlRMNFRUbFF3VFRucWV2d211aGZGNUxMNUY0NW9qNkJDNW1KN0Rn0gHnAUFVX3lxTE1xVzNaWWd6Qjkwai1yQjVCY0FWeU8xMjZueGUzc2ZGb1VWNDFWNVMxa1FFMmpuMmZCSk0teFFRb0owcTBYQng0aG5iLUl1VEpSUHBoZkFVNlAxT2lFN2RDcVEyc0xwaUxxVndIUktELTVFTWswUEFrMTQ2M2lnVVpKZXBOQU5LLWZJYWQ3VXlOU05HNkhvMVdJMEJHV0IzNGRnS2F6bjBHSHEyUm85TklfbTV4LXdrblQtQ2o1UlNIUjJCSmtTaVY3ZDRqZkFLN2dQWEZGQjNQSWZtS3JLMFRDV2tHMlZXYw?oc=5"
   },
   {
     "meta": {
-      "updated": "2026-09-26T23:27:06.975Z",
+      "updated": "2026-09-27T04:20:05.226Z",
       "count": 10
     }
   }
