@@ -14,20 +14,6 @@
     "top": "main"
   },
   {
-    "title": "Закриє шляхи обходу санкцій: Україна закликала FATF внести Росію в \"чорний список\"",
-    "topic": "aml",
-    "score": 180,
-    "badge": "🟣 AML",
-    "date": "02.10.2026",
-    "short": "Посилення фінмоніторингу.",
-    "content": "Закриє шляхи обходу санкцій: Україна закликала FATF внести Росію в \"чорний список\"",
-    "analysis": "FinAP: 🟣 AML — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVZiTVBZdjVGR2VUbEVqN1NyR3V6OVRhZ2F0VFlJbkwyakNNMFZkY245MXRoaE1TNXQzNjZzaFQzeHpFT0VNb1pDb2tQV0NDaHVDN1JpcDk1T0d6OHRxTng5STFSalZVajF4TURTUXFsMlhucEdoWHEwV1ZpVTBsWi1oYk9jY2VfT05acUF4enk3QUJkdnFaSzFaZGpVcFJNRWlPWGNISklnei1oeFNJZkpuUdIBygFBVV95cUxQeVNYMHRkQVBMV2lDLWQwN2Z0eFVIQzc1dTF0QlptaFpXUEh5Q3FxRzU4Q2xZaldMazNpTWItOWQ2dW8wRnJiQlBZQUNiSVI0LVBoa1RFMmJiX2J5ZU1qR1JPQy04NjluZ24wdUtpVEZFZmJ5RFduSEROZFlUZ1dPREc4U1ZZa3JYaVNFR2J0Skhza1VobFZMLWxad0xYaFNPQkR2RG83TTBOOExpdURkSGlTdlNxM2R2NHJkSjEwS0dNNjVBa3hlWlRn?oc=5",
-    "top": "top"
-  },
-  {
     "title": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
     "topic": "sanctions",
     "score": 175,
@@ -52,7 +38,21 @@
     "analysis": "FinAP: 🟣 AML — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlNlNEh5Y1dJelR0THlsTEcyNTZQaGUyZmpYV0JEM05haDJnaDBZbWJpZmhIU3I0ZkFhMlp4cjFxYjB6cWxkTF91c0U5NDRTT3dlRDR2NXhXeTJZWUpHZzB3Nk9VcHJiRnF4Q1N4T2ZRNVZkYVVnWGozd2VwS2VpY2lPbFJfTDA4Mmp6cVFjT1JjVkl40gGaAUFVX3lxTE9PS0U0RWY4YnN1dVpSLWZOOV9uSlBURVZUQmRBaFltSFVrb3J3NWpmWEVoR0JQY3NsOWVOOXJrZ1hvYzQtVmRRSHJ6TW5sMzRUTUhSQlFuQkpMQjBoWlZINEY2cTVwdGpiTHRUenlaMU1sOTNDUzFJeUJjVUExYXYzUVdFYTM2UnBHWHJ6THA3X2ZBZGMzUEdKVUE?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlNlNEh5Y1dJelR0THlsTEcyNTZQaGUyZmpYV0JEM05haDJnaDBZbWJpZmhIU3I0ZkFhMlp4cjFxYjB6cWxkTF91c0U5NDRTT3dlRDR2NXhXeTJZWUpHZzB3Nk9VcHJiRnF4Q1N4T2ZRNVZkYVVnWGozd2VwS2VpY2lPbFJfTDA4Mmp6cVFjT1JjVkl40gGaAUFVX3lxTE9PS0U0RWY4YnN1dVpSLWZOOV9uSlBURVZUQmRBaFltSFVrb3J3NWpmWEVoR0JQY3NsOWVOOXJrZ1hvYzQtVmRRSHJ6TW5sMzRUTUhSQlFuQkpMQjBoWlZINEY2cTVwdGpiTHRUenlaMU1sOTNDUzFJeUJjVUExYXYzUVdFYTM2UnBHWHJ6THA3X2ZBZGMzUEdKVUE?oc=5",
+    "top": "top"
+  },
+  {
+    "title": "НБУ виписав мільйонні штрафи банкам: хто потрапив під санкції через фінмоніторинг",
+    "topic": "aml",
+    "score": 150,
+    "badge": "🟣 AML",
+    "date": "02.10.2026",
+    "short": "Посилення фінмоніторингу.",
+    "content": "НБУ виписав мільйонні штрафи банкам: хто потрапив під санкції через фінмоніторинг",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sc1NjVUFpb2hwWVBCcHJfWDJZMExqNHFJQXdBR09fNVpPN1NyZFdZV2NBMUR2NFVSX2RnV1Y2eE45WmQzMGJaSUtHejF3a3VYU2tycG4zejllUnJvMHBRbEh6T3B6U212?oc=5"
   },
   {
     "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-10-02T00:36:15.182Z",
+      "updated": "2026-10-02T09:29:36.845Z",
       "count": 10
     }
   }
