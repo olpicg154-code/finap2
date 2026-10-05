@@ -28,6 +28,20 @@
     "top": "top"
   },
   {
+    "title": "Загрози співпраці з людьми зі санкційного списку США: про що НБУ попередив банки",
+    "topic": "sanctions",
+    "score": 175,
+    "badge": "🔴 Санкції",
+    "date": "05.10.2026",
+    "short": "Санкційний тиск.",
+    "content": "Загрози співпраці з людьми зі санкційного списку США: про що НБУ попередив банки",
+    "analysis": "FinAP: 🔴 Санкції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/sanctions.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUs2aENYUkRUdW9fTzZIZVlPQmZPRm90aFowMER1WVBVSldVbXktNXFuWFJobWE4azA4a3k0Rl81Q2ZOeHo0R0hGNVdQV3FaUDZ0YVZkdHBTNEhzS3BGaFpJc09IMUlZWGFqUkYxNVVaX29NYkVFVlBRRzBNOWJzSFA1R3ZaRHZaT0RodXF2bTZIVDRCcnFTZdIBngFBVV95cUxOdEJlZmZaVXZVT2hfVnRxdjhwTV9nUzVYU0dLQjdUczR3UTRFbDZreHJOcVlzQXE5T2wxWWk3UEZySWk0UlhBTlplMGtsOExoSVUzNER4bnBnS3lSWHZENmxpMHFZWDkxZ2xTZW50a2xFSEMzUUIzbklWaFRsWkM5VXVhQ2x6eXB3RTBmeGN0RndRbkZ1T2JSU3VBUVZSdw?oc=5",
+    "top": "top"
+  },
+  {
     "title": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
     "topic": "sanctions",
     "score": 175,
@@ -38,8 +52,7 @@
     "analysis": "FinAP: 🔴 Санкції — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3k4X0p6UkRUakh6cHNUVzRtVXd1UkdWLUpGQkVZdDZGSDdfekFYUlNYdEtBczZBU1ROYWdIZldaVTdCcm5IUkdJcmgwZWNoNi1rZTJBbDJkd2phYTU5c2o2TDBnOHBEVlo3R0d4U2NYX0pDeGtwbjF1MjVYQldyZkRoX0lMZFFVVmxQMEVXQmJpRzhYM3dObnRsMWJqc25GZk5sMlc5dXBNWnBpUHEydXBTNnk1aXJHYmpkOElVb2FTTlNya0EyM1RRWWlkdjhpTG1kOXNrTdIB0gFBVV95cUxPOG9QRzBjQmNobmtrR1lySEFNQVoxRk13S1lkeWJuLUh3Ri1JenNqTkNNWUVyTDlLX1haNzJ4MlRubEFmY05kRzlLamRyQjhrWE5QU3JaTU9xTGVuRlVTbTA3UUxJRENubmFLeTJIa3dPeFFnNkJsclIySWtQcTlKaUFvZjUyS0ZkS2lJektwRllSZmU3QklCRnllQTlrcDZYUk1qNm9DYjV1Smo0TERDSHM1c2VmWkRQMjRGdnN2V29QSXVLa0NzcVRNQmZJcHFIRWc?oc=5",
-    "top": "top"
+    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3k4X0p6UkRUakh6cHNUVzRtVXd1UkdWLUpGQkVZdDZGSDdfekFYUlNYdEtBczZBU1ROYWdIZldaVTdCcm5IUkdJcmgwZWNoNi1rZTJBbDJkd2phYTU5c2o2TDBnOHBEVlo3R0d4U2NYX0pDeGtwbjF1MjVYQldyZkRoX0lMZFFVVmxQMEVXQmJpRzhYM3dObnRsMWJqc25GZk5sMlc5dXBNWnBpUHEydXBTNnk1aXJHYmpkOElVb2FTTlNya0EyM1RRWWlkdjhpTG1kOXNrTdIB0gFBVV95cUxPOG9QRzBjQmNobmtrR1lySEFNQVoxRk13S1lkeWJuLUh3Ri1JenNqTkNNWUVyTDlLX1haNzJ4MlRubEFmY05kRzlLamRyQjhrWE5QU3JaTU9xTGVuRlVTbTA3UUxJRENubmFLeTJIa3dPeFFnNkJsclIySWtQcTlKaUFvZjUyS0ZkS2lJektwRllSZmU3QklCRnllQTlrcDZYUk1qNm9DYjV1Smo0TERDSHM1c2VmWkRQMjRGdnN2V29QSXVLa0NzcVRNQmZJcHFIRWc?oc=5"
   },
   {
     "title": "НБУ закликав включити Росію до чорного списку групи з протидії відмиванню грошей FATF",
@@ -66,19 +79,6 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/fraud.jpeg",
     "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5"
-  },
-  {
-    "title": "Український Альфа-Банк уникнув британських санкцій, погоджує з НБУ довірених керуючих",
-    "topic": "sanctions",
-    "score": 145,
-    "badge": "🔴 Санкції",
-    "date": "05.10.2026",
-    "short": "Санкційний тиск.",
-    "content": "Український Альфа-Банк уникнув британських санкцій, погоджує з НБУ довірених керуючих",
-    "analysis": "FinAP: 🔴 Санкції — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/sanctions.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3RC1UdmFaMWtORXJ5d010RnlrN043bEpkbEt1cks1Nkh3cDJoN21XQ1h3RmxLRGg2YkZ1QU15djRZVGtUeEFheWNWbXY1bGRiSnVsVkM3Z0JCUnhwZEHSAWNBVV95cUxPdG81dEpiajhfMXlFc3ozOWZLbUlxOFhtM0pVNk5UR0NUV01IQXgtUVcxTEJVNGJwaWJ3T3NRcS1rZjNIT3ZINXhmakxoNVVodS1Ud0dBbUtmT2E5U1ZCcXVVX1E?oc=5"
   },
   {
     "title": "Україна розраховує отримати ще 95 млрд доларів міжнародної допомоги – НБУ",
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-10-05T04:44:17.289Z",
+      "updated": "2026-10-05T13:57:47.579Z",
       "count": 10
     }
   }
