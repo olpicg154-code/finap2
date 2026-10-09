@@ -4,7 +4,7 @@
     "topic": "aml",
     "score": 200,
     "badge": "🟣 AML",
-    "date": "08.10.2026",
+    "date": "09.10.2026",
     "short": "Посилення фінмоніторингу.",
     "content": "НБУ закликав виключити Росію з країн-членів міжнародної групи FATF",
     "analysis": "FinAP: 🟣 AML — ключова подія.",
@@ -14,25 +14,11 @@
     "top": "main"
   },
   {
-    "title": "США ввели санкції проти DKBA та тайських компаній через кібершахрайство",
-    "topic": "fraud",
-    "score": 190,
-    "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "08.10.2026",
-    "short": "Ризики шахрайства.",
-    "content": "США ввели санкції проти DKBA та тайських компаній через кібершахрайство",
-    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbkhraTVpUUwzX1ZWNDJhb0pySklHOURDU3JHdWtFZllqeEktQ3JLNGh1cWFuY2dXS1pKM2ZUM0ZqUFI5VmN1MEdCbl85aEtpV0ZvM3NmcDQ5UmMyVU9xMEhhbnFqSTR6SDRXRmdFYnRqOU8tQ0E2MHJMNFhxQUJVSzNJVGc1SzhWUkRLckpLNmhzME4wUnYtanAwVQ?oc=5",
-    "top": "top"
-  },
-  {
     "title": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
     "topic": "sanctions",
     "score": 175,
     "badge": "🔴 Санкції",
-    "date": "08.10.2026",
+    "date": "09.10.2026",
     "short": "Санкційний тиск.",
     "content": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
     "analysis": "FinAP: 🔴 Санкції — ключова подія.",
@@ -46,20 +32,21 @@
     "topic": "aml",
     "score": 170,
     "badge": "🟣 AML",
-    "date": "08.10.2026",
+    "date": "09.10.2026",
     "short": "Посилення фінмоніторингу.",
     "content": "НБУ закликав включити Росію до чорного списку групи з протидії відмиванню грошей FATF",
     "analysis": "FinAP: 🟣 AML — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlNlNEh5Y1dJelR0THlsTEcyNTZQaGUyZmpYV0JEM05haDJnaDBZbWJpZmhIU3I0ZkFhMlp4cjFxYjB6cWxkTF91c0U5NDRTT3dlRDR2NXhXeTJZWUpHZzB3Nk9VcHJiRnF4Q1N4T2ZRNVZkYVVnWGozd2VwS2VpY2lPbFJfTDA4Mmp6cVFjT1JjVkl40gGaAUFVX3lxTE9PS0U0RWY4YnN1dVpSLWZOOV9uSlBURVZUQmRBaFltSFVrb3J3NWpmWEVoR0JQY3NsOWVOOXJrZ1hvYzQtVmRRSHJ6TW5sMzRUTUhSQlFuQkpMQjBoWlZINEY2cTVwdGpiTHRUenlaMU1sOTNDUzFJeUJjVUExYXYzUVdFYTM2UnBHWHJ6THA3X2ZBZGMzUEdKVUE?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlNlNEh5Y1dJelR0THlsTEcyNTZQaGUyZmpYV0JEM05haDJnaDBZbWJpZmhIU3I0ZkFhMlp4cjFxYjB6cWxkTF91c0U5NDRTT3dlRDR2NXhXeTJZWUpHZzB3Nk9VcHJiRnF4Q1N4T2ZRNVZkYVVnWGozd2VwS2VpY2lPbFJfTDA4Mmp6cVFjT1JjVkl40gGaAUFVX3lxTE9PS0U0RWY4YnN1dVpSLWZOOV9uSlBURVZUQmRBaFltSFVrb3J3NWpmWEVoR0JQY3NsOWVOOXJrZ1hvYzQtVmRRSHJ6TW5sMzRUTUhSQlFuQkpMQjBoWlZINEY2cTVwdGpiTHRUenlaMU1sOTNDUzFJeUJjVUExYXYzUVdFYTM2UnBHWHJ6THA3X2ZBZGMzUEdKVUE?oc=5",
+    "top": "top"
   },
   {
     "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
     "topic": "fraud",
     "score": 150,
     "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "08.10.2026",
+    "date": "09.10.2026",
     "short": "Ризики шахрайства.",
     "content": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
     "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
@@ -68,11 +55,24 @@
     "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5"
   },
   {
+    "title": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
+    "topic": "fraud",
+    "score": 150,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "09.10.2026",
+    "short": "Ризики шахрайства.",
+    "content": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQkRBeUpHQk1zOEx3WDVPYndXMjVhb0ZNOFdBbzQ4anBMTEppNzk5VVVIMC1HbWs3aHpJSm5tREhQQl9iV1AxLXlrcmREU2dKM0RGcGJGNG5kNXpUOGw2MXVod3ZGdDhIbzZWdl9ZdTVGZ0JRem9FMktwTHgybXpGTVM3MXhSc1pCVnhucUpMclRlOFRwMWwzd1djMGNNUnZZMDRoNF9PSkhLV1d1cTlqMG9ndDRyWmpUNk9aVWNZQTVnVm1aa0N6a1ZuNnhDQ1ZJektjRUx30gHQAUFVX3lxTFBJbjhiNERkSHlxUzJPZkVicGlfSHBNZHdEZE9kMDQwQkJtYUlrdGdhSUVVMFdKcEFxUm9aZFpJdExmR1dBWEt6eWFQQ2Q4WnlCakFxZ0pPVU1FMGV1QjJYbld6bU52MFZESDY3UG52bU5ZZzh6RjZ5M2ZMRHBKSmNzRE5uWjJpMXRjazMzdm5kVlZLYXIzUVJFU1J3NUZ3dVB2ZGlZMnF1SHdjelNNaG83d1NHdGZJQjNneXctandDTzRTRHZUd0pGZ2RtQ1ltcXo?oc=5"
+  },
+  {
     "title": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
     "topic": "sanctions",
     "score": 145,
     "badge": "🔴 Санкції",
-    "date": "08.10.2026",
+    "date": "09.10.2026",
     "short": "Санкційний тиск.",
     "content": "НБУ почав повернення активів інвесторам Freedom Finance Україна після санкцій",
     "analysis": "FinAP: 🔴 Санкції — ключова подія.",
@@ -85,7 +85,7 @@
     "topic": "nbu",
     "score": 85,
     "badge": "🏦 НБУ",
-    "date": "08.10.2026",
+    "date": "09.10.2026",
     "short": "Рішення регулятора.",
     "content": "Україна розраховує отримати ще 95 млрд доларів міжнародної допомоги – НБУ",
     "analysis": "FinAP: 🏦 НБУ — ключова подія.",
@@ -98,7 +98,7 @@
     "topic": "nbu",
     "score": 85,
     "badge": "🏦 НБУ",
-    "date": "08.10.2026",
+    "date": "09.10.2026",
     "short": "Рішення регулятора.",
     "content": "Україна втратила частину міжнародних резервів: в НБУ назвали причини",
     "analysis": "FinAP: 🏦 НБУ — ключова подія.",
@@ -107,11 +107,24 @@
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOWE0d21MT0l4ZjBxV3VkeEpQNDhWeEtwZldMM1NfbVd2TzJQdlRaMExKZzBTTmJRZVh1YkFGbzd2UmoyX3l3Q1ltLUtLME5HUjNHd2JCUW9DdkMzQWxoLXFhdHVFMEZmamtWYThPUGJnNWU1LXM4clJpczFCY2ppU1I2eHBkOWVfc1JfbnpLSG90SGswSG9N0gGcAUFVX3lxTE5RTWo4Y1dmdzZZUklFQTdheWU0U1ZNNWVma1NpS1p5SDNWenRPdUl2NW13OHdoNk45bGxudUJPakdXWWJhY1Vwel9sek9NTGxvLUhqMHpJUVVjSzdFa3RvYUpWdDV1YXhOUG85OVlJNU12VHV6S1R0eHFfdmJ6d2JZUG5mYVBFNDNrRFpKdm9GV2FBMmhwdnNhQ1ZnNQ?oc=5"
   },
   {
+    "title": "Інвестиції окупилися: які дві монети від НБУ коштують кілька тисяч гривень",
+    "topic": "invest",
+    "score": 85,
+    "badge": "📈 Інвестиції",
+    "date": "09.10.2026",
+    "short": "Інвестиційний ринок.",
+    "content": "Інвестиції окупилися: які дві монети від НБУ коштують кілька тисяч гривень",
+    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/invest.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNFBWOVBycXpzRjNjOXN6UXJDb3BvLUxUd0VIdV9uQkZXMTZxc05LMmZET0tKdzJlcUdNWmh4UUlfN0E1S25WeFJCUVNkZjU4bVIyNnVKYld3QUN5azZmcmFlUlE1TnE1bTdGNkJpZzRqcC1UcjE5V1ljeVZ2d0RlMy1iS3RubVFVTXRjMkpITW96R3cwbDgycHZ3TXlZOF9KQ3hwSnRKb2tzZDJITVBibkFHeGNrai1PZnfSAb8BQVVfeXFMUGdMOHdEWE8tS1ZiOWNzYVZUSUswNC05V1ktdVVUU1d4a2Q1M1hfZ0gtM24xVV9MZjNuX1RyMV9yOXZSaGhVeTV0QXcxd0Z4aDY2Qmc0NmRtWGJQV2tnS0pDb2IyXzY3ZTRCQlNxa3Z1SW5sRFJZNTJsUWZFZWxPblluUVpYREhsdXdHeTdaTERRZ1BQb1RYeVNraU1WRHZlaW1WbTZqaVJ6VmhTeEYzRi1iVXI4V0RaQTFxbWJsbWM?oc=5"
+  },
+  {
     "title": "Пишний: НБУ готовий до прямого діалогу з іноземним бізнесом для залучення інвестицій в Україну",
     "topic": "invest",
     "score": 85,
     "badge": "📈 Інвестиції",
-    "date": "08.10.2026",
+    "date": "09.10.2026",
     "short": "Інвестиційний ринок.",
     "content": "Пишний: НБУ готовий до прямого діалогу з іноземним бізнесом для залучення інвестицій в Україну",
     "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
@@ -120,21 +133,8 @@
     "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnSFVmeW93UWdkZmRhSnhYTDJQZWl6QUlmWTZOSGozMGJobDVYZ205QWhQdUdvNnlOVEh2Ulk1ZVpNcHdtNnlSdUJQaUU4eWlHRktpNlFuMnozOHVtUFlr0gFkQVVfeXFMUGcwNDNkREszQS1NZnFPVDZFUWxjSU9yeXR4ZjRKSm1TUlBaMGtZNkJpZjJqYi1yTjFzdVlTYnhub0xNYmJjMGluT0tlSF90SHBUZmRqUl9IeHpJbk9zVldkaWhCUw?oc=5"
   },
   {
-    "title": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
-    "topic": "invest",
-    "score": 85,
-    "badge": "📈 Інвестиції",
-    "date": "08.10.2026",
-    "short": "Інвестиційний ринок.",
-    "content": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
-    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/invest.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zTDllbVZYcmMzR1FrODBLNXJRVGNLT05OT3gteVZSbmlVYkVpZkIxSi1XakkwSDRMTzJJVVpOb1VjRy1RN0NSQmhYWG9ILVFvU0c3SzRYSdIBWkFVX3lxTE1RMmxpN3pNVTVMbnA2WlA3TDNDeXZtQ3R2cFRYSy1iVjFSNi1jU1F2YlA0ZWZBaVJZUGhUdlRNc1l3bjl4TmFSbGR1MzlFTlA1VkJfVEdZYkFQZw?oc=5"
-  },
-  {
     "meta": {
-      "updated": "2026-10-08T18:37:04.963Z",
+      "updated": "2026-10-09T01:03:02.003Z",
       "count": 10
     }
   }
