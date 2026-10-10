@@ -1,19 +1,5 @@
 [
   {
-    "title": "НБУ закликав виключити Росію з країн-членів міжнародної групи FATF",
-    "topic": "aml",
-    "score": 200,
-    "badge": "🟣 AML",
-    "date": "10.10.2026",
-    "short": "Посилення фінмоніторингу.",
-    "content": "НБУ закликав виключити Росію з країн-членів міжнародної групи FATF",
-    "analysis": "FinAP: 🟣 AML — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1BvS1k5TlF0MjBuRGx1NUJLbGw0V29vSnpxNVI3T3VyWmJ3d0w2Q0xmdkNIR0cxYXFhTHJPUDhwZmJxVnowVHd1b3BsNXVnM3FzN01zNE9QNzFWN1FrMHBnMkg3MEwxNWo2Z044M2d1SDQ4WlQ4R2xpamVRNHZqUElVUEl4MU1IaWdEN0xLd3ZPMG9x0gGaAUFVX3lxTE96bzIzRUtXczdGUHJVekhNeXJSSGFlVkJ2YldJN0VIS0ZjcnZ6UHdQWVU5U3B0cUNfRGs5cWJCRVhTejBIdnNvXzR3bHdhQU11ckFNZmFCaVZoUmRXV0RzNHFEWHM3MHhtZG9Tbms1cXFyczNqTkE2NmNkMHl2QzlXcUN6cWZldC1zZGlpaEljY2ZhQ0Q2U19RVmc?oc=5",
-    "top": "main"
-  },
-  {
     "title": "Токсичний Дубінський. НБУ попередив банки про ризики ведення справ з особами, які потрапили під санкції США — документ",
     "topic": "sanctions",
     "score": 175,
@@ -25,7 +11,7 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/sanctions.jpeg",
     "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM3k4X0p6UkRUakh6cHNUVzRtVXd1UkdWLUpGQkVZdDZGSDdfekFYUlNYdEtBczZBU1ROYWdIZldaVTdCcm5IUkdJcmgwZWNoNi1rZTJBbDJkd2phYTU5c2o2TDBnOHBEVlo3R0d4U2NYX0pDeGtwbjF1MjVYQldyZkRoX0lMZFFVVmxQMEVXQmJpRzhYM3dObnRsMWJqc25GZk5sMlc5dXBNWnBpUHEydXBTNnk1aXJHYmpkOElVb2FTTlNya0EyM1RRWWlkdjhpTG1kOXNrTdIB0gFBVV95cUxPOG9QRzBjQmNobmtrR1lySEFNQVoxRk13S1lkeWJuLUh3Ri1JenNqTkNNWUVyTDlLX1haNzJ4MlRubEFmY05kRzlLamRyQjhrWE5QU3JaTU9xTGVuRlVTbTA3UUxJRENubmFLeTJIa3dPeFFnNkJsclIySWtQcTlKaUFvZjUyS0ZkS2lJektwRllSZmU3QklCRnllQTlrcDZYUk1qNm9DYjV1Smo0TERDSHM1c2VmWkRQMjRGdnN2V29QSXVLa0NzcVRNQmZJcHFIRWc?oc=5",
-    "top": "top"
+    "top": "main"
   },
   {
     "title": "НБУ закликав включити Росію до чорного списку групи з протидії відмиванню грошей FATF",
@@ -39,6 +25,20 @@
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
     "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlNlNEh5Y1dJelR0THlsTEcyNTZQaGUyZmpYV0JEM05haDJnaDBZbWJpZmhIU3I0ZkFhMlp4cjFxYjB6cWxkTF91c0U5NDRTT3dlRDR2NXhXeTJZWUpHZzB3Nk9VcHJiRnF4Q1N4T2ZRNVZkYVVnWGozd2VwS2VpY2lPbFJfTDA4Mmp6cVFjT1JjVkl40gGaAUFVX3lxTE9PS0U0RWY4YnN1dVpSLWZOOV9uSlBURVZUQmRBaFltSFVrb3J3NWpmWEVoR0JQY3NsOWVOOXJrZ1hvYzQtVmRRSHJ6TW5sMzRUTUhSQlFuQkpMQjBoWlZINEY2cTVwdGpiTHRUenlaMU1sOTNDUzFJeUJjVUExYXYzUVdFYTM2UnBHWHJ6THA3X2ZBZGMzUEdKVUE?oc=5",
+    "top": "top"
+  },
+  {
+    "title": "НБУ виписав мільйонні штрафи банкам: хто потрапив під санкції через фінмоніторинг",
+    "topic": "aml",
+    "score": 150,
+    "badge": "🟣 AML",
+    "date": "10.10.2026",
+    "short": "Посилення фінмоніторингу.",
+    "content": "НБУ виписав мільйонні штрафи банкам: хто потрапив під санкції через фінмоніторинг",
+    "analysis": "FinAP: 🟣 AML — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/aml.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sc1NjVUFpb2hwWVBCcHJfWDJZMExqNHFJQXdBR09fNVpPN1NyZFdZV2NBMUR2NFVSX2RnV1Y2eE45WmQzMGJaSUtHejF3a3VYU2tycG4zejllUnJvMHBRbEh6T3B6U212?oc=5",
     "top": "top"
   },
   {
@@ -134,7 +134,7 @@
   },
   {
     "meta": {
-      "updated": "2026-10-10T17:06:50.577Z",
+      "updated": "2026-10-10T21:19:36.899Z",
       "count": 10
     }
   }
