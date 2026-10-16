@@ -28,20 +28,6 @@
     "top": "top"
   },
   {
-    "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
-    "topic": "fraud",
-    "score": 150,
-    "badge": "⚠️ ШАХРАЙСТВО",
-    "date": "16.10.2026",
-    "short": "Ризики шахрайства.",
-    "content": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
-    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
-    "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/fraud.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5",
-    "top": "top"
-  },
-  {
     "title": "НБУ виписав мільйонні штрафи банкам: хто потрапив під санкції через фінмоніторинг",
     "topic": "aml",
     "score": 150,
@@ -52,7 +38,21 @@
     "analysis": "FinAP: 🟣 AML — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
     "image": "images/news/aml.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sc1NjVUFpb2hwWVBCcHJfWDJZMExqNHFJQXdBR09fNVpPN1NyZFdZV2NBMUR2NFVSX2RnV1Y2eE45WmQzMGJaSUtHejF3a3VYU2tycG4zejllUnJvMHBRbEh6T3B6U212?oc=5"
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sc1NjVUFpb2hwWVBCcHJfWDJZMExqNHFJQXdBR09fNVpPN1NyZFdZV2NBMUR2NFVSX2RnV1Y2eE45WmQzMGJaSUtHejF3a3VYU2tycG4zejllUnJvMHBRbEh6T3B6U212?oc=5",
+    "top": "top"
+  },
+  {
+    "title": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
+    "topic": "fraud",
+    "score": 150,
+    "badge": "⚠️ ШАХРАЙСТВО",
+    "date": "16.10.2026",
+    "short": "Ризики шахрайства.",
+    "content": "Обмінні пункти \"Кит Груп\" займаються нелегальним обміном крипти і працювали в рф навіть після початку війни. До шахрайських схем причетні високопосадовці НБУ та нардеп Олександр Бакумов",
+    "analysis": "FinAP: ⚠️ ШАХРАЙСТВО — ключова подія.",
+    "impact": "Вплив на фінансовий сектор.",
+    "image": "images/news/fraud.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOYjVuR2hISUV3cnYzUGd5d3JoZ3ZGVlptM0VwNlMzcFNHdGowYmxvQTlOcUdQNnJXN2ZibU9MSlkyamdRU2RGQkR4NUtfOVNpV1J2TDhLcnZyd0w5dUZtdHVKRzBscXNmMEdpTFVUQmx1ckRqM2xfLU9hWXY5NjR2Zk45V1NSRmlSZU9zTHdiS1Bvb1g1VHZET0hEYkRmeTdfcTkxamp1S1lnNnBuSXZabFcxZU1aS3REajFUSGx6Ni1lNUljT0RQS3FqWk9ud1dvYk54YVVnd1c0WjFxNHlNV1hJSkVFRzZaaE5KSzJ4ZV9rMWkzX3kwYTRWWllkTEZySjJNeGMyRDg0QWZrZ09scGRLbkZOc2FnWnFWNGtDMW5md0U3Rk5zSWZoLTlWZw?oc=5"
   },
   {
     "title": "НБУ показав схему. Збитки від шахрайства з платіжними картками в Україні зросли на понад третину — як обманюють найбільше",
@@ -94,17 +94,17 @@
     "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNmp2TUhQcVBWNkViNDlpWWoyOS10enNTaTBkOVVLMXJWWVRsRXFpLUxLbFhHckN0cG5JQWR2WExiekdDd1VpRXlUZDVBM2lBLXdCMEhVNzU2MDJmcy1fMEFqdHk5R2I5a1NSOA?oc=5"
   },
   {
-    "title": "Бізнес під тиском валютних лімітів: чому обмеження НБУ залишаються головним бар’єром для інвесторів в Україну — Олександр Водовіз",
-    "topic": "invest",
+    "title": "Україна втратила частину міжнародних резервів: в НБУ назвали причини",
+    "topic": "nbu",
     "score": 85,
-    "badge": "📈 Інвестиції",
+    "badge": "🏦 НБУ",
     "date": "16.10.2026",
-    "short": "Інвестиційний ринок.",
-    "content": "Бізнес під тиском валютних лімітів: чому обмеження НБУ залишаються головним бар’єром для інвесторів в Україну — Олександр Водовіз",
-    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
+    "short": "Рішення регулятора.",
+    "content": "Україна втратила частину міжнародних резервів: в НБУ назвали причини",
+    "analysis": "FinAP: 🏦 НБУ — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/invest.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbjg5OFF3djlTOXBLVjEzNlpZNEJva3RtbnJnT3hId0xPcmlvQ3pTMHNHY21fcWZyb3ZiNXR2ZEp2Y2cwV29CMVdMSnlpY0hkcnk1c2VMd0owODd3YnYzdjM4OFZBTndqWlI5MV9LSFZfWTZRTmsyVTVDeEpPMkVLWnNsTU91bUgxeGdwVlF0WDBIVkNLVWRIMUVxNjV0aVZkbVFDLVQ5R1VBM21KaEV1aVBnTGlhQ2xpRG9MdHhJTWZEWWtSdmVid2ZKY1ZGVWtqa0MtZVVaRnlDWnl3cFdjQTNwYWdfX0VwZzJBbDM5ZzBjaGZrU29lTzVB?oc=5"
+    "image": "images/news/nbu.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOWE0d21MT0l4ZjBxV3VkeEpQNDhWeEtwZldMM1NfbVd2TzJQdlRaMExKZzBTTmJRZVh1YkFGbzd2UmoyX3l3Q1ltLUtLME5HUjNHd2JCUW9DdkMzQWxoLXFhdHVFMEZmamtWYThPUGJnNWU1LXM4clJpczFCY2ppU1I2eHBkOWVfc1JfbnpLSG90SGswSG9N0gGcAUFVX3lxTE5RTWo4Y1dmdzZZUklFQTdheWU0U1ZNNWVma1NpS1p5SDNWenRPdUl2NW13OHdoNk45bGxudUJPakdXWWJhY1Vwel9sek9NTGxvLUhqMHpJUVVjSzdFa3RvYUpWdDV1YXhOUG85OVlJNU12VHV6S1R0eHFfdmJ6d2JZUG5mYVBFNDNrRFpKdm9GV2FBMmhwdnNhQ1ZnNQ?oc=5"
   },
   {
     "title": "Відставка голови НБУ. Як звільнення Смолія вплине на інвестиційний клімат України?",
@@ -120,21 +120,21 @@
     "source": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zTDllbVZYcmMzR1FrODBLNXJRVGNLT05OT3gteVZSbmlVYkVpZkIxSi1XakkwSDRMTzJJVVpOb1VjRy1RN0NSQmhYWG9ILVFvU0c3SzRYSdIBWkFVX3lxTE1RMmxpN3pNVTVMbnA2WlA3TDNDeXZtQ3R2cFRYSy1iVjFSNi1jU1F2YlA0ZWZBaVJZUGhUdlRNc1l3bjl4TmFSbGR1MzlFTlA1VkJfVEdZYkFQZw?oc=5"
   },
   {
-    "title": "Українці обходять валютні обмеження НБУ за допомогою уряду США. Реакція регулятора",
-    "topic": "nbu",
+    "title": "Бізнес під тиском валютних лімітів: чому обмеження НБУ залишаються головним бар’єром для інвесторів в Україну — Олександр Водовіз",
+    "topic": "invest",
     "score": 85,
-    "badge": "🏦 НБУ",
+    "badge": "📈 Інвестиції",
     "date": "16.10.2026",
-    "short": "Рішення регулятора.",
-    "content": "Українці обходять валютні обмеження НБУ за допомогою уряду США. Реакція регулятора",
-    "analysis": "FinAP: 🏦 НБУ — ключова подія.",
+    "short": "Інвестиційний ринок.",
+    "content": "Бізнес під тиском валютних лімітів: чому обмеження НБУ залишаються головним бар’єром для інвесторів в Україну — Олександр Водовіз",
+    "analysis": "FinAP: 📈 Інвестиції — ключова подія.",
     "impact": "Вплив на фінансовий сектор.",
-    "image": "images/news/nbu.jpeg",
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGR5T2xBWmhNRWVfRXJQUHgzUkZiUVdRVTFPRThaWmoyMGJEWmczN0xIXzU0R20wUkU0SXVkMkpqMFpOaEpyT2ZJZW9DbU1hQ01xRFprUWhENmRGaVJ6Skpwcmo3aFFiOVVZMnp4dXhrRUVCbExSNG1WYU9nVDc4RUNXYjBlTFltYmNOUWl1NERKdG1lTGd6MDYwQUNGRjFqZ0tINtIBsAFBVV95cUxQQnFWSTBIWXMxaXI0Sl9wYXRrZHV4bGFmcXd6eFZjT1l1R0U0SVZKMDZaVklpeFRFQUJwSWxEOEFiZTJUMTJwODB2VTljaU5rUGFJRTZEWW5CSjFIMmUxdjF5V2FBRUNjNEEzX2NqQVFFYWRhWnk1QV9PSUloTExsLWRpUHBDZVktTDQzQzBaYklUamU4MmFQMTBqQmd2U095dkxmMnpxOFB1clRQSDdLMQ?oc=5"
+    "image": "images/news/invest.jpeg",
+    "source": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbjg5OFF3djlTOXBLVjEzNlpZNEJva3RtbnJnT3hId0xPcmlvQ3pTMHNHY21fcWZyb3ZiNXR2ZEp2Y2cwV29CMVdMSnlpY0hkcnk1c2VMd0owODd3YnYzdjM4OFZBTndqWlI5MV9LSFZfWTZRTmsyVTVDeEpPMkVLWnNsTU91bUgxeGdwVlF0WDBIVkNLVWRIMUVxNjV0aVZkbVFDLVQ5R1VBM21KaEV1aVBnTGlhQ2xpRG9MdHhJTWZEWWtSdmVid2ZKY1ZGVWtqa0MtZVVaRnlDWnl3cFdjQTNwYWdfX0VwZzJBbDM5ZzBjaGZrU29lTzVB?oc=5"
   },
   {
     "meta": {
-      "updated": "2026-10-16T03:41:45.492Z",
+      "updated": "2026-10-16T10:58:50.694Z",
       "count": 10
     }
   }
